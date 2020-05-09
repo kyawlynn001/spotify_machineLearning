@@ -1,0 +1,1001 @@
+artist_name,track_name,popularity,track_id,track_uri,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration,genre
+"Earth, Wind & Fire",September,82,7Cuk8jsPPoNYQWXK9XRFvG,spotify:track:7Cuk8jsPPoNYQWXK9XRFvG,0.694,0.831,-7.288,0.0301,0.165,0.000892,0.25,0.98,125.901,215080,jazz
+Louis Armstrong,What A Wonderful World - Single Version,68,29U7stRjqHU6rMiS8BfaI9,spotify:track:29U7stRjqHU6rMiS8BfaI9,0.271,0.165,-20.652,0.0351,0.729,1.6e-06,0.118,0.203,77.082,139227,jazz
+Leslie Odom Jr.,Alexander Hamilton,71,4TTV7EcfroSLWzXRY6gLv6,spotify:track:4TTV7EcfroSLWzXRY6gLv6,0.609,0.435,-7.862,0.284,0.524,0.0,0.118,0.563,131.998,236738,jazz
+Etta James,At Last,75,4Hhv2vrOTy89HFRcjU3QOx,spotify:track:4Hhv2vrOTy89HFRcjU3QOx,0.273,0.347,-8.631,0.0292,0.546,0.0137,0.334,0.328,87.411,179693,jazz
+"Grover Washington, Jr.",Just the Two of Us (feat. Bill Withers),71,1ko2lVN0vKGUl9zrU0qSlT,spotify:track:1ko2lVN0vKGUl9zrU0qSlT,0.803,0.488,-9.303,0.0803,0.576,0.0609,0.0763,0.624,95.771,237106,jazz
+Ella Fitzgerald,Dream A Little Dream Of Me - Single Version,72,78MI7mu1LV1k4IA2HzKmHe,spotify:track:78MI7mu1LV1k4IA2HzKmHe,0.443,0.104,-17.042,0.101,0.913,0.0,0.191,0.394,76.497,185160,jazz
+Norah Jones,Don't Know Why,74,6ybViy2qrO9sIi41EgRJgx,spotify:track:6ybViy2qrO9sIi41EgRJgx,0.732,0.198,-11.775,0.028,0.883,1.1e-05,0.0659,0.618,88.174,186147,jazz
+Nina Simone,Feeling Good,74,6Rqn2GFlmvmV4w9Ala0I1e,spotify:track:6Rqn2GFlmvmV4w9Ala0I1e,0.399,0.326,-9.239,0.0386,0.864,0.0,0.191,0.546,79.206,174000,jazz
+Etta James,I'd Rather Go Blind,69,1kPBT8S2wJFNAyBMnGVZgL,spotify:track:1kPBT8S2wJFNAyBMnGVZgL,0.477,0.433,-6.473,0.0247,0.689,0.000195,0.151,0.611,82.52,156653,jazz
+Norah Jones,Come Away With Me,72,0Cvjlph1WGbwZY1PlMEtJY,spotify:track:0Cvjlph1WGbwZY1PlMEtJY,0.363,0.129,-14.304,0.0322,0.904,1.52e-06,0.157,0.147,80.367,198147,jazz
+Duke Ellington,In A Sentimental Mood,67,0E8q2Fx2XuzXCO2NSAppkR,spotify:track:0E8q2Fx2XuzXCO2NSAppkR,0.464,0.305,-12.435,0.0316,0.936,0.0846,0.208,0.282,108.229,255227,jazz
+Leslie Odom Jr.,Dear Theodosia,65,2sEq2rC3ynYsT49x7utWnd,spotify:track:2sEq2rC3ynYsT49x7utWnd,0.601,0.222,-10.485,0.0303,0.906,4.11e-05,0.0723,0.271,106.754,184004,jazz
+Caravan Palace,Lone Digger,60,0thLhIqWsqqycEqFONOyhu,spotify:track:0thLhIqWsqqycEqFONOyhu,0.769,0.924,-5.263,0.051,0.596,0.0156,0.114,0.88,123.989,229805,jazz
+Louis Armstrong,La vie en rose - Single Version,65,1UH4viviUjZnS9aWgPGrk0,spotify:track:1UH4viviUjZnS9aWgPGrk0,0.507,0.0779,-12.099,0.0544,0.866,0.00275,0.108,0.326,70.808,204400,jazz
+Norah Jones,Sunrise,72,7zkLpY72g6lKQbiHDqri1S,spotify:track:7zkLpY72g6lKQbiHDqri1S,0.526,0.299,-13.797,0.031,0.941,0.097,0.106,0.679,156.848,200627,jazz
+Miles Davis,Blue in Green,66,0aWMVrwxPNYkKmFthzmpRi,spotify:track:0aWMVrwxPNYkKmFthzmpRi,0.421,0.0161,-25.358,0.0374,0.81,0.0021,0.0978,0.16,110.926,337733,jazz
+Chet Baker,I Fall In Love Too Easily - Vocal Version,65,0F845nujLVqCb0XMZCh5Pc,spotify:track:0F845nujLVqCb0XMZCh5Pc,0.532,0.0657,-19.136,0.0406,0.94,0.00488,0.0946,0.292,128.607,201440,jazz
+Nat King Cole,L-O-V-E,69,4QxDOjgpYtQDxxbWPuEJOy,spotify:track:4QxDOjgpYtQDxxbWPuEJOy,0.425,0.373,-7.543,0.0797,0.679,0.0,0.077,0.663,78.225,155307,jazz
+Etta James,A Sunday Kind Of Love,66,0zGLlXbHlrAyBN1x6sY0rb,spotify:track:0zGLlXbHlrAyBN1x6sY0rb,0.418,0.285,-9.43,0.0291,0.83,1.53e-06,0.233,0.4,86.13,196133,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,What A Wonderful World - Single Version,68,29U7stRjqHU6rMiS8BfaI9,spotify:track:29U7stRjqHU6rMiS8BfaI9,0.271,0.165,-20.652,0.0351,0.729,1.6e-06,0.118,0.203,77.082,139227,jazz
+Leslie Odom Jr.,Alexander Hamilton,71,4TTV7EcfroSLWzXRY6gLv6,spotify:track:4TTV7EcfroSLWzXRY6gLv6,0.609,0.435,-7.862,0.284,0.524,0.0,0.118,0.563,131.998,236738,jazz
+Etta James,At Last,75,4Hhv2vrOTy89HFRcjU3QOx,spotify:track:4Hhv2vrOTy89HFRcjU3QOx,0.273,0.347,-8.631,0.0292,0.546,0.0137,0.334,0.328,87.411,179693,jazz
+"Grover Washington, Jr.",Just the Two of Us (feat. Bill Withers),71,1ko2lVN0vKGUl9zrU0qSlT,spotify:track:1ko2lVN0vKGUl9zrU0qSlT,0.803,0.488,-9.303,0.0803,0.576,0.0609,0.0763,0.624,95.771,237106,jazz
+Ella Fitzgerald,Dream A Little Dream Of Me - Single Version,72,78MI7mu1LV1k4IA2HzKmHe,spotify:track:78MI7mu1LV1k4IA2HzKmHe,0.443,0.104,-17.042,0.101,0.913,0.0,0.191,0.394,76.497,185160,jazz
+Norah Jones,Don't Know Why,74,6ybViy2qrO9sIi41EgRJgx,spotify:track:6ybViy2qrO9sIi41EgRJgx,0.732,0.198,-11.775,0.028,0.883,1.1e-05,0.0659,0.618,88.174,186147,jazz
+Nina Simone,Feeling Good,74,6Rqn2GFlmvmV4w9Ala0I1e,spotify:track:6Rqn2GFlmvmV4w9Ala0I1e,0.399,0.326,-9.239,0.0386,0.864,0.0,0.191,0.546,79.206,174000,jazz
+Etta James,I'd Rather Go Blind,69,1kPBT8S2wJFNAyBMnGVZgL,spotify:track:1kPBT8S2wJFNAyBMnGVZgL,0.477,0.433,-6.473,0.0247,0.689,0.000195,0.151,0.611,82.52,156653,jazz
+Norah Jones,Come Away With Me,72,0Cvjlph1WGbwZY1PlMEtJY,spotify:track:0Cvjlph1WGbwZY1PlMEtJY,0.363,0.129,-14.304,0.0322,0.904,1.52e-06,0.157,0.147,80.367,198147,jazz
+Duke Ellington,In A Sentimental Mood,67,0E8q2Fx2XuzXCO2NSAppkR,spotify:track:0E8q2Fx2XuzXCO2NSAppkR,0.464,0.305,-12.435,0.0316,0.936,0.0846,0.208,0.282,108.229,255227,jazz
+Leslie Odom Jr.,Dear Theodosia,65,2sEq2rC3ynYsT49x7utWnd,spotify:track:2sEq2rC3ynYsT49x7utWnd,0.601,0.222,-10.485,0.0303,0.906,4.11e-05,0.0723,0.271,106.754,184004,jazz
+Caravan Palace,Lone Digger,60,0thLhIqWsqqycEqFONOyhu,spotify:track:0thLhIqWsqqycEqFONOyhu,0.769,0.924,-5.263,0.051,0.596,0.0156,0.114,0.88,123.989,229805,jazz
+Louis Armstrong,La vie en rose - Single Version,65,1UH4viviUjZnS9aWgPGrk0,spotify:track:1UH4viviUjZnS9aWgPGrk0,0.507,0.0779,-12.099,0.0544,0.866,0.00275,0.108,0.326,70.808,204400,jazz
+Norah Jones,Sunrise,72,7zkLpY72g6lKQbiHDqri1S,spotify:track:7zkLpY72g6lKQbiHDqri1S,0.526,0.299,-13.797,0.031,0.941,0.097,0.106,0.679,156.848,200627,jazz
+Miles Davis,Blue in Green,66,0aWMVrwxPNYkKmFthzmpRi,spotify:track:0aWMVrwxPNYkKmFthzmpRi,0.421,0.0161,-25.358,0.0374,0.81,0.0021,0.0978,0.16,110.926,337733,jazz
+Chet Baker,I Fall In Love Too Easily - Vocal Version,65,0F845nujLVqCb0XMZCh5Pc,spotify:track:0F845nujLVqCb0XMZCh5Pc,0.532,0.0657,-19.136,0.0406,0.94,0.00488,0.0946,0.292,128.607,201440,jazz
+Nat King Cole,L-O-V-E,69,4QxDOjgpYtQDxxbWPuEJOy,spotify:track:4QxDOjgpYtQDxxbWPuEJOy,0.425,0.373,-7.543,0.0797,0.679,0.0,0.077,0.663,78.225,155307,jazz
+Etta James,A Sunday Kind Of Love,66,0zGLlXbHlrAyBN1x6sY0rb,spotify:track:0zGLlXbHlrAyBN1x6sY0rb,0.418,0.285,-9.43,0.0291,0.83,1.53e-06,0.233,0.4,86.13,196133,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,Summertime,66,2gNjmvuQiEd2z9SqyYi8HH,spotify:track:2gNjmvuQiEd2z9SqyYi8HH,0.172,0.0696,-21.295,0.0339,0.916,0.00199,0.137,0.103,167.974,298133,jazz
+Leslie Odom Jr.,Alexander Hamilton,71,4TTV7EcfroSLWzXRY6gLv6,spotify:track:4TTV7EcfroSLWzXRY6gLv6,0.609,0.435,-7.862,0.284,0.524,0.0,0.118,0.563,131.998,236738,jazz
+Etta James,At Last,75,4Hhv2vrOTy89HFRcjU3QOx,spotify:track:4Hhv2vrOTy89HFRcjU3QOx,0.273,0.347,-8.631,0.0292,0.546,0.0137,0.334,0.328,87.411,179693,jazz
+"Grover Washington, Jr.",Just the Two of Us (feat. Bill Withers),71,1ko2lVN0vKGUl9zrU0qSlT,spotify:track:1ko2lVN0vKGUl9zrU0qSlT,0.803,0.488,-9.303,0.0803,0.576,0.0609,0.0763,0.624,95.771,237106,jazz
+Ella Fitzgerald,Dream A Little Dream Of Me - Single Version,72,78MI7mu1LV1k4IA2HzKmHe,spotify:track:78MI7mu1LV1k4IA2HzKmHe,0.443,0.104,-17.042,0.101,0.913,0.0,0.191,0.394,76.497,185160,jazz
+Norah Jones,Don't Know Why,74,6ybViy2qrO9sIi41EgRJgx,spotify:track:6ybViy2qrO9sIi41EgRJgx,0.732,0.198,-11.775,0.028,0.883,1.1e-05,0.0659,0.618,88.174,186147,jazz
+Nina Simone,Feeling Good,74,6Rqn2GFlmvmV4w9Ala0I1e,spotify:track:6Rqn2GFlmvmV4w9Ala0I1e,0.399,0.326,-9.239,0.0386,0.864,0.0,0.191,0.546,79.206,174000,jazz
+Etta James,I'd Rather Go Blind,69,1kPBT8S2wJFNAyBMnGVZgL,spotify:track:1kPBT8S2wJFNAyBMnGVZgL,0.477,0.433,-6.473,0.0247,0.689,0.000195,0.151,0.611,82.52,156653,jazz
+Norah Jones,Come Away With Me,72,0Cvjlph1WGbwZY1PlMEtJY,spotify:track:0Cvjlph1WGbwZY1PlMEtJY,0.363,0.129,-14.304,0.0322,0.904,1.52e-06,0.157,0.147,80.367,198147,jazz
+Duke Ellington,In A Sentimental Mood,67,0E8q2Fx2XuzXCO2NSAppkR,spotify:track:0E8q2Fx2XuzXCO2NSAppkR,0.464,0.305,-12.435,0.0316,0.936,0.0846,0.208,0.282,108.229,255227,jazz
+Leslie Odom Jr.,Dear Theodosia,65,2sEq2rC3ynYsT49x7utWnd,spotify:track:2sEq2rC3ynYsT49x7utWnd,0.601,0.222,-10.485,0.0303,0.906,4.11e-05,0.0723,0.271,106.754,184004,jazz
+Caravan Palace,Lone Digger,60,0thLhIqWsqqycEqFONOyhu,spotify:track:0thLhIqWsqqycEqFONOyhu,0.769,0.924,-5.263,0.051,0.596,0.0156,0.114,0.88,123.989,229805,jazz
+Louis Armstrong,La vie en rose - Single Version,65,1UH4viviUjZnS9aWgPGrk0,spotify:track:1UH4viviUjZnS9aWgPGrk0,0.507,0.0779,-12.099,0.0544,0.866,0.00275,0.108,0.326,70.808,204400,jazz
+Norah Jones,Sunrise,72,7zkLpY72g6lKQbiHDqri1S,spotify:track:7zkLpY72g6lKQbiHDqri1S,0.526,0.299,-13.797,0.031,0.941,0.097,0.106,0.679,156.848,200627,jazz
+Miles Davis,Blue in Green,66,0aWMVrwxPNYkKmFthzmpRi,spotify:track:0aWMVrwxPNYkKmFthzmpRi,0.421,0.0161,-25.358,0.0374,0.81,0.0021,0.0978,0.16,110.926,337733,jazz
+Chet Baker,I Fall In Love Too Easily - Vocal Version,65,0F845nujLVqCb0XMZCh5Pc,spotify:track:0F845nujLVqCb0XMZCh5Pc,0.532,0.0657,-19.136,0.0406,0.94,0.00488,0.0946,0.292,128.607,201440,jazz
+Nat King Cole,L-O-V-E,69,4QxDOjgpYtQDxxbWPuEJOy,spotify:track:4QxDOjgpYtQDxxbWPuEJOy,0.425,0.373,-7.543,0.0797,0.679,0.0,0.077,0.663,78.225,155307,jazz
+Etta James,A Sunday Kind Of Love,66,0zGLlXbHlrAyBN1x6sY0rb,spotify:track:0zGLlXbHlrAyBN1x6sY0rb,0.418,0.285,-9.43,0.0291,0.83,1.53e-06,0.233,0.4,86.13,196133,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,Summertime,66,2gNjmvuQiEd2z9SqyYi8HH,spotify:track:2gNjmvuQiEd2z9SqyYi8HH,0.172,0.0696,-21.295,0.0339,0.916,0.00199,0.137,0.103,167.974,298133,jazz
+Nina Simone,I Put A Spell On You,66,0sjxRg1VlYfx4YG7uxurrq,spotify:track:0sjxRg1VlYfx4YG7uxurrq,0.42,0.398,-9.13,0.0296,0.755,0.000537,0.172,0.364,88.897,155027,jazz
+Etta James,At Last,75,4Hhv2vrOTy89HFRcjU3QOx,spotify:track:4Hhv2vrOTy89HFRcjU3QOx,0.273,0.347,-8.631,0.0292,0.546,0.0137,0.334,0.328,87.411,179693,jazz
+"Grover Washington, Jr.",Just the Two of Us (feat. Bill Withers),71,1ko2lVN0vKGUl9zrU0qSlT,spotify:track:1ko2lVN0vKGUl9zrU0qSlT,0.803,0.488,-9.303,0.0803,0.576,0.0609,0.0763,0.624,95.771,237106,jazz
+Ella Fitzgerald,Dream A Little Dream Of Me - Single Version,72,78MI7mu1LV1k4IA2HzKmHe,spotify:track:78MI7mu1LV1k4IA2HzKmHe,0.443,0.104,-17.042,0.101,0.913,0.0,0.191,0.394,76.497,185160,jazz
+Norah Jones,Don't Know Why,74,6ybViy2qrO9sIi41EgRJgx,spotify:track:6ybViy2qrO9sIi41EgRJgx,0.732,0.198,-11.775,0.028,0.883,1.1e-05,0.0659,0.618,88.174,186147,jazz
+Nina Simone,Feeling Good,74,6Rqn2GFlmvmV4w9Ala0I1e,spotify:track:6Rqn2GFlmvmV4w9Ala0I1e,0.399,0.326,-9.239,0.0386,0.864,0.0,0.191,0.546,79.206,174000,jazz
+Etta James,I'd Rather Go Blind,69,1kPBT8S2wJFNAyBMnGVZgL,spotify:track:1kPBT8S2wJFNAyBMnGVZgL,0.477,0.433,-6.473,0.0247,0.689,0.000195,0.151,0.611,82.52,156653,jazz
+Norah Jones,Come Away With Me,72,0Cvjlph1WGbwZY1PlMEtJY,spotify:track:0Cvjlph1WGbwZY1PlMEtJY,0.363,0.129,-14.304,0.0322,0.904,1.52e-06,0.157,0.147,80.367,198147,jazz
+Duke Ellington,In A Sentimental Mood,67,0E8q2Fx2XuzXCO2NSAppkR,spotify:track:0E8q2Fx2XuzXCO2NSAppkR,0.464,0.305,-12.435,0.0316,0.936,0.0846,0.208,0.282,108.229,255227,jazz
+Leslie Odom Jr.,Dear Theodosia,65,2sEq2rC3ynYsT49x7utWnd,spotify:track:2sEq2rC3ynYsT49x7utWnd,0.601,0.222,-10.485,0.0303,0.906,4.11e-05,0.0723,0.271,106.754,184004,jazz
+Caravan Palace,Lone Digger,60,0thLhIqWsqqycEqFONOyhu,spotify:track:0thLhIqWsqqycEqFONOyhu,0.769,0.924,-5.263,0.051,0.596,0.0156,0.114,0.88,123.989,229805,jazz
+Louis Armstrong,La vie en rose - Single Version,65,1UH4viviUjZnS9aWgPGrk0,spotify:track:1UH4viviUjZnS9aWgPGrk0,0.507,0.0779,-12.099,0.0544,0.866,0.00275,0.108,0.326,70.808,204400,jazz
+Norah Jones,Sunrise,72,7zkLpY72g6lKQbiHDqri1S,spotify:track:7zkLpY72g6lKQbiHDqri1S,0.526,0.299,-13.797,0.031,0.941,0.097,0.106,0.679,156.848,200627,jazz
+Miles Davis,Blue in Green,66,0aWMVrwxPNYkKmFthzmpRi,spotify:track:0aWMVrwxPNYkKmFthzmpRi,0.421,0.0161,-25.358,0.0374,0.81,0.0021,0.0978,0.16,110.926,337733,jazz
+Chet Baker,I Fall In Love Too Easily - Vocal Version,65,0F845nujLVqCb0XMZCh5Pc,spotify:track:0F845nujLVqCb0XMZCh5Pc,0.532,0.0657,-19.136,0.0406,0.94,0.00488,0.0946,0.292,128.607,201440,jazz
+Nat King Cole,L-O-V-E,69,4QxDOjgpYtQDxxbWPuEJOy,spotify:track:4QxDOjgpYtQDxxbWPuEJOy,0.425,0.373,-7.543,0.0797,0.679,0.0,0.077,0.663,78.225,155307,jazz
+Etta James,A Sunday Kind Of Love,66,0zGLlXbHlrAyBN1x6sY0rb,spotify:track:0zGLlXbHlrAyBN1x6sY0rb,0.418,0.285,-9.43,0.0291,0.83,1.53e-06,0.233,0.4,86.13,196133,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,Summertime,66,2gNjmvuQiEd2z9SqyYi8HH,spotify:track:2gNjmvuQiEd2z9SqyYi8HH,0.172,0.0696,-21.295,0.0339,0.916,0.00199,0.137,0.103,167.974,298133,jazz
+Nina Simone,I Put A Spell On You,66,0sjxRg1VlYfx4YG7uxurrq,spotify:track:0sjxRg1VlYfx4YG7uxurrq,0.42,0.398,-9.13,0.0296,0.755,0.000537,0.172,0.364,88.897,155027,jazz
+Bobby Darin,Beyond the Sea,67,3KzgdYUlqV6TOG7JCmx2Wg,spotify:track:3KzgdYUlqV6TOG7JCmx2Wg,0.521,0.516,-7.456,0.0369,0.723,0.0,0.257,0.569,136.483,172480,jazz
+"Grover Washington, Jr.",Just the Two of Us (feat. Bill Withers),71,1ko2lVN0vKGUl9zrU0qSlT,spotify:track:1ko2lVN0vKGUl9zrU0qSlT,0.803,0.488,-9.303,0.0803,0.576,0.0609,0.0763,0.624,95.771,237106,jazz
+Ella Fitzgerald,Dream A Little Dream Of Me - Single Version,72,78MI7mu1LV1k4IA2HzKmHe,spotify:track:78MI7mu1LV1k4IA2HzKmHe,0.443,0.104,-17.042,0.101,0.913,0.0,0.191,0.394,76.497,185160,jazz
+Norah Jones,Don't Know Why,74,6ybViy2qrO9sIi41EgRJgx,spotify:track:6ybViy2qrO9sIi41EgRJgx,0.732,0.198,-11.775,0.028,0.883,1.1e-05,0.0659,0.618,88.174,186147,jazz
+Nina Simone,Feeling Good,74,6Rqn2GFlmvmV4w9Ala0I1e,spotify:track:6Rqn2GFlmvmV4w9Ala0I1e,0.399,0.326,-9.239,0.0386,0.864,0.0,0.191,0.546,79.206,174000,jazz
+Etta James,I'd Rather Go Blind,69,1kPBT8S2wJFNAyBMnGVZgL,spotify:track:1kPBT8S2wJFNAyBMnGVZgL,0.477,0.433,-6.473,0.0247,0.689,0.000195,0.151,0.611,82.52,156653,jazz
+Norah Jones,Come Away With Me,72,0Cvjlph1WGbwZY1PlMEtJY,spotify:track:0Cvjlph1WGbwZY1PlMEtJY,0.363,0.129,-14.304,0.0322,0.904,1.52e-06,0.157,0.147,80.367,198147,jazz
+Duke Ellington,In A Sentimental Mood,67,0E8q2Fx2XuzXCO2NSAppkR,spotify:track:0E8q2Fx2XuzXCO2NSAppkR,0.464,0.305,-12.435,0.0316,0.936,0.0846,0.208,0.282,108.229,255227,jazz
+Leslie Odom Jr.,Dear Theodosia,65,2sEq2rC3ynYsT49x7utWnd,spotify:track:2sEq2rC3ynYsT49x7utWnd,0.601,0.222,-10.485,0.0303,0.906,4.11e-05,0.0723,0.271,106.754,184004,jazz
+Caravan Palace,Lone Digger,60,0thLhIqWsqqycEqFONOyhu,spotify:track:0thLhIqWsqqycEqFONOyhu,0.769,0.924,-5.263,0.051,0.596,0.0156,0.114,0.88,123.989,229805,jazz
+Louis Armstrong,La vie en rose - Single Version,65,1UH4viviUjZnS9aWgPGrk0,spotify:track:1UH4viviUjZnS9aWgPGrk0,0.507,0.0779,-12.099,0.0544,0.866,0.00275,0.108,0.326,70.808,204400,jazz
+Norah Jones,Sunrise,72,7zkLpY72g6lKQbiHDqri1S,spotify:track:7zkLpY72g6lKQbiHDqri1S,0.526,0.299,-13.797,0.031,0.941,0.097,0.106,0.679,156.848,200627,jazz
+Miles Davis,Blue in Green,66,0aWMVrwxPNYkKmFthzmpRi,spotify:track:0aWMVrwxPNYkKmFthzmpRi,0.421,0.0161,-25.358,0.0374,0.81,0.0021,0.0978,0.16,110.926,337733,jazz
+Chet Baker,I Fall In Love Too Easily - Vocal Version,65,0F845nujLVqCb0XMZCh5Pc,spotify:track:0F845nujLVqCb0XMZCh5Pc,0.532,0.0657,-19.136,0.0406,0.94,0.00488,0.0946,0.292,128.607,201440,jazz
+Nat King Cole,L-O-V-E,69,4QxDOjgpYtQDxxbWPuEJOy,spotify:track:4QxDOjgpYtQDxxbWPuEJOy,0.425,0.373,-7.543,0.0797,0.679,0.0,0.077,0.663,78.225,155307,jazz
+Etta James,A Sunday Kind Of Love,66,0zGLlXbHlrAyBN1x6sY0rb,spotify:track:0zGLlXbHlrAyBN1x6sY0rb,0.418,0.285,-9.43,0.0291,0.83,1.53e-06,0.233,0.4,86.13,196133,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,Summertime,66,2gNjmvuQiEd2z9SqyYi8HH,spotify:track:2gNjmvuQiEd2z9SqyYi8HH,0.172,0.0696,-21.295,0.0339,0.916,0.00199,0.137,0.103,167.974,298133,jazz
+Nina Simone,I Put A Spell On You,66,0sjxRg1VlYfx4YG7uxurrq,spotify:track:0sjxRg1VlYfx4YG7uxurrq,0.42,0.398,-9.13,0.0296,0.755,0.000537,0.172,0.364,88.897,155027,jazz
+Bobby Darin,Beyond the Sea,67,3KzgdYUlqV6TOG7JCmx2Wg,spotify:track:3KzgdYUlqV6TOG7JCmx2Wg,0.521,0.516,-7.456,0.0369,0.723,0.0,0.257,0.569,136.483,172480,jazz
+Aretha Franklin,(You Make Me Feel Like) A Natural Woman,69,5K09WxKdlkroDyEVyOSySy,spotify:track:5K09WxKdlkroDyEVyOSySy,0.65,0.323,-8.698,0.0283,0.213,0.0,0.187,0.276,110.962,166973,jazz
+Ella Fitzgerald,Dream A Little Dream Of Me - Single Version,72,78MI7mu1LV1k4IA2HzKmHe,spotify:track:78MI7mu1LV1k4IA2HzKmHe,0.443,0.104,-17.042,0.101,0.913,0.0,0.191,0.394,76.497,185160,jazz
+Norah Jones,Don't Know Why,74,6ybViy2qrO9sIi41EgRJgx,spotify:track:6ybViy2qrO9sIi41EgRJgx,0.732,0.198,-11.775,0.028,0.883,1.1e-05,0.0659,0.618,88.174,186147,jazz
+Nina Simone,Feeling Good,74,6Rqn2GFlmvmV4w9Ala0I1e,spotify:track:6Rqn2GFlmvmV4w9Ala0I1e,0.399,0.326,-9.239,0.0386,0.864,0.0,0.191,0.546,79.206,174000,jazz
+Etta James,I'd Rather Go Blind,69,1kPBT8S2wJFNAyBMnGVZgL,spotify:track:1kPBT8S2wJFNAyBMnGVZgL,0.477,0.433,-6.473,0.0247,0.689,0.000195,0.151,0.611,82.52,156653,jazz
+Norah Jones,Come Away With Me,72,0Cvjlph1WGbwZY1PlMEtJY,spotify:track:0Cvjlph1WGbwZY1PlMEtJY,0.363,0.129,-14.304,0.0322,0.904,1.52e-06,0.157,0.147,80.367,198147,jazz
+Duke Ellington,In A Sentimental Mood,67,0E8q2Fx2XuzXCO2NSAppkR,spotify:track:0E8q2Fx2XuzXCO2NSAppkR,0.464,0.305,-12.435,0.0316,0.936,0.0846,0.208,0.282,108.229,255227,jazz
+Leslie Odom Jr.,Dear Theodosia,65,2sEq2rC3ynYsT49x7utWnd,spotify:track:2sEq2rC3ynYsT49x7utWnd,0.601,0.222,-10.485,0.0303,0.906,4.11e-05,0.0723,0.271,106.754,184004,jazz
+Caravan Palace,Lone Digger,60,0thLhIqWsqqycEqFONOyhu,spotify:track:0thLhIqWsqqycEqFONOyhu,0.769,0.924,-5.263,0.051,0.596,0.0156,0.114,0.88,123.989,229805,jazz
+Louis Armstrong,La vie en rose - Single Version,65,1UH4viviUjZnS9aWgPGrk0,spotify:track:1UH4viviUjZnS9aWgPGrk0,0.507,0.0779,-12.099,0.0544,0.866,0.00275,0.108,0.326,70.808,204400,jazz
+Norah Jones,Sunrise,72,7zkLpY72g6lKQbiHDqri1S,spotify:track:7zkLpY72g6lKQbiHDqri1S,0.526,0.299,-13.797,0.031,0.941,0.097,0.106,0.679,156.848,200627,jazz
+Miles Davis,Blue in Green,66,0aWMVrwxPNYkKmFthzmpRi,spotify:track:0aWMVrwxPNYkKmFthzmpRi,0.421,0.0161,-25.358,0.0374,0.81,0.0021,0.0978,0.16,110.926,337733,jazz
+Chet Baker,I Fall In Love Too Easily - Vocal Version,65,0F845nujLVqCb0XMZCh5Pc,spotify:track:0F845nujLVqCb0XMZCh5Pc,0.532,0.0657,-19.136,0.0406,0.94,0.00488,0.0946,0.292,128.607,201440,jazz
+Nat King Cole,L-O-V-E,69,4QxDOjgpYtQDxxbWPuEJOy,spotify:track:4QxDOjgpYtQDxxbWPuEJOy,0.425,0.373,-7.543,0.0797,0.679,0.0,0.077,0.663,78.225,155307,jazz
+Etta James,A Sunday Kind Of Love,66,0zGLlXbHlrAyBN1x6sY0rb,spotify:track:0zGLlXbHlrAyBN1x6sY0rb,0.418,0.285,-9.43,0.0291,0.83,1.53e-06,0.233,0.4,86.13,196133,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,Summertime,66,2gNjmvuQiEd2z9SqyYi8HH,spotify:track:2gNjmvuQiEd2z9SqyYi8HH,0.172,0.0696,-21.295,0.0339,0.916,0.00199,0.137,0.103,167.974,298133,jazz
+Nina Simone,I Put A Spell On You,66,0sjxRg1VlYfx4YG7uxurrq,spotify:track:0sjxRg1VlYfx4YG7uxurrq,0.42,0.398,-9.13,0.0296,0.755,0.000537,0.172,0.364,88.897,155027,jazz
+Bobby Darin,Beyond the Sea,67,3KzgdYUlqV6TOG7JCmx2Wg,spotify:track:3KzgdYUlqV6TOG7JCmx2Wg,0.521,0.516,-7.456,0.0369,0.723,0.0,0.257,0.569,136.483,172480,jazz
+Aretha Franklin,(You Make Me Feel Like) A Natural Woman,69,5K09WxKdlkroDyEVyOSySy,spotify:track:5K09WxKdlkroDyEVyOSySy,0.65,0.323,-8.698,0.0283,0.213,0.0,0.187,0.276,110.962,166973,jazz
+Nat King Cole,Smile,64,1oDCK7PW72XEZ1pE5rh87A,spotify:track:1oDCK7PW72XEZ1pE5rh87A,0.226,0.136,-19.203,0.0327,0.862,8.07e-06,0.302,0.263,79.37,173267,jazz
+Norah Jones,Don't Know Why,74,6ybViy2qrO9sIi41EgRJgx,spotify:track:6ybViy2qrO9sIi41EgRJgx,0.732,0.198,-11.775,0.028,0.883,1.1e-05,0.0659,0.618,88.174,186147,jazz
+Nina Simone,Feeling Good,74,6Rqn2GFlmvmV4w9Ala0I1e,spotify:track:6Rqn2GFlmvmV4w9Ala0I1e,0.399,0.326,-9.239,0.0386,0.864,0.0,0.191,0.546,79.206,174000,jazz
+Etta James,I'd Rather Go Blind,69,1kPBT8S2wJFNAyBMnGVZgL,spotify:track:1kPBT8S2wJFNAyBMnGVZgL,0.477,0.433,-6.473,0.0247,0.689,0.000195,0.151,0.611,82.52,156653,jazz
+Norah Jones,Come Away With Me,72,0Cvjlph1WGbwZY1PlMEtJY,spotify:track:0Cvjlph1WGbwZY1PlMEtJY,0.363,0.129,-14.304,0.0322,0.904,1.52e-06,0.157,0.147,80.367,198147,jazz
+Duke Ellington,In A Sentimental Mood,67,0E8q2Fx2XuzXCO2NSAppkR,spotify:track:0E8q2Fx2XuzXCO2NSAppkR,0.464,0.305,-12.435,0.0316,0.936,0.0846,0.208,0.282,108.229,255227,jazz
+Leslie Odom Jr.,Dear Theodosia,65,2sEq2rC3ynYsT49x7utWnd,spotify:track:2sEq2rC3ynYsT49x7utWnd,0.601,0.222,-10.485,0.0303,0.906,4.11e-05,0.0723,0.271,106.754,184004,jazz
+Caravan Palace,Lone Digger,60,0thLhIqWsqqycEqFONOyhu,spotify:track:0thLhIqWsqqycEqFONOyhu,0.769,0.924,-5.263,0.051,0.596,0.0156,0.114,0.88,123.989,229805,jazz
+Louis Armstrong,La vie en rose - Single Version,65,1UH4viviUjZnS9aWgPGrk0,spotify:track:1UH4viviUjZnS9aWgPGrk0,0.507,0.0779,-12.099,0.0544,0.866,0.00275,0.108,0.326,70.808,204400,jazz
+Norah Jones,Sunrise,72,7zkLpY72g6lKQbiHDqri1S,spotify:track:7zkLpY72g6lKQbiHDqri1S,0.526,0.299,-13.797,0.031,0.941,0.097,0.106,0.679,156.848,200627,jazz
+Miles Davis,Blue in Green,66,0aWMVrwxPNYkKmFthzmpRi,spotify:track:0aWMVrwxPNYkKmFthzmpRi,0.421,0.0161,-25.358,0.0374,0.81,0.0021,0.0978,0.16,110.926,337733,jazz
+Chet Baker,I Fall In Love Too Easily - Vocal Version,65,0F845nujLVqCb0XMZCh5Pc,spotify:track:0F845nujLVqCb0XMZCh5Pc,0.532,0.0657,-19.136,0.0406,0.94,0.00488,0.0946,0.292,128.607,201440,jazz
+Nat King Cole,L-O-V-E,69,4QxDOjgpYtQDxxbWPuEJOy,spotify:track:4QxDOjgpYtQDxxbWPuEJOy,0.425,0.373,-7.543,0.0797,0.679,0.0,0.077,0.663,78.225,155307,jazz
+Etta James,A Sunday Kind Of Love,66,0zGLlXbHlrAyBN1x6sY0rb,spotify:track:0zGLlXbHlrAyBN1x6sY0rb,0.418,0.285,-9.43,0.0291,0.83,1.53e-06,0.233,0.4,86.13,196133,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,Summertime,66,2gNjmvuQiEd2z9SqyYi8HH,spotify:track:2gNjmvuQiEd2z9SqyYi8HH,0.172,0.0696,-21.295,0.0339,0.916,0.00199,0.137,0.103,167.974,298133,jazz
+Nina Simone,I Put A Spell On You,66,0sjxRg1VlYfx4YG7uxurrq,spotify:track:0sjxRg1VlYfx4YG7uxurrq,0.42,0.398,-9.13,0.0296,0.755,0.000537,0.172,0.364,88.897,155027,jazz
+Bobby Darin,Beyond the Sea,67,3KzgdYUlqV6TOG7JCmx2Wg,spotify:track:3KzgdYUlqV6TOG7JCmx2Wg,0.521,0.516,-7.456,0.0369,0.723,0.0,0.257,0.569,136.483,172480,jazz
+Aretha Franklin,(You Make Me Feel Like) A Natural Woman,69,5K09WxKdlkroDyEVyOSySy,spotify:track:5K09WxKdlkroDyEVyOSySy,0.65,0.323,-8.698,0.0283,0.213,0.0,0.187,0.276,110.962,166973,jazz
+Nat King Cole,Smile,64,1oDCK7PW72XEZ1pE5rh87A,spotify:track:1oDCK7PW72XEZ1pE5rh87A,0.226,0.136,-19.203,0.0327,0.862,8.07e-06,0.302,0.263,79.37,173267,jazz
+Norah Jones,Come Away With Me,58,52FKX00U3PnzrBQmbMTB8b,spotify:track:52FKX00U3PnzrBQmbMTB8b,0.38,0.119,-14.246,0.0332,0.911,2.4e-06,0.149,0.156,163.139,198227,jazz
+Nina Simone,Feeling Good,74,6Rqn2GFlmvmV4w9Ala0I1e,spotify:track:6Rqn2GFlmvmV4w9Ala0I1e,0.399,0.326,-9.239,0.0386,0.864,0.0,0.191,0.546,79.206,174000,jazz
+Etta James,I'd Rather Go Blind,69,1kPBT8S2wJFNAyBMnGVZgL,spotify:track:1kPBT8S2wJFNAyBMnGVZgL,0.477,0.433,-6.473,0.0247,0.689,0.000195,0.151,0.611,82.52,156653,jazz
+Norah Jones,Come Away With Me,72,0Cvjlph1WGbwZY1PlMEtJY,spotify:track:0Cvjlph1WGbwZY1PlMEtJY,0.363,0.129,-14.304,0.0322,0.904,1.52e-06,0.157,0.147,80.367,198147,jazz
+Duke Ellington,In A Sentimental Mood,67,0E8q2Fx2XuzXCO2NSAppkR,spotify:track:0E8q2Fx2XuzXCO2NSAppkR,0.464,0.305,-12.435,0.0316,0.936,0.0846,0.208,0.282,108.229,255227,jazz
+Leslie Odom Jr.,Dear Theodosia,65,2sEq2rC3ynYsT49x7utWnd,spotify:track:2sEq2rC3ynYsT49x7utWnd,0.601,0.222,-10.485,0.0303,0.906,4.11e-05,0.0723,0.271,106.754,184004,jazz
+Caravan Palace,Lone Digger,60,0thLhIqWsqqycEqFONOyhu,spotify:track:0thLhIqWsqqycEqFONOyhu,0.769,0.924,-5.263,0.051,0.596,0.0156,0.114,0.88,123.989,229805,jazz
+Louis Armstrong,La vie en rose - Single Version,65,1UH4viviUjZnS9aWgPGrk0,spotify:track:1UH4viviUjZnS9aWgPGrk0,0.507,0.0779,-12.099,0.0544,0.866,0.00275,0.108,0.326,70.808,204400,jazz
+Norah Jones,Sunrise,72,7zkLpY72g6lKQbiHDqri1S,spotify:track:7zkLpY72g6lKQbiHDqri1S,0.526,0.299,-13.797,0.031,0.941,0.097,0.106,0.679,156.848,200627,jazz
+Miles Davis,Blue in Green,66,0aWMVrwxPNYkKmFthzmpRi,spotify:track:0aWMVrwxPNYkKmFthzmpRi,0.421,0.0161,-25.358,0.0374,0.81,0.0021,0.0978,0.16,110.926,337733,jazz
+Chet Baker,I Fall In Love Too Easily - Vocal Version,65,0F845nujLVqCb0XMZCh5Pc,spotify:track:0F845nujLVqCb0XMZCh5Pc,0.532,0.0657,-19.136,0.0406,0.94,0.00488,0.0946,0.292,128.607,201440,jazz
+Nat King Cole,L-O-V-E,69,4QxDOjgpYtQDxxbWPuEJOy,spotify:track:4QxDOjgpYtQDxxbWPuEJOy,0.425,0.373,-7.543,0.0797,0.679,0.0,0.077,0.663,78.225,155307,jazz
+Etta James,A Sunday Kind Of Love,66,0zGLlXbHlrAyBN1x6sY0rb,spotify:track:0zGLlXbHlrAyBN1x6sY0rb,0.418,0.285,-9.43,0.0291,0.83,1.53e-06,0.233,0.4,86.13,196133,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,Summertime,66,2gNjmvuQiEd2z9SqyYi8HH,spotify:track:2gNjmvuQiEd2z9SqyYi8HH,0.172,0.0696,-21.295,0.0339,0.916,0.00199,0.137,0.103,167.974,298133,jazz
+Nina Simone,I Put A Spell On You,66,0sjxRg1VlYfx4YG7uxurrq,spotify:track:0sjxRg1VlYfx4YG7uxurrq,0.42,0.398,-9.13,0.0296,0.755,0.000537,0.172,0.364,88.897,155027,jazz
+Bobby Darin,Beyond the Sea,67,3KzgdYUlqV6TOG7JCmx2Wg,spotify:track:3KzgdYUlqV6TOG7JCmx2Wg,0.521,0.516,-7.456,0.0369,0.723,0.0,0.257,0.569,136.483,172480,jazz
+Aretha Franklin,(You Make Me Feel Like) A Natural Woman,69,5K09WxKdlkroDyEVyOSySy,spotify:track:5K09WxKdlkroDyEVyOSySy,0.65,0.323,-8.698,0.0283,0.213,0.0,0.187,0.276,110.962,166973,jazz
+Nat King Cole,Smile,64,1oDCK7PW72XEZ1pE5rh87A,spotify:track:1oDCK7PW72XEZ1pE5rh87A,0.226,0.136,-19.203,0.0327,0.862,8.07e-06,0.302,0.263,79.37,173267,jazz
+Norah Jones,Come Away With Me,58,52FKX00U3PnzrBQmbMTB8b,spotify:track:52FKX00U3PnzrBQmbMTB8b,0.38,0.119,-14.246,0.0332,0.911,2.4e-06,0.149,0.156,163.139,198227,jazz
+Matthew Halsall,Together,61,2wOlZrHUpRP9hQbqbV9Ae5,spotify:track:2wOlZrHUpRP9hQbqbV9Ae5,0.401,0.0236,-18.749,0.035,0.978,0.579,0.102,0.163,110.519,672520,jazz
+Etta James,I'd Rather Go Blind,69,1kPBT8S2wJFNAyBMnGVZgL,spotify:track:1kPBT8S2wJFNAyBMnGVZgL,0.477,0.433,-6.473,0.0247,0.689,0.000195,0.151,0.611,82.52,156653,jazz
+Norah Jones,Come Away With Me,72,0Cvjlph1WGbwZY1PlMEtJY,spotify:track:0Cvjlph1WGbwZY1PlMEtJY,0.363,0.129,-14.304,0.0322,0.904,1.52e-06,0.157,0.147,80.367,198147,jazz
+Duke Ellington,In A Sentimental Mood,67,0E8q2Fx2XuzXCO2NSAppkR,spotify:track:0E8q2Fx2XuzXCO2NSAppkR,0.464,0.305,-12.435,0.0316,0.936,0.0846,0.208,0.282,108.229,255227,jazz
+Leslie Odom Jr.,Dear Theodosia,65,2sEq2rC3ynYsT49x7utWnd,spotify:track:2sEq2rC3ynYsT49x7utWnd,0.601,0.222,-10.485,0.0303,0.906,4.11e-05,0.0723,0.271,106.754,184004,jazz
+Caravan Palace,Lone Digger,60,0thLhIqWsqqycEqFONOyhu,spotify:track:0thLhIqWsqqycEqFONOyhu,0.769,0.924,-5.263,0.051,0.596,0.0156,0.114,0.88,123.989,229805,jazz
+Louis Armstrong,La vie en rose - Single Version,65,1UH4viviUjZnS9aWgPGrk0,spotify:track:1UH4viviUjZnS9aWgPGrk0,0.507,0.0779,-12.099,0.0544,0.866,0.00275,0.108,0.326,70.808,204400,jazz
+Norah Jones,Sunrise,72,7zkLpY72g6lKQbiHDqri1S,spotify:track:7zkLpY72g6lKQbiHDqri1S,0.526,0.299,-13.797,0.031,0.941,0.097,0.106,0.679,156.848,200627,jazz
+Miles Davis,Blue in Green,66,0aWMVrwxPNYkKmFthzmpRi,spotify:track:0aWMVrwxPNYkKmFthzmpRi,0.421,0.0161,-25.358,0.0374,0.81,0.0021,0.0978,0.16,110.926,337733,jazz
+Chet Baker,I Fall In Love Too Easily - Vocal Version,65,0F845nujLVqCb0XMZCh5Pc,spotify:track:0F845nujLVqCb0XMZCh5Pc,0.532,0.0657,-19.136,0.0406,0.94,0.00488,0.0946,0.292,128.607,201440,jazz
+Nat King Cole,L-O-V-E,69,4QxDOjgpYtQDxxbWPuEJOy,spotify:track:4QxDOjgpYtQDxxbWPuEJOy,0.425,0.373,-7.543,0.0797,0.679,0.0,0.077,0.663,78.225,155307,jazz
+Etta James,A Sunday Kind Of Love,66,0zGLlXbHlrAyBN1x6sY0rb,spotify:track:0zGLlXbHlrAyBN1x6sY0rb,0.418,0.285,-9.43,0.0291,0.83,1.53e-06,0.233,0.4,86.13,196133,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,Summertime,66,2gNjmvuQiEd2z9SqyYi8HH,spotify:track:2gNjmvuQiEd2z9SqyYi8HH,0.172,0.0696,-21.295,0.0339,0.916,0.00199,0.137,0.103,167.974,298133,jazz
+Nina Simone,I Put A Spell On You,66,0sjxRg1VlYfx4YG7uxurrq,spotify:track:0sjxRg1VlYfx4YG7uxurrq,0.42,0.398,-9.13,0.0296,0.755,0.000537,0.172,0.364,88.897,155027,jazz
+Bobby Darin,Beyond the Sea,67,3KzgdYUlqV6TOG7JCmx2Wg,spotify:track:3KzgdYUlqV6TOG7JCmx2Wg,0.521,0.516,-7.456,0.0369,0.723,0.0,0.257,0.569,136.483,172480,jazz
+Aretha Franklin,(You Make Me Feel Like) A Natural Woman,69,5K09WxKdlkroDyEVyOSySy,spotify:track:5K09WxKdlkroDyEVyOSySy,0.65,0.323,-8.698,0.0283,0.213,0.0,0.187,0.276,110.962,166973,jazz
+Nat King Cole,Smile,64,1oDCK7PW72XEZ1pE5rh87A,spotify:track:1oDCK7PW72XEZ1pE5rh87A,0.226,0.136,-19.203,0.0327,0.862,8.07e-06,0.302,0.263,79.37,173267,jazz
+Norah Jones,Come Away With Me,58,52FKX00U3PnzrBQmbMTB8b,spotify:track:52FKX00U3PnzrBQmbMTB8b,0.38,0.119,-14.246,0.0332,0.911,2.4e-06,0.149,0.156,163.139,198227,jazz
+Matthew Halsall,Together,61,2wOlZrHUpRP9hQbqbV9Ae5,spotify:track:2wOlZrHUpRP9hQbqbV9Ae5,0.401,0.0236,-18.749,0.035,0.978,0.579,0.102,0.163,110.519,672520,jazz
+Celia Cruz,La Vida Es Un Carnaval,67,1BwrMGGhPA6GarWIYaFrW8,spotify:track:1BwrMGGhPA6GarWIYaFrW8,0.813,0.701,-6.508,0.0701,0.489,0.00116,0.294,0.855,104.019,278867,jazz
+Norah Jones,Come Away With Me,72,0Cvjlph1WGbwZY1PlMEtJY,spotify:track:0Cvjlph1WGbwZY1PlMEtJY,0.363,0.129,-14.304,0.0322,0.904,1.52e-06,0.157,0.147,80.367,198147,jazz
+Duke Ellington,In A Sentimental Mood,67,0E8q2Fx2XuzXCO2NSAppkR,spotify:track:0E8q2Fx2XuzXCO2NSAppkR,0.464,0.305,-12.435,0.0316,0.936,0.0846,0.208,0.282,108.229,255227,jazz
+Leslie Odom Jr.,Dear Theodosia,65,2sEq2rC3ynYsT49x7utWnd,spotify:track:2sEq2rC3ynYsT49x7utWnd,0.601,0.222,-10.485,0.0303,0.906,4.11e-05,0.0723,0.271,106.754,184004,jazz
+Caravan Palace,Lone Digger,60,0thLhIqWsqqycEqFONOyhu,spotify:track:0thLhIqWsqqycEqFONOyhu,0.769,0.924,-5.263,0.051,0.596,0.0156,0.114,0.88,123.989,229805,jazz
+Louis Armstrong,La vie en rose - Single Version,65,1UH4viviUjZnS9aWgPGrk0,spotify:track:1UH4viviUjZnS9aWgPGrk0,0.507,0.0779,-12.099,0.0544,0.866,0.00275,0.108,0.326,70.808,204400,jazz
+Norah Jones,Sunrise,72,7zkLpY72g6lKQbiHDqri1S,spotify:track:7zkLpY72g6lKQbiHDqri1S,0.526,0.299,-13.797,0.031,0.941,0.097,0.106,0.679,156.848,200627,jazz
+Miles Davis,Blue in Green,66,0aWMVrwxPNYkKmFthzmpRi,spotify:track:0aWMVrwxPNYkKmFthzmpRi,0.421,0.0161,-25.358,0.0374,0.81,0.0021,0.0978,0.16,110.926,337733,jazz
+Chet Baker,I Fall In Love Too Easily - Vocal Version,65,0F845nujLVqCb0XMZCh5Pc,spotify:track:0F845nujLVqCb0XMZCh5Pc,0.532,0.0657,-19.136,0.0406,0.94,0.00488,0.0946,0.292,128.607,201440,jazz
+Nat King Cole,L-O-V-E,69,4QxDOjgpYtQDxxbWPuEJOy,spotify:track:4QxDOjgpYtQDxxbWPuEJOy,0.425,0.373,-7.543,0.0797,0.679,0.0,0.077,0.663,78.225,155307,jazz
+Etta James,A Sunday Kind Of Love,66,0zGLlXbHlrAyBN1x6sY0rb,spotify:track:0zGLlXbHlrAyBN1x6sY0rb,0.418,0.285,-9.43,0.0291,0.83,1.53e-06,0.233,0.4,86.13,196133,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,Summertime,66,2gNjmvuQiEd2z9SqyYi8HH,spotify:track:2gNjmvuQiEd2z9SqyYi8HH,0.172,0.0696,-21.295,0.0339,0.916,0.00199,0.137,0.103,167.974,298133,jazz
+Nina Simone,I Put A Spell On You,66,0sjxRg1VlYfx4YG7uxurrq,spotify:track:0sjxRg1VlYfx4YG7uxurrq,0.42,0.398,-9.13,0.0296,0.755,0.000537,0.172,0.364,88.897,155027,jazz
+Bobby Darin,Beyond the Sea,67,3KzgdYUlqV6TOG7JCmx2Wg,spotify:track:3KzgdYUlqV6TOG7JCmx2Wg,0.521,0.516,-7.456,0.0369,0.723,0.0,0.257,0.569,136.483,172480,jazz
+Aretha Franklin,(You Make Me Feel Like) A Natural Woman,69,5K09WxKdlkroDyEVyOSySy,spotify:track:5K09WxKdlkroDyEVyOSySy,0.65,0.323,-8.698,0.0283,0.213,0.0,0.187,0.276,110.962,166973,jazz
+Nat King Cole,Smile,64,1oDCK7PW72XEZ1pE5rh87A,spotify:track:1oDCK7PW72XEZ1pE5rh87A,0.226,0.136,-19.203,0.0327,0.862,8.07e-06,0.302,0.263,79.37,173267,jazz
+Norah Jones,Come Away With Me,58,52FKX00U3PnzrBQmbMTB8b,spotify:track:52FKX00U3PnzrBQmbMTB8b,0.38,0.119,-14.246,0.0332,0.911,2.4e-06,0.149,0.156,163.139,198227,jazz
+Matthew Halsall,Together,61,2wOlZrHUpRP9hQbqbV9Ae5,spotify:track:2wOlZrHUpRP9hQbqbV9Ae5,0.401,0.0236,-18.749,0.035,0.978,0.579,0.102,0.163,110.519,672520,jazz
+Celia Cruz,La Vida Es Un Carnaval,67,1BwrMGGhPA6GarWIYaFrW8,spotify:track:1BwrMGGhPA6GarWIYaFrW8,0.813,0.701,-6.508,0.0701,0.489,0.00116,0.294,0.855,104.019,278867,jazz
+Ray Charles,I've Got a Woman,67,2xar08Fq5xra2KKZs5Bw9j,spotify:track:2xar08Fq5xra2KKZs5Bw9j,0.556,0.61,-4.729,0.213,0.833,2.22e-06,0.258,0.665,199.373,171467,jazz
+Duke Ellington,In A Sentimental Mood,67,0E8q2Fx2XuzXCO2NSAppkR,spotify:track:0E8q2Fx2XuzXCO2NSAppkR,0.464,0.305,-12.435,0.0316,0.936,0.0846,0.208,0.282,108.229,255227,jazz
+Leslie Odom Jr.,Dear Theodosia,65,2sEq2rC3ynYsT49x7utWnd,spotify:track:2sEq2rC3ynYsT49x7utWnd,0.601,0.222,-10.485,0.0303,0.906,4.11e-05,0.0723,0.271,106.754,184004,jazz
+Caravan Palace,Lone Digger,60,0thLhIqWsqqycEqFONOyhu,spotify:track:0thLhIqWsqqycEqFONOyhu,0.769,0.924,-5.263,0.051,0.596,0.0156,0.114,0.88,123.989,229805,jazz
+Louis Armstrong,La vie en rose - Single Version,65,1UH4viviUjZnS9aWgPGrk0,spotify:track:1UH4viviUjZnS9aWgPGrk0,0.507,0.0779,-12.099,0.0544,0.866,0.00275,0.108,0.326,70.808,204400,jazz
+Norah Jones,Sunrise,72,7zkLpY72g6lKQbiHDqri1S,spotify:track:7zkLpY72g6lKQbiHDqri1S,0.526,0.299,-13.797,0.031,0.941,0.097,0.106,0.679,156.848,200627,jazz
+Miles Davis,Blue in Green,66,0aWMVrwxPNYkKmFthzmpRi,spotify:track:0aWMVrwxPNYkKmFthzmpRi,0.421,0.0161,-25.358,0.0374,0.81,0.0021,0.0978,0.16,110.926,337733,jazz
+Chet Baker,I Fall In Love Too Easily - Vocal Version,65,0F845nujLVqCb0XMZCh5Pc,spotify:track:0F845nujLVqCb0XMZCh5Pc,0.532,0.0657,-19.136,0.0406,0.94,0.00488,0.0946,0.292,128.607,201440,jazz
+Nat King Cole,L-O-V-E,69,4QxDOjgpYtQDxxbWPuEJOy,spotify:track:4QxDOjgpYtQDxxbWPuEJOy,0.425,0.373,-7.543,0.0797,0.679,0.0,0.077,0.663,78.225,155307,jazz
+Etta James,A Sunday Kind Of Love,66,0zGLlXbHlrAyBN1x6sY0rb,spotify:track:0zGLlXbHlrAyBN1x6sY0rb,0.418,0.285,-9.43,0.0291,0.83,1.53e-06,0.233,0.4,86.13,196133,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,Summertime,66,2gNjmvuQiEd2z9SqyYi8HH,spotify:track:2gNjmvuQiEd2z9SqyYi8HH,0.172,0.0696,-21.295,0.0339,0.916,0.00199,0.137,0.103,167.974,298133,jazz
+Nina Simone,I Put A Spell On You,66,0sjxRg1VlYfx4YG7uxurrq,spotify:track:0sjxRg1VlYfx4YG7uxurrq,0.42,0.398,-9.13,0.0296,0.755,0.000537,0.172,0.364,88.897,155027,jazz
+Bobby Darin,Beyond the Sea,67,3KzgdYUlqV6TOG7JCmx2Wg,spotify:track:3KzgdYUlqV6TOG7JCmx2Wg,0.521,0.516,-7.456,0.0369,0.723,0.0,0.257,0.569,136.483,172480,jazz
+Aretha Franklin,(You Make Me Feel Like) A Natural Woman,69,5K09WxKdlkroDyEVyOSySy,spotify:track:5K09WxKdlkroDyEVyOSySy,0.65,0.323,-8.698,0.0283,0.213,0.0,0.187,0.276,110.962,166973,jazz
+Nat King Cole,Smile,64,1oDCK7PW72XEZ1pE5rh87A,spotify:track:1oDCK7PW72XEZ1pE5rh87A,0.226,0.136,-19.203,0.0327,0.862,8.07e-06,0.302,0.263,79.37,173267,jazz
+Norah Jones,Come Away With Me,58,52FKX00U3PnzrBQmbMTB8b,spotify:track:52FKX00U3PnzrBQmbMTB8b,0.38,0.119,-14.246,0.0332,0.911,2.4e-06,0.149,0.156,163.139,198227,jazz
+Matthew Halsall,Together,61,2wOlZrHUpRP9hQbqbV9Ae5,spotify:track:2wOlZrHUpRP9hQbqbV9Ae5,0.401,0.0236,-18.749,0.035,0.978,0.579,0.102,0.163,110.519,672520,jazz
+Celia Cruz,La Vida Es Un Carnaval,67,1BwrMGGhPA6GarWIYaFrW8,spotify:track:1BwrMGGhPA6GarWIYaFrW8,0.813,0.701,-6.508,0.0701,0.489,0.00116,0.294,0.855,104.019,278867,jazz
+Ray Charles,I've Got a Woman,67,2xar08Fq5xra2KKZs5Bw9j,spotify:track:2xar08Fq5xra2KKZs5Bw9j,0.556,0.61,-4.729,0.213,0.833,2.22e-06,0.258,0.665,199.373,171467,jazz
+Roy Ayers Ubiquity,Everybody Loves The Sunshine,63,5le4sn0iMcnKU56bdmNzso,spotify:track:5le4sn0iMcnKU56bdmNzso,0.52,0.571,-10.326,0.036,0.168,5.14e-06,0.17,0.701,161.051,239667,jazz
+Leslie Odom Jr.,Dear Theodosia,65,2sEq2rC3ynYsT49x7utWnd,spotify:track:2sEq2rC3ynYsT49x7utWnd,0.601,0.222,-10.485,0.0303,0.906,4.11e-05,0.0723,0.271,106.754,184004,jazz
+Caravan Palace,Lone Digger,60,0thLhIqWsqqycEqFONOyhu,spotify:track:0thLhIqWsqqycEqFONOyhu,0.769,0.924,-5.263,0.051,0.596,0.0156,0.114,0.88,123.989,229805,jazz
+Louis Armstrong,La vie en rose - Single Version,65,1UH4viviUjZnS9aWgPGrk0,spotify:track:1UH4viviUjZnS9aWgPGrk0,0.507,0.0779,-12.099,0.0544,0.866,0.00275,0.108,0.326,70.808,204400,jazz
+Norah Jones,Sunrise,72,7zkLpY72g6lKQbiHDqri1S,spotify:track:7zkLpY72g6lKQbiHDqri1S,0.526,0.299,-13.797,0.031,0.941,0.097,0.106,0.679,156.848,200627,jazz
+Miles Davis,Blue in Green,66,0aWMVrwxPNYkKmFthzmpRi,spotify:track:0aWMVrwxPNYkKmFthzmpRi,0.421,0.0161,-25.358,0.0374,0.81,0.0021,0.0978,0.16,110.926,337733,jazz
+Chet Baker,I Fall In Love Too Easily - Vocal Version,65,0F845nujLVqCb0XMZCh5Pc,spotify:track:0F845nujLVqCb0XMZCh5Pc,0.532,0.0657,-19.136,0.0406,0.94,0.00488,0.0946,0.292,128.607,201440,jazz
+Nat King Cole,L-O-V-E,69,4QxDOjgpYtQDxxbWPuEJOy,spotify:track:4QxDOjgpYtQDxxbWPuEJOy,0.425,0.373,-7.543,0.0797,0.679,0.0,0.077,0.663,78.225,155307,jazz
+Etta James,A Sunday Kind Of Love,66,0zGLlXbHlrAyBN1x6sY0rb,spotify:track:0zGLlXbHlrAyBN1x6sY0rb,0.418,0.285,-9.43,0.0291,0.83,1.53e-06,0.233,0.4,86.13,196133,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,Summertime,66,2gNjmvuQiEd2z9SqyYi8HH,spotify:track:2gNjmvuQiEd2z9SqyYi8HH,0.172,0.0696,-21.295,0.0339,0.916,0.00199,0.137,0.103,167.974,298133,jazz
+Nina Simone,I Put A Spell On You,66,0sjxRg1VlYfx4YG7uxurrq,spotify:track:0sjxRg1VlYfx4YG7uxurrq,0.42,0.398,-9.13,0.0296,0.755,0.000537,0.172,0.364,88.897,155027,jazz
+Bobby Darin,Beyond the Sea,67,3KzgdYUlqV6TOG7JCmx2Wg,spotify:track:3KzgdYUlqV6TOG7JCmx2Wg,0.521,0.516,-7.456,0.0369,0.723,0.0,0.257,0.569,136.483,172480,jazz
+Aretha Franklin,(You Make Me Feel Like) A Natural Woman,69,5K09WxKdlkroDyEVyOSySy,spotify:track:5K09WxKdlkroDyEVyOSySy,0.65,0.323,-8.698,0.0283,0.213,0.0,0.187,0.276,110.962,166973,jazz
+Nat King Cole,Smile,64,1oDCK7PW72XEZ1pE5rh87A,spotify:track:1oDCK7PW72XEZ1pE5rh87A,0.226,0.136,-19.203,0.0327,0.862,8.07e-06,0.302,0.263,79.37,173267,jazz
+Norah Jones,Come Away With Me,58,52FKX00U3PnzrBQmbMTB8b,spotify:track:52FKX00U3PnzrBQmbMTB8b,0.38,0.119,-14.246,0.0332,0.911,2.4e-06,0.149,0.156,163.139,198227,jazz
+Matthew Halsall,Together,61,2wOlZrHUpRP9hQbqbV9Ae5,spotify:track:2wOlZrHUpRP9hQbqbV9Ae5,0.401,0.0236,-18.749,0.035,0.978,0.579,0.102,0.163,110.519,672520,jazz
+Celia Cruz,La Vida Es Un Carnaval,67,1BwrMGGhPA6GarWIYaFrW8,spotify:track:1BwrMGGhPA6GarWIYaFrW8,0.813,0.701,-6.508,0.0701,0.489,0.00116,0.294,0.855,104.019,278867,jazz
+Ray Charles,I've Got a Woman,67,2xar08Fq5xra2KKZs5Bw9j,spotify:track:2xar08Fq5xra2KKZs5Bw9j,0.556,0.61,-4.729,0.213,0.833,2.22e-06,0.258,0.665,199.373,171467,jazz
+Roy Ayers Ubiquity,Everybody Loves The Sunshine,63,5le4sn0iMcnKU56bdmNzso,spotify:track:5le4sn0iMcnKU56bdmNzso,0.52,0.571,-10.326,0.036,0.168,5.14e-06,0.17,0.701,161.051,239667,jazz
+Louis Armstrong,A Kiss To Build A Dream On - Single Version,61,5y8zb3grlQonjdqd27K39T,spotify:track:5y8zb3grlQonjdqd27K39T,0.723,0.0811,-14.113,0.0631,0.779,0.0,0.509,0.36,88.044,181493,jazz
+Caravan Palace,Lone Digger,60,0thLhIqWsqqycEqFONOyhu,spotify:track:0thLhIqWsqqycEqFONOyhu,0.769,0.924,-5.263,0.051,0.596,0.0156,0.114,0.88,123.989,229805,jazz
+Louis Armstrong,La vie en rose - Single Version,65,1UH4viviUjZnS9aWgPGrk0,spotify:track:1UH4viviUjZnS9aWgPGrk0,0.507,0.0779,-12.099,0.0544,0.866,0.00275,0.108,0.326,70.808,204400,jazz
+Norah Jones,Sunrise,72,7zkLpY72g6lKQbiHDqri1S,spotify:track:7zkLpY72g6lKQbiHDqri1S,0.526,0.299,-13.797,0.031,0.941,0.097,0.106,0.679,156.848,200627,jazz
+Miles Davis,Blue in Green,66,0aWMVrwxPNYkKmFthzmpRi,spotify:track:0aWMVrwxPNYkKmFthzmpRi,0.421,0.0161,-25.358,0.0374,0.81,0.0021,0.0978,0.16,110.926,337733,jazz
+Chet Baker,I Fall In Love Too Easily - Vocal Version,65,0F845nujLVqCb0XMZCh5Pc,spotify:track:0F845nujLVqCb0XMZCh5Pc,0.532,0.0657,-19.136,0.0406,0.94,0.00488,0.0946,0.292,128.607,201440,jazz
+Nat King Cole,L-O-V-E,69,4QxDOjgpYtQDxxbWPuEJOy,spotify:track:4QxDOjgpYtQDxxbWPuEJOy,0.425,0.373,-7.543,0.0797,0.679,0.0,0.077,0.663,78.225,155307,jazz
+Etta James,A Sunday Kind Of Love,66,0zGLlXbHlrAyBN1x6sY0rb,spotify:track:0zGLlXbHlrAyBN1x6sY0rb,0.418,0.285,-9.43,0.0291,0.83,1.53e-06,0.233,0.4,86.13,196133,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,Summertime,66,2gNjmvuQiEd2z9SqyYi8HH,spotify:track:2gNjmvuQiEd2z9SqyYi8HH,0.172,0.0696,-21.295,0.0339,0.916,0.00199,0.137,0.103,167.974,298133,jazz
+Nina Simone,I Put A Spell On You,66,0sjxRg1VlYfx4YG7uxurrq,spotify:track:0sjxRg1VlYfx4YG7uxurrq,0.42,0.398,-9.13,0.0296,0.755,0.000537,0.172,0.364,88.897,155027,jazz
+Bobby Darin,Beyond the Sea,67,3KzgdYUlqV6TOG7JCmx2Wg,spotify:track:3KzgdYUlqV6TOG7JCmx2Wg,0.521,0.516,-7.456,0.0369,0.723,0.0,0.257,0.569,136.483,172480,jazz
+Aretha Franklin,(You Make Me Feel Like) A Natural Woman,69,5K09WxKdlkroDyEVyOSySy,spotify:track:5K09WxKdlkroDyEVyOSySy,0.65,0.323,-8.698,0.0283,0.213,0.0,0.187,0.276,110.962,166973,jazz
+Nat King Cole,Smile,64,1oDCK7PW72XEZ1pE5rh87A,spotify:track:1oDCK7PW72XEZ1pE5rh87A,0.226,0.136,-19.203,0.0327,0.862,8.07e-06,0.302,0.263,79.37,173267,jazz
+Norah Jones,Come Away With Me,58,52FKX00U3PnzrBQmbMTB8b,spotify:track:52FKX00U3PnzrBQmbMTB8b,0.38,0.119,-14.246,0.0332,0.911,2.4e-06,0.149,0.156,163.139,198227,jazz
+Matthew Halsall,Together,61,2wOlZrHUpRP9hQbqbV9Ae5,spotify:track:2wOlZrHUpRP9hQbqbV9Ae5,0.401,0.0236,-18.749,0.035,0.978,0.579,0.102,0.163,110.519,672520,jazz
+Celia Cruz,La Vida Es Un Carnaval,67,1BwrMGGhPA6GarWIYaFrW8,spotify:track:1BwrMGGhPA6GarWIYaFrW8,0.813,0.701,-6.508,0.0701,0.489,0.00116,0.294,0.855,104.019,278867,jazz
+Ray Charles,I've Got a Woman,67,2xar08Fq5xra2KKZs5Bw9j,spotify:track:2xar08Fq5xra2KKZs5Bw9j,0.556,0.61,-4.729,0.213,0.833,2.22e-06,0.258,0.665,199.373,171467,jazz
+Roy Ayers Ubiquity,Everybody Loves The Sunshine,63,5le4sn0iMcnKU56bdmNzso,spotify:track:5le4sn0iMcnKU56bdmNzso,0.52,0.571,-10.326,0.036,0.168,5.14e-06,0.17,0.701,161.051,239667,jazz
+Louis Armstrong,A Kiss To Build A Dream On - Single Version,61,5y8zb3grlQonjdqd27K39T,spotify:track:5y8zb3grlQonjdqd27K39T,0.723,0.0811,-14.113,0.0631,0.779,0.0,0.509,0.36,88.044,181493,jazz
+Louis Armstrong,La vie en rose - Single Version,0,1XJvQ9c51Kf3dI7lLRJhIg,spotify:track:1XJvQ9c51Kf3dI7lLRJhIg,0.549,0.0525,-14.217,0.0546,0.88,0.00127,0.0954,0.301,138.327,202813,jazz
+Louis Armstrong,La vie en rose - Single Version,65,1UH4viviUjZnS9aWgPGrk0,spotify:track:1UH4viviUjZnS9aWgPGrk0,0.507,0.0779,-12.099,0.0544,0.866,0.00275,0.108,0.326,70.808,204400,jazz
+Norah Jones,Sunrise,72,7zkLpY72g6lKQbiHDqri1S,spotify:track:7zkLpY72g6lKQbiHDqri1S,0.526,0.299,-13.797,0.031,0.941,0.097,0.106,0.679,156.848,200627,jazz
+Miles Davis,Blue in Green,66,0aWMVrwxPNYkKmFthzmpRi,spotify:track:0aWMVrwxPNYkKmFthzmpRi,0.421,0.0161,-25.358,0.0374,0.81,0.0021,0.0978,0.16,110.926,337733,jazz
+Chet Baker,I Fall In Love Too Easily - Vocal Version,65,0F845nujLVqCb0XMZCh5Pc,spotify:track:0F845nujLVqCb0XMZCh5Pc,0.532,0.0657,-19.136,0.0406,0.94,0.00488,0.0946,0.292,128.607,201440,jazz
+Nat King Cole,L-O-V-E,69,4QxDOjgpYtQDxxbWPuEJOy,spotify:track:4QxDOjgpYtQDxxbWPuEJOy,0.425,0.373,-7.543,0.0797,0.679,0.0,0.077,0.663,78.225,155307,jazz
+Etta James,A Sunday Kind Of Love,66,0zGLlXbHlrAyBN1x6sY0rb,spotify:track:0zGLlXbHlrAyBN1x6sY0rb,0.418,0.285,-9.43,0.0291,0.83,1.53e-06,0.233,0.4,86.13,196133,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,Summertime,66,2gNjmvuQiEd2z9SqyYi8HH,spotify:track:2gNjmvuQiEd2z9SqyYi8HH,0.172,0.0696,-21.295,0.0339,0.916,0.00199,0.137,0.103,167.974,298133,jazz
+Nina Simone,I Put A Spell On You,66,0sjxRg1VlYfx4YG7uxurrq,spotify:track:0sjxRg1VlYfx4YG7uxurrq,0.42,0.398,-9.13,0.0296,0.755,0.000537,0.172,0.364,88.897,155027,jazz
+Bobby Darin,Beyond the Sea,67,3KzgdYUlqV6TOG7JCmx2Wg,spotify:track:3KzgdYUlqV6TOG7JCmx2Wg,0.521,0.516,-7.456,0.0369,0.723,0.0,0.257,0.569,136.483,172480,jazz
+Aretha Franklin,(You Make Me Feel Like) A Natural Woman,69,5K09WxKdlkroDyEVyOSySy,spotify:track:5K09WxKdlkroDyEVyOSySy,0.65,0.323,-8.698,0.0283,0.213,0.0,0.187,0.276,110.962,166973,jazz
+Nat King Cole,Smile,64,1oDCK7PW72XEZ1pE5rh87A,spotify:track:1oDCK7PW72XEZ1pE5rh87A,0.226,0.136,-19.203,0.0327,0.862,8.07e-06,0.302,0.263,79.37,173267,jazz
+Norah Jones,Come Away With Me,58,52FKX00U3PnzrBQmbMTB8b,spotify:track:52FKX00U3PnzrBQmbMTB8b,0.38,0.119,-14.246,0.0332,0.911,2.4e-06,0.149,0.156,163.139,198227,jazz
+Matthew Halsall,Together,61,2wOlZrHUpRP9hQbqbV9Ae5,spotify:track:2wOlZrHUpRP9hQbqbV9Ae5,0.401,0.0236,-18.749,0.035,0.978,0.579,0.102,0.163,110.519,672520,jazz
+Celia Cruz,La Vida Es Un Carnaval,67,1BwrMGGhPA6GarWIYaFrW8,spotify:track:1BwrMGGhPA6GarWIYaFrW8,0.813,0.701,-6.508,0.0701,0.489,0.00116,0.294,0.855,104.019,278867,jazz
+Ray Charles,I've Got a Woman,67,2xar08Fq5xra2KKZs5Bw9j,spotify:track:2xar08Fq5xra2KKZs5Bw9j,0.556,0.61,-4.729,0.213,0.833,2.22e-06,0.258,0.665,199.373,171467,jazz
+Roy Ayers Ubiquity,Everybody Loves The Sunshine,63,5le4sn0iMcnKU56bdmNzso,spotify:track:5le4sn0iMcnKU56bdmNzso,0.52,0.571,-10.326,0.036,0.168,5.14e-06,0.17,0.701,161.051,239667,jazz
+Louis Armstrong,A Kiss To Build A Dream On - Single Version,61,5y8zb3grlQonjdqd27K39T,spotify:track:5y8zb3grlQonjdqd27K39T,0.723,0.0811,-14.113,0.0631,0.779,0.0,0.509,0.36,88.044,181493,jazz
+Louis Armstrong,La vie en rose - Single Version,0,1XJvQ9c51Kf3dI7lLRJhIg,spotify:track:1XJvQ9c51Kf3dI7lLRJhIg,0.549,0.0525,-14.217,0.0546,0.88,0.00127,0.0954,0.301,138.327,202813,jazz
+Louis Prima,I Wan'na Be Like You (The Monkey Song),62,2EeVPGHq2I7fjeDfT6LEYX,spotify:track:2EeVPGHq2I7fjeDfT6LEYX,0.746,0.404,-15.09,0.0995,0.662,0.000238,0.281,0.795,96.317,279453,jazz
+Norah Jones,Sunrise,72,7zkLpY72g6lKQbiHDqri1S,spotify:track:7zkLpY72g6lKQbiHDqri1S,0.526,0.299,-13.797,0.031,0.941,0.097,0.106,0.679,156.848,200627,jazz
+Miles Davis,Blue in Green,66,0aWMVrwxPNYkKmFthzmpRi,spotify:track:0aWMVrwxPNYkKmFthzmpRi,0.421,0.0161,-25.358,0.0374,0.81,0.0021,0.0978,0.16,110.926,337733,jazz
+Chet Baker,I Fall In Love Too Easily - Vocal Version,65,0F845nujLVqCb0XMZCh5Pc,spotify:track:0F845nujLVqCb0XMZCh5Pc,0.532,0.0657,-19.136,0.0406,0.94,0.00488,0.0946,0.292,128.607,201440,jazz
+Nat King Cole,L-O-V-E,69,4QxDOjgpYtQDxxbWPuEJOy,spotify:track:4QxDOjgpYtQDxxbWPuEJOy,0.425,0.373,-7.543,0.0797,0.679,0.0,0.077,0.663,78.225,155307,jazz
+Etta James,A Sunday Kind Of Love,66,0zGLlXbHlrAyBN1x6sY0rb,spotify:track:0zGLlXbHlrAyBN1x6sY0rb,0.418,0.285,-9.43,0.0291,0.83,1.53e-06,0.233,0.4,86.13,196133,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,Summertime,66,2gNjmvuQiEd2z9SqyYi8HH,spotify:track:2gNjmvuQiEd2z9SqyYi8HH,0.172,0.0696,-21.295,0.0339,0.916,0.00199,0.137,0.103,167.974,298133,jazz
+Nina Simone,I Put A Spell On You,66,0sjxRg1VlYfx4YG7uxurrq,spotify:track:0sjxRg1VlYfx4YG7uxurrq,0.42,0.398,-9.13,0.0296,0.755,0.000537,0.172,0.364,88.897,155027,jazz
+Bobby Darin,Beyond the Sea,67,3KzgdYUlqV6TOG7JCmx2Wg,spotify:track:3KzgdYUlqV6TOG7JCmx2Wg,0.521,0.516,-7.456,0.0369,0.723,0.0,0.257,0.569,136.483,172480,jazz
+Aretha Franklin,(You Make Me Feel Like) A Natural Woman,69,5K09WxKdlkroDyEVyOSySy,spotify:track:5K09WxKdlkroDyEVyOSySy,0.65,0.323,-8.698,0.0283,0.213,0.0,0.187,0.276,110.962,166973,jazz
+Nat King Cole,Smile,64,1oDCK7PW72XEZ1pE5rh87A,spotify:track:1oDCK7PW72XEZ1pE5rh87A,0.226,0.136,-19.203,0.0327,0.862,8.07e-06,0.302,0.263,79.37,173267,jazz
+Norah Jones,Come Away With Me,58,52FKX00U3PnzrBQmbMTB8b,spotify:track:52FKX00U3PnzrBQmbMTB8b,0.38,0.119,-14.246,0.0332,0.911,2.4e-06,0.149,0.156,163.139,198227,jazz
+Matthew Halsall,Together,61,2wOlZrHUpRP9hQbqbV9Ae5,spotify:track:2wOlZrHUpRP9hQbqbV9Ae5,0.401,0.0236,-18.749,0.035,0.978,0.579,0.102,0.163,110.519,672520,jazz
+Celia Cruz,La Vida Es Un Carnaval,67,1BwrMGGhPA6GarWIYaFrW8,spotify:track:1BwrMGGhPA6GarWIYaFrW8,0.813,0.701,-6.508,0.0701,0.489,0.00116,0.294,0.855,104.019,278867,jazz
+Ray Charles,I've Got a Woman,67,2xar08Fq5xra2KKZs5Bw9j,spotify:track:2xar08Fq5xra2KKZs5Bw9j,0.556,0.61,-4.729,0.213,0.833,2.22e-06,0.258,0.665,199.373,171467,jazz
+Roy Ayers Ubiquity,Everybody Loves The Sunshine,63,5le4sn0iMcnKU56bdmNzso,spotify:track:5le4sn0iMcnKU56bdmNzso,0.52,0.571,-10.326,0.036,0.168,5.14e-06,0.17,0.701,161.051,239667,jazz
+Louis Armstrong,A Kiss To Build A Dream On - Single Version,61,5y8zb3grlQonjdqd27K39T,spotify:track:5y8zb3grlQonjdqd27K39T,0.723,0.0811,-14.113,0.0631,0.779,0.0,0.509,0.36,88.044,181493,jazz
+Louis Armstrong,La vie en rose - Single Version,0,1XJvQ9c51Kf3dI7lLRJhIg,spotify:track:1XJvQ9c51Kf3dI7lLRJhIg,0.549,0.0525,-14.217,0.0546,0.88,0.00127,0.0954,0.301,138.327,202813,jazz
+Louis Prima,I Wan'na Be Like You (The Monkey Song),62,2EeVPGHq2I7fjeDfT6LEYX,spotify:track:2EeVPGHq2I7fjeDfT6LEYX,0.746,0.404,-15.09,0.0995,0.662,0.000238,0.281,0.795,96.317,279453,jazz
+Yes,Roundabout - 2003 Remaster,67,0YveezON7jpiaHA8fnUHxN,spotify:track:0YveezON7jpiaHA8fnUHxN,0.41,0.761,-9.453,0.0687,0.0682,0.0077,0.0758,0.391,132.889,510573,jazz
+Miles Davis,Blue in Green,66,0aWMVrwxPNYkKmFthzmpRi,spotify:track:0aWMVrwxPNYkKmFthzmpRi,0.421,0.0161,-25.358,0.0374,0.81,0.0021,0.0978,0.16,110.926,337733,jazz
+Chet Baker,I Fall In Love Too Easily - Vocal Version,65,0F845nujLVqCb0XMZCh5Pc,spotify:track:0F845nujLVqCb0XMZCh5Pc,0.532,0.0657,-19.136,0.0406,0.94,0.00488,0.0946,0.292,128.607,201440,jazz
+Nat King Cole,L-O-V-E,69,4QxDOjgpYtQDxxbWPuEJOy,spotify:track:4QxDOjgpYtQDxxbWPuEJOy,0.425,0.373,-7.543,0.0797,0.679,0.0,0.077,0.663,78.225,155307,jazz
+Etta James,A Sunday Kind Of Love,66,0zGLlXbHlrAyBN1x6sY0rb,spotify:track:0zGLlXbHlrAyBN1x6sY0rb,0.418,0.285,-9.43,0.0291,0.83,1.53e-06,0.233,0.4,86.13,196133,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,Summertime,66,2gNjmvuQiEd2z9SqyYi8HH,spotify:track:2gNjmvuQiEd2z9SqyYi8HH,0.172,0.0696,-21.295,0.0339,0.916,0.00199,0.137,0.103,167.974,298133,jazz
+Nina Simone,I Put A Spell On You,66,0sjxRg1VlYfx4YG7uxurrq,spotify:track:0sjxRg1VlYfx4YG7uxurrq,0.42,0.398,-9.13,0.0296,0.755,0.000537,0.172,0.364,88.897,155027,jazz
+Bobby Darin,Beyond the Sea,67,3KzgdYUlqV6TOG7JCmx2Wg,spotify:track:3KzgdYUlqV6TOG7JCmx2Wg,0.521,0.516,-7.456,0.0369,0.723,0.0,0.257,0.569,136.483,172480,jazz
+Aretha Franklin,(You Make Me Feel Like) A Natural Woman,69,5K09WxKdlkroDyEVyOSySy,spotify:track:5K09WxKdlkroDyEVyOSySy,0.65,0.323,-8.698,0.0283,0.213,0.0,0.187,0.276,110.962,166973,jazz
+Nat King Cole,Smile,64,1oDCK7PW72XEZ1pE5rh87A,spotify:track:1oDCK7PW72XEZ1pE5rh87A,0.226,0.136,-19.203,0.0327,0.862,8.07e-06,0.302,0.263,79.37,173267,jazz
+Norah Jones,Come Away With Me,58,52FKX00U3PnzrBQmbMTB8b,spotify:track:52FKX00U3PnzrBQmbMTB8b,0.38,0.119,-14.246,0.0332,0.911,2.4e-06,0.149,0.156,163.139,198227,jazz
+Matthew Halsall,Together,61,2wOlZrHUpRP9hQbqbV9Ae5,spotify:track:2wOlZrHUpRP9hQbqbV9Ae5,0.401,0.0236,-18.749,0.035,0.978,0.579,0.102,0.163,110.519,672520,jazz
+Celia Cruz,La Vida Es Un Carnaval,67,1BwrMGGhPA6GarWIYaFrW8,spotify:track:1BwrMGGhPA6GarWIYaFrW8,0.813,0.701,-6.508,0.0701,0.489,0.00116,0.294,0.855,104.019,278867,jazz
+Ray Charles,I've Got a Woman,67,2xar08Fq5xra2KKZs5Bw9j,spotify:track:2xar08Fq5xra2KKZs5Bw9j,0.556,0.61,-4.729,0.213,0.833,2.22e-06,0.258,0.665,199.373,171467,jazz
+Roy Ayers Ubiquity,Everybody Loves The Sunshine,63,5le4sn0iMcnKU56bdmNzso,spotify:track:5le4sn0iMcnKU56bdmNzso,0.52,0.571,-10.326,0.036,0.168,5.14e-06,0.17,0.701,161.051,239667,jazz
+Louis Armstrong,A Kiss To Build A Dream On - Single Version,61,5y8zb3grlQonjdqd27K39T,spotify:track:5y8zb3grlQonjdqd27K39T,0.723,0.0811,-14.113,0.0631,0.779,0.0,0.509,0.36,88.044,181493,jazz
+Louis Armstrong,La vie en rose - Single Version,0,1XJvQ9c51Kf3dI7lLRJhIg,spotify:track:1XJvQ9c51Kf3dI7lLRJhIg,0.549,0.0525,-14.217,0.0546,0.88,0.00127,0.0954,0.301,138.327,202813,jazz
+Louis Prima,I Wan'na Be Like You (The Monkey Song),62,2EeVPGHq2I7fjeDfT6LEYX,spotify:track:2EeVPGHq2I7fjeDfT6LEYX,0.746,0.404,-15.09,0.0995,0.662,0.000238,0.281,0.795,96.317,279453,jazz
+Yes,Roundabout - 2003 Remaster,67,0YveezON7jpiaHA8fnUHxN,spotify:track:0YveezON7jpiaHA8fnUHxN,0.41,0.761,-9.453,0.0687,0.0682,0.0077,0.0758,0.391,132.889,510573,jazz
+Chet Baker,My Funny Valentine,62,4l9hml2UCnxoNI3yCdL1BW,spotify:track:4l9hml2UCnxoNI3yCdL1BW,0.438,0.00756,-26.44,0.0382,0.941,0.00643,0.109,0.277,133.32,141133,jazz
+Chet Baker,I Fall In Love Too Easily - Vocal Version,65,0F845nujLVqCb0XMZCh5Pc,spotify:track:0F845nujLVqCb0XMZCh5Pc,0.532,0.0657,-19.136,0.0406,0.94,0.00488,0.0946,0.292,128.607,201440,jazz
+Nat King Cole,L-O-V-E,69,4QxDOjgpYtQDxxbWPuEJOy,spotify:track:4QxDOjgpYtQDxxbWPuEJOy,0.425,0.373,-7.543,0.0797,0.679,0.0,0.077,0.663,78.225,155307,jazz
+Etta James,A Sunday Kind Of Love,66,0zGLlXbHlrAyBN1x6sY0rb,spotify:track:0zGLlXbHlrAyBN1x6sY0rb,0.418,0.285,-9.43,0.0291,0.83,1.53e-06,0.233,0.4,86.13,196133,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,Summertime,66,2gNjmvuQiEd2z9SqyYi8HH,spotify:track:2gNjmvuQiEd2z9SqyYi8HH,0.172,0.0696,-21.295,0.0339,0.916,0.00199,0.137,0.103,167.974,298133,jazz
+Nina Simone,I Put A Spell On You,66,0sjxRg1VlYfx4YG7uxurrq,spotify:track:0sjxRg1VlYfx4YG7uxurrq,0.42,0.398,-9.13,0.0296,0.755,0.000537,0.172,0.364,88.897,155027,jazz
+Bobby Darin,Beyond the Sea,67,3KzgdYUlqV6TOG7JCmx2Wg,spotify:track:3KzgdYUlqV6TOG7JCmx2Wg,0.521,0.516,-7.456,0.0369,0.723,0.0,0.257,0.569,136.483,172480,jazz
+Aretha Franklin,(You Make Me Feel Like) A Natural Woman,69,5K09WxKdlkroDyEVyOSySy,spotify:track:5K09WxKdlkroDyEVyOSySy,0.65,0.323,-8.698,0.0283,0.213,0.0,0.187,0.276,110.962,166973,jazz
+Nat King Cole,Smile,64,1oDCK7PW72XEZ1pE5rh87A,spotify:track:1oDCK7PW72XEZ1pE5rh87A,0.226,0.136,-19.203,0.0327,0.862,8.07e-06,0.302,0.263,79.37,173267,jazz
+Norah Jones,Come Away With Me,58,52FKX00U3PnzrBQmbMTB8b,spotify:track:52FKX00U3PnzrBQmbMTB8b,0.38,0.119,-14.246,0.0332,0.911,2.4e-06,0.149,0.156,163.139,198227,jazz
+Matthew Halsall,Together,61,2wOlZrHUpRP9hQbqbV9Ae5,spotify:track:2wOlZrHUpRP9hQbqbV9Ae5,0.401,0.0236,-18.749,0.035,0.978,0.579,0.102,0.163,110.519,672520,jazz
+Celia Cruz,La Vida Es Un Carnaval,67,1BwrMGGhPA6GarWIYaFrW8,spotify:track:1BwrMGGhPA6GarWIYaFrW8,0.813,0.701,-6.508,0.0701,0.489,0.00116,0.294,0.855,104.019,278867,jazz
+Ray Charles,I've Got a Woman,67,2xar08Fq5xra2KKZs5Bw9j,spotify:track:2xar08Fq5xra2KKZs5Bw9j,0.556,0.61,-4.729,0.213,0.833,2.22e-06,0.258,0.665,199.373,171467,jazz
+Roy Ayers Ubiquity,Everybody Loves The Sunshine,63,5le4sn0iMcnKU56bdmNzso,spotify:track:5le4sn0iMcnKU56bdmNzso,0.52,0.571,-10.326,0.036,0.168,5.14e-06,0.17,0.701,161.051,239667,jazz
+Louis Armstrong,A Kiss To Build A Dream On - Single Version,61,5y8zb3grlQonjdqd27K39T,spotify:track:5y8zb3grlQonjdqd27K39T,0.723,0.0811,-14.113,0.0631,0.779,0.0,0.509,0.36,88.044,181493,jazz
+Louis Armstrong,La vie en rose - Single Version,0,1XJvQ9c51Kf3dI7lLRJhIg,spotify:track:1XJvQ9c51Kf3dI7lLRJhIg,0.549,0.0525,-14.217,0.0546,0.88,0.00127,0.0954,0.301,138.327,202813,jazz
+Louis Prima,I Wan'na Be Like You (The Monkey Song),62,2EeVPGHq2I7fjeDfT6LEYX,spotify:track:2EeVPGHq2I7fjeDfT6LEYX,0.746,0.404,-15.09,0.0995,0.662,0.000238,0.281,0.795,96.317,279453,jazz
+Yes,Roundabout - 2003 Remaster,67,0YveezON7jpiaHA8fnUHxN,spotify:track:0YveezON7jpiaHA8fnUHxN,0.41,0.761,-9.453,0.0687,0.0682,0.0077,0.0758,0.391,132.889,510573,jazz
+Chet Baker,My Funny Valentine,62,4l9hml2UCnxoNI3yCdL1BW,spotify:track:4l9hml2UCnxoNI3yCdL1BW,0.438,0.00756,-26.44,0.0382,0.941,0.00643,0.109,0.277,133.32,141133,jazz
+Bill Evans,Gary's Theme - Remastered,61,6yrnPCDXguFp5eZTGmZawc,spotify:track:6yrnPCDXguFp5eZTGmZawc,0.42,0.0802,-21.795,0.04,0.905,0.857,0.135,0.0541,122.041,257693,jazz
+Nat King Cole,L-O-V-E,69,4QxDOjgpYtQDxxbWPuEJOy,spotify:track:4QxDOjgpYtQDxxbWPuEJOy,0.425,0.373,-7.543,0.0797,0.679,0.0,0.077,0.663,78.225,155307,jazz
+Etta James,A Sunday Kind Of Love,66,0zGLlXbHlrAyBN1x6sY0rb,spotify:track:0zGLlXbHlrAyBN1x6sY0rb,0.418,0.285,-9.43,0.0291,0.83,1.53e-06,0.233,0.4,86.13,196133,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,Summertime,66,2gNjmvuQiEd2z9SqyYi8HH,spotify:track:2gNjmvuQiEd2z9SqyYi8HH,0.172,0.0696,-21.295,0.0339,0.916,0.00199,0.137,0.103,167.974,298133,jazz
+Nina Simone,I Put A Spell On You,66,0sjxRg1VlYfx4YG7uxurrq,spotify:track:0sjxRg1VlYfx4YG7uxurrq,0.42,0.398,-9.13,0.0296,0.755,0.000537,0.172,0.364,88.897,155027,jazz
+Bobby Darin,Beyond the Sea,67,3KzgdYUlqV6TOG7JCmx2Wg,spotify:track:3KzgdYUlqV6TOG7JCmx2Wg,0.521,0.516,-7.456,0.0369,0.723,0.0,0.257,0.569,136.483,172480,jazz
+Aretha Franklin,(You Make Me Feel Like) A Natural Woman,69,5K09WxKdlkroDyEVyOSySy,spotify:track:5K09WxKdlkroDyEVyOSySy,0.65,0.323,-8.698,0.0283,0.213,0.0,0.187,0.276,110.962,166973,jazz
+Nat King Cole,Smile,64,1oDCK7PW72XEZ1pE5rh87A,spotify:track:1oDCK7PW72XEZ1pE5rh87A,0.226,0.136,-19.203,0.0327,0.862,8.07e-06,0.302,0.263,79.37,173267,jazz
+Norah Jones,Come Away With Me,58,52FKX00U3PnzrBQmbMTB8b,spotify:track:52FKX00U3PnzrBQmbMTB8b,0.38,0.119,-14.246,0.0332,0.911,2.4e-06,0.149,0.156,163.139,198227,jazz
+Matthew Halsall,Together,61,2wOlZrHUpRP9hQbqbV9Ae5,spotify:track:2wOlZrHUpRP9hQbqbV9Ae5,0.401,0.0236,-18.749,0.035,0.978,0.579,0.102,0.163,110.519,672520,jazz
+Celia Cruz,La Vida Es Un Carnaval,67,1BwrMGGhPA6GarWIYaFrW8,spotify:track:1BwrMGGhPA6GarWIYaFrW8,0.813,0.701,-6.508,0.0701,0.489,0.00116,0.294,0.855,104.019,278867,jazz
+Ray Charles,I've Got a Woman,67,2xar08Fq5xra2KKZs5Bw9j,spotify:track:2xar08Fq5xra2KKZs5Bw9j,0.556,0.61,-4.729,0.213,0.833,2.22e-06,0.258,0.665,199.373,171467,jazz
+Roy Ayers Ubiquity,Everybody Loves The Sunshine,63,5le4sn0iMcnKU56bdmNzso,spotify:track:5le4sn0iMcnKU56bdmNzso,0.52,0.571,-10.326,0.036,0.168,5.14e-06,0.17,0.701,161.051,239667,jazz
+Louis Armstrong,A Kiss To Build A Dream On - Single Version,61,5y8zb3grlQonjdqd27K39T,spotify:track:5y8zb3grlQonjdqd27K39T,0.723,0.0811,-14.113,0.0631,0.779,0.0,0.509,0.36,88.044,181493,jazz
+Louis Armstrong,La vie en rose - Single Version,0,1XJvQ9c51Kf3dI7lLRJhIg,spotify:track:1XJvQ9c51Kf3dI7lLRJhIg,0.549,0.0525,-14.217,0.0546,0.88,0.00127,0.0954,0.301,138.327,202813,jazz
+Louis Prima,I Wan'na Be Like You (The Monkey Song),62,2EeVPGHq2I7fjeDfT6LEYX,spotify:track:2EeVPGHq2I7fjeDfT6LEYX,0.746,0.404,-15.09,0.0995,0.662,0.000238,0.281,0.795,96.317,279453,jazz
+Yes,Roundabout - 2003 Remaster,67,0YveezON7jpiaHA8fnUHxN,spotify:track:0YveezON7jpiaHA8fnUHxN,0.41,0.761,-9.453,0.0687,0.0682,0.0077,0.0758,0.391,132.889,510573,jazz
+Chet Baker,My Funny Valentine,62,4l9hml2UCnxoNI3yCdL1BW,spotify:track:4l9hml2UCnxoNI3yCdL1BW,0.438,0.00756,-26.44,0.0382,0.941,0.00643,0.109,0.277,133.32,141133,jazz
+Bill Evans,Gary's Theme - Remastered,61,6yrnPCDXguFp5eZTGmZawc,spotify:track:6yrnPCDXguFp5eZTGmZawc,0.42,0.0802,-21.795,0.04,0.905,0.857,0.135,0.0541,122.041,257693,jazz
+Dean Martin,Everybody Loves Somebody,63,78VG6M1i7JQXBdygmWFwye,spotify:track:78VG6M1i7JQXBdygmWFwye,0.26,0.49,-9.121,0.0415,0.806,0.0,0.336,0.399,80.599,161640,jazz
+Etta James,A Sunday Kind Of Love,66,0zGLlXbHlrAyBN1x6sY0rb,spotify:track:0zGLlXbHlrAyBN1x6sY0rb,0.418,0.285,-9.43,0.0291,0.83,1.53e-06,0.233,0.4,86.13,196133,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,Summertime,66,2gNjmvuQiEd2z9SqyYi8HH,spotify:track:2gNjmvuQiEd2z9SqyYi8HH,0.172,0.0696,-21.295,0.0339,0.916,0.00199,0.137,0.103,167.974,298133,jazz
+Nina Simone,I Put A Spell On You,66,0sjxRg1VlYfx4YG7uxurrq,spotify:track:0sjxRg1VlYfx4YG7uxurrq,0.42,0.398,-9.13,0.0296,0.755,0.000537,0.172,0.364,88.897,155027,jazz
+Bobby Darin,Beyond the Sea,67,3KzgdYUlqV6TOG7JCmx2Wg,spotify:track:3KzgdYUlqV6TOG7JCmx2Wg,0.521,0.516,-7.456,0.0369,0.723,0.0,0.257,0.569,136.483,172480,jazz
+Aretha Franklin,(You Make Me Feel Like) A Natural Woman,69,5K09WxKdlkroDyEVyOSySy,spotify:track:5K09WxKdlkroDyEVyOSySy,0.65,0.323,-8.698,0.0283,0.213,0.0,0.187,0.276,110.962,166973,jazz
+Nat King Cole,Smile,64,1oDCK7PW72XEZ1pE5rh87A,spotify:track:1oDCK7PW72XEZ1pE5rh87A,0.226,0.136,-19.203,0.0327,0.862,8.07e-06,0.302,0.263,79.37,173267,jazz
+Norah Jones,Come Away With Me,58,52FKX00U3PnzrBQmbMTB8b,spotify:track:52FKX00U3PnzrBQmbMTB8b,0.38,0.119,-14.246,0.0332,0.911,2.4e-06,0.149,0.156,163.139,198227,jazz
+Matthew Halsall,Together,61,2wOlZrHUpRP9hQbqbV9Ae5,spotify:track:2wOlZrHUpRP9hQbqbV9Ae5,0.401,0.0236,-18.749,0.035,0.978,0.579,0.102,0.163,110.519,672520,jazz
+Celia Cruz,La Vida Es Un Carnaval,67,1BwrMGGhPA6GarWIYaFrW8,spotify:track:1BwrMGGhPA6GarWIYaFrW8,0.813,0.701,-6.508,0.0701,0.489,0.00116,0.294,0.855,104.019,278867,jazz
+Ray Charles,I've Got a Woman,67,2xar08Fq5xra2KKZs5Bw9j,spotify:track:2xar08Fq5xra2KKZs5Bw9j,0.556,0.61,-4.729,0.213,0.833,2.22e-06,0.258,0.665,199.373,171467,jazz
+Roy Ayers Ubiquity,Everybody Loves The Sunshine,63,5le4sn0iMcnKU56bdmNzso,spotify:track:5le4sn0iMcnKU56bdmNzso,0.52,0.571,-10.326,0.036,0.168,5.14e-06,0.17,0.701,161.051,239667,jazz
+Louis Armstrong,A Kiss To Build A Dream On - Single Version,61,5y8zb3grlQonjdqd27K39T,spotify:track:5y8zb3grlQonjdqd27K39T,0.723,0.0811,-14.113,0.0631,0.779,0.0,0.509,0.36,88.044,181493,jazz
+Louis Armstrong,La vie en rose - Single Version,0,1XJvQ9c51Kf3dI7lLRJhIg,spotify:track:1XJvQ9c51Kf3dI7lLRJhIg,0.549,0.0525,-14.217,0.0546,0.88,0.00127,0.0954,0.301,138.327,202813,jazz
+Louis Prima,I Wan'na Be Like You (The Monkey Song),62,2EeVPGHq2I7fjeDfT6LEYX,spotify:track:2EeVPGHq2I7fjeDfT6LEYX,0.746,0.404,-15.09,0.0995,0.662,0.000238,0.281,0.795,96.317,279453,jazz
+Yes,Roundabout - 2003 Remaster,67,0YveezON7jpiaHA8fnUHxN,spotify:track:0YveezON7jpiaHA8fnUHxN,0.41,0.761,-9.453,0.0687,0.0682,0.0077,0.0758,0.391,132.889,510573,jazz
+Chet Baker,My Funny Valentine,62,4l9hml2UCnxoNI3yCdL1BW,spotify:track:4l9hml2UCnxoNI3yCdL1BW,0.438,0.00756,-26.44,0.0382,0.941,0.00643,0.109,0.277,133.32,141133,jazz
+Bill Evans,Gary's Theme - Remastered,61,6yrnPCDXguFp5eZTGmZawc,spotify:track:6yrnPCDXguFp5eZTGmZawc,0.42,0.0802,-21.795,0.04,0.905,0.857,0.135,0.0541,122.041,257693,jazz
+Dean Martin,Everybody Loves Somebody,63,78VG6M1i7JQXBdygmWFwye,spotify:track:78VG6M1i7JQXBdygmWFwye,0.26,0.49,-9.121,0.0415,0.806,0.0,0.336,0.399,80.599,161640,jazz
+L'Indécis,Soulful,63,7D3KO9gj0szuA7rXZL8jjk,spotify:track:7D3KO9gj0szuA7rXZL8jjk,0.53,0.338,-10.691,0.11,0.473,0.876,0.124,0.111,173.737,220690,jazz
+Dean Martin,That's Amore,62,4I4aQGNJ2HufloNtB65nxR,spotify:track:4I4aQGNJ2HufloNtB65nxR,0.471,0.146,-13.6,0.0309,0.782,0.0,0.0888,0.595,78.554,190400,jazz
+Louis Armstrong,La vie en rose - Single Version,60,3yYfoYGVpriV4fG9L1ogsD,spotify:track:3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,-10.396,0.0525,0.809,0.00121,0.0916,0.341,70.16,206333,jazz
+McCoy Tyner,When Sunny Gets Blue,63,1J9iVCaEriyoMXpj2XszhU,spotify:track:1J9iVCaEriyoMXpj2XszhU,0.427,0.114,-22.546,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,jazz
+Billie Holiday,I'll Be Seeing You,64,4smkJW6uzoHxGReZqqwHS5,spotify:track:4smkJW6uzoHxGReZqqwHS5,0.355,0.0304,-20.479,0.0361,0.989,0.0555,0.116,0.188,90.495,211533,jazz
+Ella Fitzgerald,Cheek To Cheek,67,33jt3kYWjQzqn3xyYQ5ZEh,spotify:track:33jt3kYWjQzqn3xyYQ5ZEh,0.663,0.264,-14.571,0.0914,0.706,0.0,0.1,0.657,122.482,354533,jazz
+Bill Evans,Skating In Central Park,63,1cpANF6zMBoFoxkoIjZHjv,spotify:track:1cpANF6zMBoFoxkoIjZHjv,0.478,0.0294,-25.319,0.0453,0.993,0.948,0.105,0.148,124.308,324200,jazz
+Stan Getz,The Girl From Ipanema,68,3898C4AbdbptwYet6547e5,spotify:track:3898C4AbdbptwYet6547e5,0.664,0.194,-15.487,0.0357,0.909,3.85e-05,0.0829,0.443,129.863,321827,jazz
+Aretha Franklin,I Say a Little Prayer,75,3NfxSdJnVdon1axzloJgba,spotify:track:3NfxSdJnVdon1axzloJgba,0.59,0.355,-14.051,0.0352,0.48,0.0,0.0585,0.499,133.03,216773,jazz
+Caravan Palace,Aftermath,57,3QuTLjEgI5v5gL7VxoE05e,spotify:track:3QuTLjEgI5v5gL7VxoE05e,0.613,0.631,-7.731,0.0411,0.232,0.00362,0.284,0.388,140.002,185870,jazz
+Bill Evans Trio,My Foolish Heart,63,6yKkA8HzwWTZ5taIMaG4Nm,spotify:track:6yKkA8HzwWTZ5taIMaG4Nm,0.395,0.121,-23.427,0.0327,0.935,0.397,0.697,0.139,114.521,297320,jazz
+The Pharcyde,Passin' Me By,67,4G3dZN9o3o2X4VKwt4CLts,spotify:track:4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,-8.145,0.266,0.0903,2.36e-06,0.265,0.613,87.059,303493,jazz
+Souls Of Mischief,93 'Til Infinity,68,0PV1TFUMTBrDETzW6KQulB,spotify:track:0PV1TFUMTBrDETzW6KQulB,0.59,0.672,-11.792,0.412,0.125,1.04e-06,0.147,0.688,206.247,286440,jazz
+Duke Ellington,My Little Brown Book,62,4rmCI9VWrwrJTJ8XQ80BMN,spotify:track:4rmCI9VWrwrJTJ8XQ80BMN,0.372,0.187,-13.497,0.0323,0.942,0.139,0.161,0.217,70.334,319733,jazz
+Norah Jones,Don't Know Why,60,4yZYolqyUgoGxSCoKZuYjN,spotify:track:4yZYolqyUgoGxSCoKZuYjN,0.739,0.199,-11.763,0.028,0.877,1.23e-05,0.0591,0.631,88.466,186160,jazz
+Nat King Cole,Unforgettable,65,648TTtYB0bH0P8Hfy0FmkL,spotify:track:648TTtYB0bH0P8Hfy0FmkL,0.349,0.182,-13.507,0.031,0.92,0.0152,0.143,0.178,136.094,191973,jazz
+The Dave Brubeck Quartet,Take Five,66,1YQWosTIljIvxAgHWTp7KP,spotify:track:1YQWosTIljIvxAgHWTp7KP,0.454,0.26,-13.193,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,jazz
+Dean Martin,Ain't That A Kick In The Head,60,7fQ3PYTYdu208fQ3JEm2U7,spotify:track:7fQ3PYTYdu208fQ3JEm2U7,0.586,0.253,-11.93,0.0538,0.604,0.0,0.3,0.718,108.168,147293,jazz
+Norah Jones,Turn Me On,68,6FjAGZp7c0Z2uaL3eHkXsx,spotify:track:6FjAGZp7c0Z2uaL3eHkXsx,0.57,0.172,-10.897,0.0344,0.869,1.14e-06,0.114,0.521,84.948,154640,jazz
+Stan Getz,A Nightingale Sang In Berkeley Square,64,1xaTXPoDk4VOU9XhYX4KJM,spotify:track:1xaTXPoDk4VOU9XhYX4KJM,0.425,0.0429,-24.86,0.0408,0.951,0.0184,0.148,0.255,96.097,419627,jazz
+Harry James,"It's Been a Long, Long Time",57,52XDumqYDUXX16R7FM5fpV,spotify:track:52XDumqYDUXX16R7FM5fpV,0.271,0.219,-9.767,0.031,0.938,0.00086,0.263,0.375,74.68,203773,jazz
+A Tribe Called Quest,Can I Kick It?,70,3Ti0GdlrotgwsAVBBugv0I,spotify:track:3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,jazz
+"Earth, Wind & Fire",Shining Star,62,0RgcOUQg4qYAEt9RIdf3oB,spotify:track:0RgcOUQg4qYAEt9RIdf3oB,0.676,0.692,-13.093,0.052,0.668,0.00915,0.13,0.799,102.516,170160,jazz
+John Coltrane,My One And Only Love,56,1BPmVDqR4cX9aFC0Qx0eWn,spotify:track:1BPmVDqR4cX9aFC0Qx0eWn,0.461,0.0546,-18.982,0.0362,0.988,0.208,0.126,0.23,128.91,296667,jazz
+Leslie Odom Jr.,The World Was Wide Enough,61,0P09TBGSKiQwfUsEh1UafT,spotify:track:0P09TBGSKiQwfUsEh1UafT,0.653,0.351,-12.776,0.648,0.466,0.0,0.107,0.309,116.605,302191,jazz
+Dusty Springfield,Son of a Preacher Man,62,7odHgoLFi3GQ90E9PeraI3,spotify:track:7odHgoLFi3GQ90E9PeraI3,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,jazz
+Chet Baker,It's Always You - Vocal Version,62,06UkYE0SZ3Y8zGRFOuWGAe,spotify:track:06UkYE0SZ3Y8zGRFOuWGAe,0.499,0.0341,-22.31,0.0417,0.923,5.27e-05,0.131,0.31,81.735,215467,jazz
+Miles Davis,So What,63,4vLYewWIvqHfKtJDk8c8tq,spotify:track:4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,-17.266,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,jazz
+Oscar Peterson Trio,I Got It Bad And That Ain't Good,63,4ol2UyMTiklHVujAWg02nE,spotify:track:4ol2UyMTiklHVujAWg02nE,0.488,0.0527,-27.331,0.0478,0.971,0.911,0.0882,0.193,49.689,306227,jazz
+Dean Martin,Volare (Nel Blu Di Pinto Di Blu) - Remastered,65,5OkKOkdVTKFrYi6GWXkMzR,spotify:track:5OkKOkdVTKFrYi6GWXkMzR,0.612,0.144,-12.204,0.0352,0.88,0.0,0.203,0.343,128.629,181627,jazz
+Caravan Palace,Wonderland,56,2tzLjiRec9KtzdhgyVYN6Z,spotify:track:2tzLjiRec9KtzdhgyVYN6Z,0.772,0.796,-5.546,0.274,0.313,0.00272,0.0754,0.499,104.013,190554,jazz
+Ella Fitzgerald,It's Only A Paper Moon,62,373yGkNo74RZgmQgTiR8xK,spotify:track:373yGkNo74RZgmQgTiR8xK,0.761,0.103,-16.964,0.0416,0.944,0.0,0.127,0.53,114.044,160133,jazz
+Louis Armstrong,Summertime,66,2gNjmvuQiEd2z9SqyYi8HH,spotify:track:2gNjmvuQiEd2z9SqyYi8HH,0.172,0.0696,-21.295,0.0339,0.916,0.00199,0.137,0.103,167.974,298133,jazz
+Nina Simone,I Put A Spell On You,66,0sjxRg1VlYfx4YG7uxurrq,spotify:track:0sjxRg1VlYfx4YG7uxurrq,0.42,0.398,-9.13,0.0296,0.755,0.000537,0.172,0.364,88.897,155027,jazz
+Bobby Darin,Beyond the Sea,67,3KzgdYUlqV6TOG7JCmx2Wg,spotify:track:3KzgdYUlqV6TOG7JCmx2Wg,0.521,0.516,-7.456,0.0369,0.723,0.0,0.257,0.569,136.483,172480,jazz
+Aretha Franklin,(You Make Me Feel Like) A Natural Woman,69,5K09WxKdlkroDyEVyOSySy,spotify:track:5K09WxKdlkroDyEVyOSySy,0.65,0.323,-8.698,0.0283,0.213,0.0,0.187,0.276,110.962,166973,jazz
+Nat King Cole,Smile,64,1oDCK7PW72XEZ1pE5rh87A,spotify:track:1oDCK7PW72XEZ1pE5rh87A,0.226,0.136,-19.203,0.0327,0.862,8.07e-06,0.302,0.263,79.37,173267,jazz
+Norah Jones,Come Away With Me,58,52FKX00U3PnzrBQmbMTB8b,spotify:track:52FKX00U3PnzrBQmbMTB8b,0.38,0.119,-14.246,0.0332,0.911,2.4e-06,0.149,0.156,163.139,198227,jazz
+Matthew Halsall,Together,61,2wOlZrHUpRP9hQbqbV9Ae5,spotify:track:2wOlZrHUpRP9hQbqbV9Ae5,0.401,0.0236,-18.749,0.035,0.978,0.579,0.102,0.163,110.519,672520,jazz
+Celia Cruz,La Vida Es Un Carnaval,67,1BwrMGGhPA6GarWIYaFrW8,spotify:track:1BwrMGGhPA6GarWIYaFrW8,0.813,0.701,-6.508,0.0701,0.489,0.00116,0.294,0.855,104.019,278867,jazz
+Ray Charles,I've Got a Woman,67,2xar08Fq5xra2KKZs5Bw9j,spotify:track:2xar08Fq5xra2KKZs5Bw9j,0.556,0.61,-4.729,0.213,0.833,2.22e-06,0.258,0.665,199.373,171467,jazz
+Roy Ayers Ubiquity,Everybody Loves The Sunshine,63,5le4sn0iMcnKU56bdmNzso,spotify:track:5le4sn0iMcnKU56bdmNzso,0.52,0.571,-10.326,0.036,0.168,5.14e-06,0.17,0.701,161.051,239667,jazz
+Louis Armstrong,A Kiss To Build A Dream On - Single Version,61,5y8zb3grlQonjdqd27K39T,spotify:track:5y8zb3grlQonjdqd27K39T,0.723,0.0811,-14.113,0.0631,0.779,0.0,0.509,0.36,88.044,181493,jazz
+Louis Armstrong,La vie en rose - Single Version,0,1XJvQ9c51Kf3dI7lLRJhIg,spotify:track:1XJvQ9c51Kf3dI7lLRJhIg,0.549,0.0525,-14.217,0.0546,0.88,0.00127,0.0954,0.301,138.327,202813,jazz
+Louis Prima,I Wan'na Be Like You (The Monkey Song),62,2EeVPGHq2I7fjeDfT6LEYX,spotify:track:2EeVPGHq2I7fjeDfT6LEYX,0.746,0.404,-15.09,0.0995,0.662,0.000238,0.281,0.795,96.317,279453,jazz
+Yes,Roundabout - 2003 Remaster,67,0YveezON7jpiaHA8fnUHxN,spotify:track:0YveezON7jpiaHA8fnUHxN,0.41,0.761,-9.453,0.0687,0.0682,0.0077,0.0758,0.391,132.889,510573,jazz
+Chet Baker,My Funny Valentine,62,4l9hml2UCnxoNI3yCdL1BW,spotify:track:4l9hml2UCnxoNI3yCdL1BW,0.438,0.00756,-26.44,0.0382,0.941,0.00643,0.109,0.277,133.32,141133,jazz
+Bill Evans,Gary's Theme - Remastered,61,6yrnPCDXguFp5eZTGmZawc,spotify:track:6yrnPCDXguFp5eZTGmZawc,0.42,0.0802,-21.795,0.04,0.905,0.857,0.135,0.0541,122.041,257693,jazz
+Dean Martin,Everybody Loves Somebody,63,78VG6M1i7JQXBdygmWFwye,spotify:track:78VG6M1i7JQXBdygmWFwye,0.26,0.49,-9.121,0.0415,0.806,0.0,0.336,0.399,80.599,161640,jazz
+L'Indécis,Soulful,63,7D3KO9gj0szuA7rXZL8jjk,spotify:track:7D3KO9gj0szuA7rXZL8jjk,0.53,0.338,-10.691,0.11,0.473,0.876,0.124,0.111,173.737,220690,jazz
+"Earth, Wind & Fire",After the Love Has Gone,67,3cfnGXJ9bmiWvFqEO6ff8B,spotify:track:3cfnGXJ9bmiWvFqEO6ff8B,0.424,0.443,-13.45,0.0382,0.532,0.000389,0.673,0.391,131.675,278040,jazz

@@ -1,0 +1,1001 @@
+artist_name,track_name,popularity,track_id,track_uri,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration,genre
+Drake,Toosie Slide,99,127QTOFJsJQp5LbJbu3A1y,spotify:track:127QTOFJsJQp5LbJbu3A1y,0.834,0.454,-9.75,0.201,0.321,6.15e-06,0.114,0.837,81.618,247059,hiphop
+Jack Harlow,WHATS POPPIN,93,1jaTQ3nqY3oAAYyCTbIvnM,spotify:track:1jaTQ3nqY3oAAYyCTbIvnM,0.923,0.604,-6.671,0.245,0.017,0.0,0.272,0.826,145.062,139741,hiphop
+Future,Life Is Good (feat. Drake),94,5yY9lUy8nbvjM1Uyo1Uqoc,spotify:track:5yY9lUy8nbvjM1Uyo1Uqoc,0.676,0.609,-5.831,0.481,0.0706,0.0,0.152,0.508,142.037,237735,hiphop
+DaBaby,ROCKSTAR (feat. Roddy Ricch),91,7ytR5pFWmSjzHJIeQkgog4,spotify:track:7ytR5pFWmSjzHJIeQkgog4,0.746,0.69,-7.956,0.164,0.247,0.0,0.101,0.497,89.977,181733,hiphop
+NLE Choppa,Walk Em Down (feat. Roddy Ricch),90,4cSSL3YafYjM3yjgFO1vJg,spotify:track:4cSSL3YafYjM3yjgFO1vJg,0.867,0.744,-5.171,0.228,0.268,0.0,0.0713,0.645,84.005,173288,hiphop
+Eminem,Godzilla (feat. Juice WRLD),93,7FIWs0pqAYbP91WWM0vlTQ,spotify:track:7FIWs0pqAYbP91WWM0vlTQ,0.808,0.745,-5.26,0.342,0.145,0.0,0.292,0.829,165.995,210800,hiphop
+DaBaby,BOP,88,6Ozh9Ok6h4Oi1wUSLtBseN,spotify:track:6Ozh9Ok6h4Oi1wUSLtBseN,0.769,0.787,-3.909,0.367,0.189,0.0,0.129,0.836,126.77,159715,hiphop
+G Herbo,PTSD,86,3jT2LKH0RSbQ8jIUNFzXm5,spotify:track:3jT2LKH0RSbQ8jIUNFzXm5,0.883,0.808,-3.158,0.183,0.0317,0.0,0.207,0.805,119.012,232065,hiphop
+Playboi Carti,@ MEH,86,5UusfWUMMLEXLMc1ViNZoe,spotify:track:5UusfWUMMLEXLMc1ViNZoe,0.876,0.492,-8.11,0.153,0.0136,0.000283,0.0678,0.4,151.044,166799,hiphop
+Lil Yachty,Oprah’s Bank Account (Lil Yachty & DaBaby feat. Drake),86,7wsmIIm0xWmtP7TmACXkJn,spotify:track:7wsmIIm0xWmtP7TmACXkJn,0.836,0.617,-4.363,0.0534,0.17,0.0,0.319,0.866,138.066,206702,hiphop
+Mustard,Ballin' (with Roddy Ricch),89,3QzAOrNlsabgbMwlZt7TAY,spotify:track:3QzAOrNlsabgbMwlZt7TAY,0.809,0.545,-6.678,0.0735,0.392,0.0,0.151,0.244,97.008,180435,hiphop
+DaBaby,TOES (feat. Lil Baby & Moneybagg Yo),85,2FvD20Z8aoWIePi7PoN8sG,spotify:track:2FvD20Z8aoWIePi7PoN8sG,0.816,0.582,-4.141,0.341,0.0794,5.84e-06,0.0916,0.542,160.004,136366,hiphop
+DaBaby,Suge,84,2gwkD6igEhQbDQegRCcdoB,spotify:track:2gwkD6igEhQbDQegRCcdoB,0.876,0.662,-6.482,0.426,0.0608,0.0,0.127,0.844,75.445,163320,hiphop
+DaBaby,VIBEZ,85,0fySG6A6qLE8IvDpayb5bM,spotify:track:0fySG6A6qLE8IvDpayb5bM,0.768,0.652,-2.708,0.307,0.113,0.0,0.107,0.777,154.187,144935,hiphop
+J. Cole,MIDDLE CHILD,84,2JvzF1RMd7lE3KmFlsyZD8,spotify:track:2JvzF1RMd7lE3KmFlsyZD8,0.837,0.364,-11.713,0.276,0.149,0.0,0.271,0.463,123.984,213594,hiphop
+NAV,Turks (feat. Travis Scott),88,0lSZh5W0wDeurkGzLYY6hf,spotify:track:0lSZh5W0wDeurkGzLYY6hf,0.893,0.618,-4.425,0.112,0.0827,0.0,0.542,0.389,119.099,161377,hiphop
+XXXTENTACION,Jocelyn Flores,88,7m9OqQk4RVRkw9JJdeAw96,spotify:track:7m9OqQk4RVRkw9JJdeAw96,0.872,0.391,-9.144,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,hiphop
+"Tyler, The Creator",EARFQUAKE,84,5hVghJ4KaYES3BFUATCYn0,spotify:track:5hVghJ4KaYES3BFUATCYn0,0.554,0.498,-8.866,0.0685,0.23,5.98e-06,0.795,0.413,79.635,190067,hiphop
+DaBaby,FIND MY WAY,83,1gVCEnryJhkdQcuC0Kbvor,spotify:track:1gVCEnryJhkdQcuC0Kbvor,0.836,0.624,-6.75,0.184,0.187,0.0,0.138,0.7,103.0,139890,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Jack Harlow,WHATS POPPIN,93,1jaTQ3nqY3oAAYyCTbIvnM,spotify:track:1jaTQ3nqY3oAAYyCTbIvnM,0.923,0.604,-6.671,0.245,0.017,0.0,0.272,0.826,145.062,139741,hiphop
+Future,Life Is Good (feat. Drake),94,5yY9lUy8nbvjM1Uyo1Uqoc,spotify:track:5yY9lUy8nbvjM1Uyo1Uqoc,0.676,0.609,-5.831,0.481,0.0706,0.0,0.152,0.508,142.037,237735,hiphop
+DaBaby,ROCKSTAR (feat. Roddy Ricch),91,7ytR5pFWmSjzHJIeQkgog4,spotify:track:7ytR5pFWmSjzHJIeQkgog4,0.746,0.69,-7.956,0.164,0.247,0.0,0.101,0.497,89.977,181733,hiphop
+NLE Choppa,Walk Em Down (feat. Roddy Ricch),90,4cSSL3YafYjM3yjgFO1vJg,spotify:track:4cSSL3YafYjM3yjgFO1vJg,0.867,0.744,-5.171,0.228,0.268,0.0,0.0713,0.645,84.005,173288,hiphop
+Eminem,Godzilla (feat. Juice WRLD),93,7FIWs0pqAYbP91WWM0vlTQ,spotify:track:7FIWs0pqAYbP91WWM0vlTQ,0.808,0.745,-5.26,0.342,0.145,0.0,0.292,0.829,165.995,210800,hiphop
+DaBaby,BOP,88,6Ozh9Ok6h4Oi1wUSLtBseN,spotify:track:6Ozh9Ok6h4Oi1wUSLtBseN,0.769,0.787,-3.909,0.367,0.189,0.0,0.129,0.836,126.77,159715,hiphop
+G Herbo,PTSD,86,3jT2LKH0RSbQ8jIUNFzXm5,spotify:track:3jT2LKH0RSbQ8jIUNFzXm5,0.883,0.808,-3.158,0.183,0.0317,0.0,0.207,0.805,119.012,232065,hiphop
+Playboi Carti,@ MEH,86,5UusfWUMMLEXLMc1ViNZoe,spotify:track:5UusfWUMMLEXLMc1ViNZoe,0.876,0.492,-8.11,0.153,0.0136,0.000283,0.0678,0.4,151.044,166799,hiphop
+Lil Yachty,Oprah’s Bank Account (Lil Yachty & DaBaby feat. Drake),86,7wsmIIm0xWmtP7TmACXkJn,spotify:track:7wsmIIm0xWmtP7TmACXkJn,0.836,0.617,-4.363,0.0534,0.17,0.0,0.319,0.866,138.066,206702,hiphop
+Mustard,Ballin' (with Roddy Ricch),89,3QzAOrNlsabgbMwlZt7TAY,spotify:track:3QzAOrNlsabgbMwlZt7TAY,0.809,0.545,-6.678,0.0735,0.392,0.0,0.151,0.244,97.008,180435,hiphop
+DaBaby,TOES (feat. Lil Baby & Moneybagg Yo),85,2FvD20Z8aoWIePi7PoN8sG,spotify:track:2FvD20Z8aoWIePi7PoN8sG,0.816,0.582,-4.141,0.341,0.0794,5.84e-06,0.0916,0.542,160.004,136366,hiphop
+DaBaby,Suge,84,2gwkD6igEhQbDQegRCcdoB,spotify:track:2gwkD6igEhQbDQegRCcdoB,0.876,0.662,-6.482,0.426,0.0608,0.0,0.127,0.844,75.445,163320,hiphop
+DaBaby,VIBEZ,85,0fySG6A6qLE8IvDpayb5bM,spotify:track:0fySG6A6qLE8IvDpayb5bM,0.768,0.652,-2.708,0.307,0.113,0.0,0.107,0.777,154.187,144935,hiphop
+J. Cole,MIDDLE CHILD,84,2JvzF1RMd7lE3KmFlsyZD8,spotify:track:2JvzF1RMd7lE3KmFlsyZD8,0.837,0.364,-11.713,0.276,0.149,0.0,0.271,0.463,123.984,213594,hiphop
+NAV,Turks (feat. Travis Scott),88,0lSZh5W0wDeurkGzLYY6hf,spotify:track:0lSZh5W0wDeurkGzLYY6hf,0.893,0.618,-4.425,0.112,0.0827,0.0,0.542,0.389,119.099,161377,hiphop
+XXXTENTACION,Jocelyn Flores,88,7m9OqQk4RVRkw9JJdeAw96,spotify:track:7m9OqQk4RVRkw9JJdeAw96,0.872,0.391,-9.144,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,hiphop
+"Tyler, The Creator",EARFQUAKE,84,5hVghJ4KaYES3BFUATCYn0,spotify:track:5hVghJ4KaYES3BFUATCYn0,0.554,0.498,-8.866,0.0685,0.23,5.98e-06,0.795,0.413,79.635,190067,hiphop
+DaBaby,FIND MY WAY,83,1gVCEnryJhkdQcuC0Kbvor,spotify:track:1gVCEnryJhkdQcuC0Kbvor,0.836,0.624,-6.75,0.184,0.187,0.0,0.138,0.7,103.0,139890,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,80,6PGoSes0D9eUDeeAafB2As,spotify:track:6PGoSes0D9eUDeeAafB2As,0.8,0.585,-7.343,0.0924,0.264,0.0,0.153,0.779,126.058,213400,hiphop
+Future,Life Is Good (feat. Drake),94,5yY9lUy8nbvjM1Uyo1Uqoc,spotify:track:5yY9lUy8nbvjM1Uyo1Uqoc,0.676,0.609,-5.831,0.481,0.0706,0.0,0.152,0.508,142.037,237735,hiphop
+DaBaby,ROCKSTAR (feat. Roddy Ricch),91,7ytR5pFWmSjzHJIeQkgog4,spotify:track:7ytR5pFWmSjzHJIeQkgog4,0.746,0.69,-7.956,0.164,0.247,0.0,0.101,0.497,89.977,181733,hiphop
+NLE Choppa,Walk Em Down (feat. Roddy Ricch),90,4cSSL3YafYjM3yjgFO1vJg,spotify:track:4cSSL3YafYjM3yjgFO1vJg,0.867,0.744,-5.171,0.228,0.268,0.0,0.0713,0.645,84.005,173288,hiphop
+Eminem,Godzilla (feat. Juice WRLD),93,7FIWs0pqAYbP91WWM0vlTQ,spotify:track:7FIWs0pqAYbP91WWM0vlTQ,0.808,0.745,-5.26,0.342,0.145,0.0,0.292,0.829,165.995,210800,hiphop
+DaBaby,BOP,88,6Ozh9Ok6h4Oi1wUSLtBseN,spotify:track:6Ozh9Ok6h4Oi1wUSLtBseN,0.769,0.787,-3.909,0.367,0.189,0.0,0.129,0.836,126.77,159715,hiphop
+G Herbo,PTSD,86,3jT2LKH0RSbQ8jIUNFzXm5,spotify:track:3jT2LKH0RSbQ8jIUNFzXm5,0.883,0.808,-3.158,0.183,0.0317,0.0,0.207,0.805,119.012,232065,hiphop
+Playboi Carti,@ MEH,86,5UusfWUMMLEXLMc1ViNZoe,spotify:track:5UusfWUMMLEXLMc1ViNZoe,0.876,0.492,-8.11,0.153,0.0136,0.000283,0.0678,0.4,151.044,166799,hiphop
+Lil Yachty,Oprah’s Bank Account (Lil Yachty & DaBaby feat. Drake),86,7wsmIIm0xWmtP7TmACXkJn,spotify:track:7wsmIIm0xWmtP7TmACXkJn,0.836,0.617,-4.363,0.0534,0.17,0.0,0.319,0.866,138.066,206702,hiphop
+Mustard,Ballin' (with Roddy Ricch),89,3QzAOrNlsabgbMwlZt7TAY,spotify:track:3QzAOrNlsabgbMwlZt7TAY,0.809,0.545,-6.678,0.0735,0.392,0.0,0.151,0.244,97.008,180435,hiphop
+DaBaby,TOES (feat. Lil Baby & Moneybagg Yo),85,2FvD20Z8aoWIePi7PoN8sG,spotify:track:2FvD20Z8aoWIePi7PoN8sG,0.816,0.582,-4.141,0.341,0.0794,5.84e-06,0.0916,0.542,160.004,136366,hiphop
+DaBaby,Suge,84,2gwkD6igEhQbDQegRCcdoB,spotify:track:2gwkD6igEhQbDQegRCcdoB,0.876,0.662,-6.482,0.426,0.0608,0.0,0.127,0.844,75.445,163320,hiphop
+DaBaby,VIBEZ,85,0fySG6A6qLE8IvDpayb5bM,spotify:track:0fySG6A6qLE8IvDpayb5bM,0.768,0.652,-2.708,0.307,0.113,0.0,0.107,0.777,154.187,144935,hiphop
+J. Cole,MIDDLE CHILD,84,2JvzF1RMd7lE3KmFlsyZD8,spotify:track:2JvzF1RMd7lE3KmFlsyZD8,0.837,0.364,-11.713,0.276,0.149,0.0,0.271,0.463,123.984,213594,hiphop
+NAV,Turks (feat. Travis Scott),88,0lSZh5W0wDeurkGzLYY6hf,spotify:track:0lSZh5W0wDeurkGzLYY6hf,0.893,0.618,-4.425,0.112,0.0827,0.0,0.542,0.389,119.099,161377,hiphop
+XXXTENTACION,Jocelyn Flores,88,7m9OqQk4RVRkw9JJdeAw96,spotify:track:7m9OqQk4RVRkw9JJdeAw96,0.872,0.391,-9.144,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,hiphop
+"Tyler, The Creator",EARFQUAKE,84,5hVghJ4KaYES3BFUATCYn0,spotify:track:5hVghJ4KaYES3BFUATCYn0,0.554,0.498,-8.866,0.0685,0.23,5.98e-06,0.795,0.413,79.635,190067,hiphop
+DaBaby,FIND MY WAY,83,1gVCEnryJhkdQcuC0Kbvor,spotify:track:1gVCEnryJhkdQcuC0Kbvor,0.836,0.624,-6.75,0.184,0.187,0.0,0.138,0.7,103.0,139890,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,80,6PGoSes0D9eUDeeAafB2As,spotify:track:6PGoSes0D9eUDeeAafB2As,0.8,0.585,-7.343,0.0924,0.264,0.0,0.153,0.779,126.058,213400,hiphop
+Lil Peep,Star Shopping,84,30bqVoKjX479ab90a8Pafp,spotify:track:30bqVoKjX479ab90a8Pafp,0.585,0.471,-9.934,0.0616,0.0967,0.0184,0.115,0.323,93.099,142000,hiphop
+DaBaby,ROCKSTAR (feat. Roddy Ricch),91,7ytR5pFWmSjzHJIeQkgog4,spotify:track:7ytR5pFWmSjzHJIeQkgog4,0.746,0.69,-7.956,0.164,0.247,0.0,0.101,0.497,89.977,181733,hiphop
+NLE Choppa,Walk Em Down (feat. Roddy Ricch),90,4cSSL3YafYjM3yjgFO1vJg,spotify:track:4cSSL3YafYjM3yjgFO1vJg,0.867,0.744,-5.171,0.228,0.268,0.0,0.0713,0.645,84.005,173288,hiphop
+Eminem,Godzilla (feat. Juice WRLD),93,7FIWs0pqAYbP91WWM0vlTQ,spotify:track:7FIWs0pqAYbP91WWM0vlTQ,0.808,0.745,-5.26,0.342,0.145,0.0,0.292,0.829,165.995,210800,hiphop
+DaBaby,BOP,88,6Ozh9Ok6h4Oi1wUSLtBseN,spotify:track:6Ozh9Ok6h4Oi1wUSLtBseN,0.769,0.787,-3.909,0.367,0.189,0.0,0.129,0.836,126.77,159715,hiphop
+G Herbo,PTSD,86,3jT2LKH0RSbQ8jIUNFzXm5,spotify:track:3jT2LKH0RSbQ8jIUNFzXm5,0.883,0.808,-3.158,0.183,0.0317,0.0,0.207,0.805,119.012,232065,hiphop
+Playboi Carti,@ MEH,86,5UusfWUMMLEXLMc1ViNZoe,spotify:track:5UusfWUMMLEXLMc1ViNZoe,0.876,0.492,-8.11,0.153,0.0136,0.000283,0.0678,0.4,151.044,166799,hiphop
+Lil Yachty,Oprah’s Bank Account (Lil Yachty & DaBaby feat. Drake),86,7wsmIIm0xWmtP7TmACXkJn,spotify:track:7wsmIIm0xWmtP7TmACXkJn,0.836,0.617,-4.363,0.0534,0.17,0.0,0.319,0.866,138.066,206702,hiphop
+Mustard,Ballin' (with Roddy Ricch),89,3QzAOrNlsabgbMwlZt7TAY,spotify:track:3QzAOrNlsabgbMwlZt7TAY,0.809,0.545,-6.678,0.0735,0.392,0.0,0.151,0.244,97.008,180435,hiphop
+DaBaby,TOES (feat. Lil Baby & Moneybagg Yo),85,2FvD20Z8aoWIePi7PoN8sG,spotify:track:2FvD20Z8aoWIePi7PoN8sG,0.816,0.582,-4.141,0.341,0.0794,5.84e-06,0.0916,0.542,160.004,136366,hiphop
+DaBaby,Suge,84,2gwkD6igEhQbDQegRCcdoB,spotify:track:2gwkD6igEhQbDQegRCcdoB,0.876,0.662,-6.482,0.426,0.0608,0.0,0.127,0.844,75.445,163320,hiphop
+DaBaby,VIBEZ,85,0fySG6A6qLE8IvDpayb5bM,spotify:track:0fySG6A6qLE8IvDpayb5bM,0.768,0.652,-2.708,0.307,0.113,0.0,0.107,0.777,154.187,144935,hiphop
+J. Cole,MIDDLE CHILD,84,2JvzF1RMd7lE3KmFlsyZD8,spotify:track:2JvzF1RMd7lE3KmFlsyZD8,0.837,0.364,-11.713,0.276,0.149,0.0,0.271,0.463,123.984,213594,hiphop
+NAV,Turks (feat. Travis Scott),88,0lSZh5W0wDeurkGzLYY6hf,spotify:track:0lSZh5W0wDeurkGzLYY6hf,0.893,0.618,-4.425,0.112,0.0827,0.0,0.542,0.389,119.099,161377,hiphop
+XXXTENTACION,Jocelyn Flores,88,7m9OqQk4RVRkw9JJdeAw96,spotify:track:7m9OqQk4RVRkw9JJdeAw96,0.872,0.391,-9.144,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,hiphop
+"Tyler, The Creator",EARFQUAKE,84,5hVghJ4KaYES3BFUATCYn0,spotify:track:5hVghJ4KaYES3BFUATCYn0,0.554,0.498,-8.866,0.0685,0.23,5.98e-06,0.795,0.413,79.635,190067,hiphop
+DaBaby,FIND MY WAY,83,1gVCEnryJhkdQcuC0Kbvor,spotify:track:1gVCEnryJhkdQcuC0Kbvor,0.836,0.624,-6.75,0.184,0.187,0.0,0.138,0.7,103.0,139890,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,80,6PGoSes0D9eUDeeAafB2As,spotify:track:6PGoSes0D9eUDeeAafB2As,0.8,0.585,-7.343,0.0924,0.264,0.0,0.153,0.779,126.058,213400,hiphop
+Lil Peep,Star Shopping,84,30bqVoKjX479ab90a8Pafp,spotify:track:30bqVoKjX479ab90a8Pafp,0.585,0.471,-9.934,0.0616,0.0967,0.0184,0.115,0.323,93.099,142000,hiphop
+Playboi Carti,Shoota (feat. Lil Uzi Vert),78,2BJSMvOGABRxokHKB0OI8i,spotify:track:2BJSMvOGABRxokHKB0OI8i,0.674,0.649,-8.433,0.199,0.191,0.0,0.122,0.48,153.069,153800,hiphop
+NLE Choppa,Walk Em Down (feat. Roddy Ricch),90,4cSSL3YafYjM3yjgFO1vJg,spotify:track:4cSSL3YafYjM3yjgFO1vJg,0.867,0.744,-5.171,0.228,0.268,0.0,0.0713,0.645,84.005,173288,hiphop
+Eminem,Godzilla (feat. Juice WRLD),93,7FIWs0pqAYbP91WWM0vlTQ,spotify:track:7FIWs0pqAYbP91WWM0vlTQ,0.808,0.745,-5.26,0.342,0.145,0.0,0.292,0.829,165.995,210800,hiphop
+DaBaby,BOP,88,6Ozh9Ok6h4Oi1wUSLtBseN,spotify:track:6Ozh9Ok6h4Oi1wUSLtBseN,0.769,0.787,-3.909,0.367,0.189,0.0,0.129,0.836,126.77,159715,hiphop
+G Herbo,PTSD,86,3jT2LKH0RSbQ8jIUNFzXm5,spotify:track:3jT2LKH0RSbQ8jIUNFzXm5,0.883,0.808,-3.158,0.183,0.0317,0.0,0.207,0.805,119.012,232065,hiphop
+Playboi Carti,@ MEH,86,5UusfWUMMLEXLMc1ViNZoe,spotify:track:5UusfWUMMLEXLMc1ViNZoe,0.876,0.492,-8.11,0.153,0.0136,0.000283,0.0678,0.4,151.044,166799,hiphop
+Lil Yachty,Oprah’s Bank Account (Lil Yachty & DaBaby feat. Drake),86,7wsmIIm0xWmtP7TmACXkJn,spotify:track:7wsmIIm0xWmtP7TmACXkJn,0.836,0.617,-4.363,0.0534,0.17,0.0,0.319,0.866,138.066,206702,hiphop
+Mustard,Ballin' (with Roddy Ricch),89,3QzAOrNlsabgbMwlZt7TAY,spotify:track:3QzAOrNlsabgbMwlZt7TAY,0.809,0.545,-6.678,0.0735,0.392,0.0,0.151,0.244,97.008,180435,hiphop
+DaBaby,TOES (feat. Lil Baby & Moneybagg Yo),85,2FvD20Z8aoWIePi7PoN8sG,spotify:track:2FvD20Z8aoWIePi7PoN8sG,0.816,0.582,-4.141,0.341,0.0794,5.84e-06,0.0916,0.542,160.004,136366,hiphop
+DaBaby,Suge,84,2gwkD6igEhQbDQegRCcdoB,spotify:track:2gwkD6igEhQbDQegRCcdoB,0.876,0.662,-6.482,0.426,0.0608,0.0,0.127,0.844,75.445,163320,hiphop
+DaBaby,VIBEZ,85,0fySG6A6qLE8IvDpayb5bM,spotify:track:0fySG6A6qLE8IvDpayb5bM,0.768,0.652,-2.708,0.307,0.113,0.0,0.107,0.777,154.187,144935,hiphop
+J. Cole,MIDDLE CHILD,84,2JvzF1RMd7lE3KmFlsyZD8,spotify:track:2JvzF1RMd7lE3KmFlsyZD8,0.837,0.364,-11.713,0.276,0.149,0.0,0.271,0.463,123.984,213594,hiphop
+NAV,Turks (feat. Travis Scott),88,0lSZh5W0wDeurkGzLYY6hf,spotify:track:0lSZh5W0wDeurkGzLYY6hf,0.893,0.618,-4.425,0.112,0.0827,0.0,0.542,0.389,119.099,161377,hiphop
+XXXTENTACION,Jocelyn Flores,88,7m9OqQk4RVRkw9JJdeAw96,spotify:track:7m9OqQk4RVRkw9JJdeAw96,0.872,0.391,-9.144,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,hiphop
+"Tyler, The Creator",EARFQUAKE,84,5hVghJ4KaYES3BFUATCYn0,spotify:track:5hVghJ4KaYES3BFUATCYn0,0.554,0.498,-8.866,0.0685,0.23,5.98e-06,0.795,0.413,79.635,190067,hiphop
+DaBaby,FIND MY WAY,83,1gVCEnryJhkdQcuC0Kbvor,spotify:track:1gVCEnryJhkdQcuC0Kbvor,0.836,0.624,-6.75,0.184,0.187,0.0,0.138,0.7,103.0,139890,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,80,6PGoSes0D9eUDeeAafB2As,spotify:track:6PGoSes0D9eUDeeAafB2As,0.8,0.585,-7.343,0.0924,0.264,0.0,0.153,0.779,126.058,213400,hiphop
+Lil Peep,Star Shopping,84,30bqVoKjX479ab90a8Pafp,spotify:track:30bqVoKjX479ab90a8Pafp,0.585,0.471,-9.934,0.0616,0.0967,0.0184,0.115,0.323,93.099,142000,hiphop
+Playboi Carti,Shoota (feat. Lil Uzi Vert),78,2BJSMvOGABRxokHKB0OI8i,spotify:track:2BJSMvOGABRxokHKB0OI8i,0.674,0.649,-8.433,0.199,0.191,0.0,0.122,0.48,153.069,153800,hiphop
+Tory Lanez,Broke In A Minute,83,4xqIYGwwZTEem9U8A42SPF,spotify:track:4xqIYGwwZTEem9U8A42SPF,0.929,0.7,-5.595,0.0906,0.144,0.0,0.349,0.802,120.009,132024,hiphop
+Eminem,Godzilla (feat. Juice WRLD),93,7FIWs0pqAYbP91WWM0vlTQ,spotify:track:7FIWs0pqAYbP91WWM0vlTQ,0.808,0.745,-5.26,0.342,0.145,0.0,0.292,0.829,165.995,210800,hiphop
+DaBaby,BOP,88,6Ozh9Ok6h4Oi1wUSLtBseN,spotify:track:6Ozh9Ok6h4Oi1wUSLtBseN,0.769,0.787,-3.909,0.367,0.189,0.0,0.129,0.836,126.77,159715,hiphop
+G Herbo,PTSD,86,3jT2LKH0RSbQ8jIUNFzXm5,spotify:track:3jT2LKH0RSbQ8jIUNFzXm5,0.883,0.808,-3.158,0.183,0.0317,0.0,0.207,0.805,119.012,232065,hiphop
+Playboi Carti,@ MEH,86,5UusfWUMMLEXLMc1ViNZoe,spotify:track:5UusfWUMMLEXLMc1ViNZoe,0.876,0.492,-8.11,0.153,0.0136,0.000283,0.0678,0.4,151.044,166799,hiphop
+Lil Yachty,Oprah’s Bank Account (Lil Yachty & DaBaby feat. Drake),86,7wsmIIm0xWmtP7TmACXkJn,spotify:track:7wsmIIm0xWmtP7TmACXkJn,0.836,0.617,-4.363,0.0534,0.17,0.0,0.319,0.866,138.066,206702,hiphop
+Mustard,Ballin' (with Roddy Ricch),89,3QzAOrNlsabgbMwlZt7TAY,spotify:track:3QzAOrNlsabgbMwlZt7TAY,0.809,0.545,-6.678,0.0735,0.392,0.0,0.151,0.244,97.008,180435,hiphop
+DaBaby,TOES (feat. Lil Baby & Moneybagg Yo),85,2FvD20Z8aoWIePi7PoN8sG,spotify:track:2FvD20Z8aoWIePi7PoN8sG,0.816,0.582,-4.141,0.341,0.0794,5.84e-06,0.0916,0.542,160.004,136366,hiphop
+DaBaby,Suge,84,2gwkD6igEhQbDQegRCcdoB,spotify:track:2gwkD6igEhQbDQegRCcdoB,0.876,0.662,-6.482,0.426,0.0608,0.0,0.127,0.844,75.445,163320,hiphop
+DaBaby,VIBEZ,85,0fySG6A6qLE8IvDpayb5bM,spotify:track:0fySG6A6qLE8IvDpayb5bM,0.768,0.652,-2.708,0.307,0.113,0.0,0.107,0.777,154.187,144935,hiphop
+J. Cole,MIDDLE CHILD,84,2JvzF1RMd7lE3KmFlsyZD8,spotify:track:2JvzF1RMd7lE3KmFlsyZD8,0.837,0.364,-11.713,0.276,0.149,0.0,0.271,0.463,123.984,213594,hiphop
+NAV,Turks (feat. Travis Scott),88,0lSZh5W0wDeurkGzLYY6hf,spotify:track:0lSZh5W0wDeurkGzLYY6hf,0.893,0.618,-4.425,0.112,0.0827,0.0,0.542,0.389,119.099,161377,hiphop
+XXXTENTACION,Jocelyn Flores,88,7m9OqQk4RVRkw9JJdeAw96,spotify:track:7m9OqQk4RVRkw9JJdeAw96,0.872,0.391,-9.144,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,hiphop
+"Tyler, The Creator",EARFQUAKE,84,5hVghJ4KaYES3BFUATCYn0,spotify:track:5hVghJ4KaYES3BFUATCYn0,0.554,0.498,-8.866,0.0685,0.23,5.98e-06,0.795,0.413,79.635,190067,hiphop
+DaBaby,FIND MY WAY,83,1gVCEnryJhkdQcuC0Kbvor,spotify:track:1gVCEnryJhkdQcuC0Kbvor,0.836,0.624,-6.75,0.184,0.187,0.0,0.138,0.7,103.0,139890,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,80,6PGoSes0D9eUDeeAafB2As,spotify:track:6PGoSes0D9eUDeeAafB2As,0.8,0.585,-7.343,0.0924,0.264,0.0,0.153,0.779,126.058,213400,hiphop
+Lil Peep,Star Shopping,84,30bqVoKjX479ab90a8Pafp,spotify:track:30bqVoKjX479ab90a8Pafp,0.585,0.471,-9.934,0.0616,0.0967,0.0184,0.115,0.323,93.099,142000,hiphop
+Playboi Carti,Shoota (feat. Lil Uzi Vert),78,2BJSMvOGABRxokHKB0OI8i,spotify:track:2BJSMvOGABRxokHKB0OI8i,0.674,0.649,-8.433,0.199,0.191,0.0,0.122,0.48,153.069,153800,hiphop
+Tory Lanez,Broke In A Minute,83,4xqIYGwwZTEem9U8A42SPF,spotify:track:4xqIYGwwZTEem9U8A42SPF,0.929,0.7,-5.595,0.0906,0.144,0.0,0.349,0.802,120.009,132024,hiphop
+Drake,God's Plan,85,6DCZcSspjsKoFjzjrWoCdn,spotify:track:6DCZcSspjsKoFjzjrWoCdn,0.754,0.449,-9.211,0.109,0.0332,8.29e-05,0.552,0.357,77.169,198973,hiphop
+DaBaby,BOP,88,6Ozh9Ok6h4Oi1wUSLtBseN,spotify:track:6Ozh9Ok6h4Oi1wUSLtBseN,0.769,0.787,-3.909,0.367,0.189,0.0,0.129,0.836,126.77,159715,hiphop
+G Herbo,PTSD,86,3jT2LKH0RSbQ8jIUNFzXm5,spotify:track:3jT2LKH0RSbQ8jIUNFzXm5,0.883,0.808,-3.158,0.183,0.0317,0.0,0.207,0.805,119.012,232065,hiphop
+Playboi Carti,@ MEH,86,5UusfWUMMLEXLMc1ViNZoe,spotify:track:5UusfWUMMLEXLMc1ViNZoe,0.876,0.492,-8.11,0.153,0.0136,0.000283,0.0678,0.4,151.044,166799,hiphop
+Lil Yachty,Oprah’s Bank Account (Lil Yachty & DaBaby feat. Drake),86,7wsmIIm0xWmtP7TmACXkJn,spotify:track:7wsmIIm0xWmtP7TmACXkJn,0.836,0.617,-4.363,0.0534,0.17,0.0,0.319,0.866,138.066,206702,hiphop
+Mustard,Ballin' (with Roddy Ricch),89,3QzAOrNlsabgbMwlZt7TAY,spotify:track:3QzAOrNlsabgbMwlZt7TAY,0.809,0.545,-6.678,0.0735,0.392,0.0,0.151,0.244,97.008,180435,hiphop
+DaBaby,TOES (feat. Lil Baby & Moneybagg Yo),85,2FvD20Z8aoWIePi7PoN8sG,spotify:track:2FvD20Z8aoWIePi7PoN8sG,0.816,0.582,-4.141,0.341,0.0794,5.84e-06,0.0916,0.542,160.004,136366,hiphop
+DaBaby,Suge,84,2gwkD6igEhQbDQegRCcdoB,spotify:track:2gwkD6igEhQbDQegRCcdoB,0.876,0.662,-6.482,0.426,0.0608,0.0,0.127,0.844,75.445,163320,hiphop
+DaBaby,VIBEZ,85,0fySG6A6qLE8IvDpayb5bM,spotify:track:0fySG6A6qLE8IvDpayb5bM,0.768,0.652,-2.708,0.307,0.113,0.0,0.107,0.777,154.187,144935,hiphop
+J. Cole,MIDDLE CHILD,84,2JvzF1RMd7lE3KmFlsyZD8,spotify:track:2JvzF1RMd7lE3KmFlsyZD8,0.837,0.364,-11.713,0.276,0.149,0.0,0.271,0.463,123.984,213594,hiphop
+NAV,Turks (feat. Travis Scott),88,0lSZh5W0wDeurkGzLYY6hf,spotify:track:0lSZh5W0wDeurkGzLYY6hf,0.893,0.618,-4.425,0.112,0.0827,0.0,0.542,0.389,119.099,161377,hiphop
+XXXTENTACION,Jocelyn Flores,88,7m9OqQk4RVRkw9JJdeAw96,spotify:track:7m9OqQk4RVRkw9JJdeAw96,0.872,0.391,-9.144,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,hiphop
+"Tyler, The Creator",EARFQUAKE,84,5hVghJ4KaYES3BFUATCYn0,spotify:track:5hVghJ4KaYES3BFUATCYn0,0.554,0.498,-8.866,0.0685,0.23,5.98e-06,0.795,0.413,79.635,190067,hiphop
+DaBaby,FIND MY WAY,83,1gVCEnryJhkdQcuC0Kbvor,spotify:track:1gVCEnryJhkdQcuC0Kbvor,0.836,0.624,-6.75,0.184,0.187,0.0,0.138,0.7,103.0,139890,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,80,6PGoSes0D9eUDeeAafB2As,spotify:track:6PGoSes0D9eUDeeAafB2As,0.8,0.585,-7.343,0.0924,0.264,0.0,0.153,0.779,126.058,213400,hiphop
+Lil Peep,Star Shopping,84,30bqVoKjX479ab90a8Pafp,spotify:track:30bqVoKjX479ab90a8Pafp,0.585,0.471,-9.934,0.0616,0.0967,0.0184,0.115,0.323,93.099,142000,hiphop
+Playboi Carti,Shoota (feat. Lil Uzi Vert),78,2BJSMvOGABRxokHKB0OI8i,spotify:track:2BJSMvOGABRxokHKB0OI8i,0.674,0.649,-8.433,0.199,0.191,0.0,0.122,0.48,153.069,153800,hiphop
+Tory Lanez,Broke In A Minute,83,4xqIYGwwZTEem9U8A42SPF,spotify:track:4xqIYGwwZTEem9U8A42SPF,0.929,0.7,-5.595,0.0906,0.144,0.0,0.349,0.802,120.009,132024,hiphop
+Drake,God's Plan,85,6DCZcSspjsKoFjzjrWoCdn,spotify:track:6DCZcSspjsKoFjzjrWoCdn,0.754,0.449,-9.211,0.109,0.0332,8.29e-05,0.552,0.357,77.169,198973,hiphop
+Lil Peep,Falling Down - Bonus Track,84,4jvjzW7Hm0yK4LvvE0Paz9,spotify:track:4jvjzW7Hm0yK4LvvE0Paz9,0.669,0.574,-6.442,0.0286,0.0175,0.00294,0.146,0.273,120.013,196400,hiphop
+G Herbo,PTSD,86,3jT2LKH0RSbQ8jIUNFzXm5,spotify:track:3jT2LKH0RSbQ8jIUNFzXm5,0.883,0.808,-3.158,0.183,0.0317,0.0,0.207,0.805,119.012,232065,hiphop
+Playboi Carti,@ MEH,86,5UusfWUMMLEXLMc1ViNZoe,spotify:track:5UusfWUMMLEXLMc1ViNZoe,0.876,0.492,-8.11,0.153,0.0136,0.000283,0.0678,0.4,151.044,166799,hiphop
+Lil Yachty,Oprah’s Bank Account (Lil Yachty & DaBaby feat. Drake),86,7wsmIIm0xWmtP7TmACXkJn,spotify:track:7wsmIIm0xWmtP7TmACXkJn,0.836,0.617,-4.363,0.0534,0.17,0.0,0.319,0.866,138.066,206702,hiphop
+Mustard,Ballin' (with Roddy Ricch),89,3QzAOrNlsabgbMwlZt7TAY,spotify:track:3QzAOrNlsabgbMwlZt7TAY,0.809,0.545,-6.678,0.0735,0.392,0.0,0.151,0.244,97.008,180435,hiphop
+DaBaby,TOES (feat. Lil Baby & Moneybagg Yo),85,2FvD20Z8aoWIePi7PoN8sG,spotify:track:2FvD20Z8aoWIePi7PoN8sG,0.816,0.582,-4.141,0.341,0.0794,5.84e-06,0.0916,0.542,160.004,136366,hiphop
+DaBaby,Suge,84,2gwkD6igEhQbDQegRCcdoB,spotify:track:2gwkD6igEhQbDQegRCcdoB,0.876,0.662,-6.482,0.426,0.0608,0.0,0.127,0.844,75.445,163320,hiphop
+DaBaby,VIBEZ,85,0fySG6A6qLE8IvDpayb5bM,spotify:track:0fySG6A6qLE8IvDpayb5bM,0.768,0.652,-2.708,0.307,0.113,0.0,0.107,0.777,154.187,144935,hiphop
+J. Cole,MIDDLE CHILD,84,2JvzF1RMd7lE3KmFlsyZD8,spotify:track:2JvzF1RMd7lE3KmFlsyZD8,0.837,0.364,-11.713,0.276,0.149,0.0,0.271,0.463,123.984,213594,hiphop
+NAV,Turks (feat. Travis Scott),88,0lSZh5W0wDeurkGzLYY6hf,spotify:track:0lSZh5W0wDeurkGzLYY6hf,0.893,0.618,-4.425,0.112,0.0827,0.0,0.542,0.389,119.099,161377,hiphop
+XXXTENTACION,Jocelyn Flores,88,7m9OqQk4RVRkw9JJdeAw96,spotify:track:7m9OqQk4RVRkw9JJdeAw96,0.872,0.391,-9.144,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,hiphop
+"Tyler, The Creator",EARFQUAKE,84,5hVghJ4KaYES3BFUATCYn0,spotify:track:5hVghJ4KaYES3BFUATCYn0,0.554,0.498,-8.866,0.0685,0.23,5.98e-06,0.795,0.413,79.635,190067,hiphop
+DaBaby,FIND MY WAY,83,1gVCEnryJhkdQcuC0Kbvor,spotify:track:1gVCEnryJhkdQcuC0Kbvor,0.836,0.624,-6.75,0.184,0.187,0.0,0.138,0.7,103.0,139890,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,80,6PGoSes0D9eUDeeAafB2As,spotify:track:6PGoSes0D9eUDeeAafB2As,0.8,0.585,-7.343,0.0924,0.264,0.0,0.153,0.779,126.058,213400,hiphop
+Lil Peep,Star Shopping,84,30bqVoKjX479ab90a8Pafp,spotify:track:30bqVoKjX479ab90a8Pafp,0.585,0.471,-9.934,0.0616,0.0967,0.0184,0.115,0.323,93.099,142000,hiphop
+Playboi Carti,Shoota (feat. Lil Uzi Vert),78,2BJSMvOGABRxokHKB0OI8i,spotify:track:2BJSMvOGABRxokHKB0OI8i,0.674,0.649,-8.433,0.199,0.191,0.0,0.122,0.48,153.069,153800,hiphop
+Tory Lanez,Broke In A Minute,83,4xqIYGwwZTEem9U8A42SPF,spotify:track:4xqIYGwwZTEem9U8A42SPF,0.929,0.7,-5.595,0.0906,0.144,0.0,0.349,0.802,120.009,132024,hiphop
+Drake,God's Plan,85,6DCZcSspjsKoFjzjrWoCdn,spotify:track:6DCZcSspjsKoFjzjrWoCdn,0.754,0.449,-9.211,0.109,0.0332,8.29e-05,0.552,0.357,77.169,198973,hiphop
+Lil Peep,Falling Down - Bonus Track,84,4jvjzW7Hm0yK4LvvE0Paz9,spotify:track:4jvjzW7Hm0yK4LvvE0Paz9,0.669,0.574,-6.442,0.0286,0.0175,0.00294,0.146,0.273,120.013,196400,hiphop
+Chance the Rapper,Hot Shower,78,00ko9WaS4jOX1kEk3gvHjf,spotify:track:00ko9WaS4jOX1kEk3gvHjf,0.899,0.509,-8.04,0.387,0.00157,0.0,0.0573,0.599,150.001,225924,hiphop
+Playboi Carti,@ MEH,86,5UusfWUMMLEXLMc1ViNZoe,spotify:track:5UusfWUMMLEXLMc1ViNZoe,0.876,0.492,-8.11,0.153,0.0136,0.000283,0.0678,0.4,151.044,166799,hiphop
+Lil Yachty,Oprah’s Bank Account (Lil Yachty & DaBaby feat. Drake),86,7wsmIIm0xWmtP7TmACXkJn,spotify:track:7wsmIIm0xWmtP7TmACXkJn,0.836,0.617,-4.363,0.0534,0.17,0.0,0.319,0.866,138.066,206702,hiphop
+Mustard,Ballin' (with Roddy Ricch),89,3QzAOrNlsabgbMwlZt7TAY,spotify:track:3QzAOrNlsabgbMwlZt7TAY,0.809,0.545,-6.678,0.0735,0.392,0.0,0.151,0.244,97.008,180435,hiphop
+DaBaby,TOES (feat. Lil Baby & Moneybagg Yo),85,2FvD20Z8aoWIePi7PoN8sG,spotify:track:2FvD20Z8aoWIePi7PoN8sG,0.816,0.582,-4.141,0.341,0.0794,5.84e-06,0.0916,0.542,160.004,136366,hiphop
+DaBaby,Suge,84,2gwkD6igEhQbDQegRCcdoB,spotify:track:2gwkD6igEhQbDQegRCcdoB,0.876,0.662,-6.482,0.426,0.0608,0.0,0.127,0.844,75.445,163320,hiphop
+DaBaby,VIBEZ,85,0fySG6A6qLE8IvDpayb5bM,spotify:track:0fySG6A6qLE8IvDpayb5bM,0.768,0.652,-2.708,0.307,0.113,0.0,0.107,0.777,154.187,144935,hiphop
+J. Cole,MIDDLE CHILD,84,2JvzF1RMd7lE3KmFlsyZD8,spotify:track:2JvzF1RMd7lE3KmFlsyZD8,0.837,0.364,-11.713,0.276,0.149,0.0,0.271,0.463,123.984,213594,hiphop
+NAV,Turks (feat. Travis Scott),88,0lSZh5W0wDeurkGzLYY6hf,spotify:track:0lSZh5W0wDeurkGzLYY6hf,0.893,0.618,-4.425,0.112,0.0827,0.0,0.542,0.389,119.099,161377,hiphop
+XXXTENTACION,Jocelyn Flores,88,7m9OqQk4RVRkw9JJdeAw96,spotify:track:7m9OqQk4RVRkw9JJdeAw96,0.872,0.391,-9.144,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,hiphop
+"Tyler, The Creator",EARFQUAKE,84,5hVghJ4KaYES3BFUATCYn0,spotify:track:5hVghJ4KaYES3BFUATCYn0,0.554,0.498,-8.866,0.0685,0.23,5.98e-06,0.795,0.413,79.635,190067,hiphop
+DaBaby,FIND MY WAY,83,1gVCEnryJhkdQcuC0Kbvor,spotify:track:1gVCEnryJhkdQcuC0Kbvor,0.836,0.624,-6.75,0.184,0.187,0.0,0.138,0.7,103.0,139890,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,80,6PGoSes0D9eUDeeAafB2As,spotify:track:6PGoSes0D9eUDeeAafB2As,0.8,0.585,-7.343,0.0924,0.264,0.0,0.153,0.779,126.058,213400,hiphop
+Lil Peep,Star Shopping,84,30bqVoKjX479ab90a8Pafp,spotify:track:30bqVoKjX479ab90a8Pafp,0.585,0.471,-9.934,0.0616,0.0967,0.0184,0.115,0.323,93.099,142000,hiphop
+Playboi Carti,Shoota (feat. Lil Uzi Vert),78,2BJSMvOGABRxokHKB0OI8i,spotify:track:2BJSMvOGABRxokHKB0OI8i,0.674,0.649,-8.433,0.199,0.191,0.0,0.122,0.48,153.069,153800,hiphop
+Tory Lanez,Broke In A Minute,83,4xqIYGwwZTEem9U8A42SPF,spotify:track:4xqIYGwwZTEem9U8A42SPF,0.929,0.7,-5.595,0.0906,0.144,0.0,0.349,0.802,120.009,132024,hiphop
+Drake,God's Plan,85,6DCZcSspjsKoFjzjrWoCdn,spotify:track:6DCZcSspjsKoFjzjrWoCdn,0.754,0.449,-9.211,0.109,0.0332,8.29e-05,0.552,0.357,77.169,198973,hiphop
+Lil Peep,Falling Down - Bonus Track,84,4jvjzW7Hm0yK4LvvE0Paz9,spotify:track:4jvjzW7Hm0yK4LvvE0Paz9,0.669,0.574,-6.442,0.0286,0.0175,0.00294,0.146,0.273,120.013,196400,hiphop
+Chance the Rapper,Hot Shower,78,00ko9WaS4jOX1kEk3gvHjf,spotify:track:00ko9WaS4jOX1kEk3gvHjf,0.899,0.509,-8.04,0.387,0.00157,0.0,0.0573,0.599,150.001,225924,hiphop
+Eminem,'Till I Collapse,84,4xkOaSrkexMciUUogZKVTS,spotify:track:4xkOaSrkexMciUUogZKVTS,0.548,0.847,-3.237,0.186,0.0622,0.0,0.0816,0.1,171.447,297787,hiphop
+Lil Yachty,Oprah’s Bank Account (Lil Yachty & DaBaby feat. Drake),86,7wsmIIm0xWmtP7TmACXkJn,spotify:track:7wsmIIm0xWmtP7TmACXkJn,0.836,0.617,-4.363,0.0534,0.17,0.0,0.319,0.866,138.066,206702,hiphop
+Mustard,Ballin' (with Roddy Ricch),89,3QzAOrNlsabgbMwlZt7TAY,spotify:track:3QzAOrNlsabgbMwlZt7TAY,0.809,0.545,-6.678,0.0735,0.392,0.0,0.151,0.244,97.008,180435,hiphop
+DaBaby,TOES (feat. Lil Baby & Moneybagg Yo),85,2FvD20Z8aoWIePi7PoN8sG,spotify:track:2FvD20Z8aoWIePi7PoN8sG,0.816,0.582,-4.141,0.341,0.0794,5.84e-06,0.0916,0.542,160.004,136366,hiphop
+DaBaby,Suge,84,2gwkD6igEhQbDQegRCcdoB,spotify:track:2gwkD6igEhQbDQegRCcdoB,0.876,0.662,-6.482,0.426,0.0608,0.0,0.127,0.844,75.445,163320,hiphop
+DaBaby,VIBEZ,85,0fySG6A6qLE8IvDpayb5bM,spotify:track:0fySG6A6qLE8IvDpayb5bM,0.768,0.652,-2.708,0.307,0.113,0.0,0.107,0.777,154.187,144935,hiphop
+J. Cole,MIDDLE CHILD,84,2JvzF1RMd7lE3KmFlsyZD8,spotify:track:2JvzF1RMd7lE3KmFlsyZD8,0.837,0.364,-11.713,0.276,0.149,0.0,0.271,0.463,123.984,213594,hiphop
+NAV,Turks (feat. Travis Scott),88,0lSZh5W0wDeurkGzLYY6hf,spotify:track:0lSZh5W0wDeurkGzLYY6hf,0.893,0.618,-4.425,0.112,0.0827,0.0,0.542,0.389,119.099,161377,hiphop
+XXXTENTACION,Jocelyn Flores,88,7m9OqQk4RVRkw9JJdeAw96,spotify:track:7m9OqQk4RVRkw9JJdeAw96,0.872,0.391,-9.144,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,hiphop
+"Tyler, The Creator",EARFQUAKE,84,5hVghJ4KaYES3BFUATCYn0,spotify:track:5hVghJ4KaYES3BFUATCYn0,0.554,0.498,-8.866,0.0685,0.23,5.98e-06,0.795,0.413,79.635,190067,hiphop
+DaBaby,FIND MY WAY,83,1gVCEnryJhkdQcuC0Kbvor,spotify:track:1gVCEnryJhkdQcuC0Kbvor,0.836,0.624,-6.75,0.184,0.187,0.0,0.138,0.7,103.0,139890,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,80,6PGoSes0D9eUDeeAafB2As,spotify:track:6PGoSes0D9eUDeeAafB2As,0.8,0.585,-7.343,0.0924,0.264,0.0,0.153,0.779,126.058,213400,hiphop
+Lil Peep,Star Shopping,84,30bqVoKjX479ab90a8Pafp,spotify:track:30bqVoKjX479ab90a8Pafp,0.585,0.471,-9.934,0.0616,0.0967,0.0184,0.115,0.323,93.099,142000,hiphop
+Playboi Carti,Shoota (feat. Lil Uzi Vert),78,2BJSMvOGABRxokHKB0OI8i,spotify:track:2BJSMvOGABRxokHKB0OI8i,0.674,0.649,-8.433,0.199,0.191,0.0,0.122,0.48,153.069,153800,hiphop
+Tory Lanez,Broke In A Minute,83,4xqIYGwwZTEem9U8A42SPF,spotify:track:4xqIYGwwZTEem9U8A42SPF,0.929,0.7,-5.595,0.0906,0.144,0.0,0.349,0.802,120.009,132024,hiphop
+Drake,God's Plan,85,6DCZcSspjsKoFjzjrWoCdn,spotify:track:6DCZcSspjsKoFjzjrWoCdn,0.754,0.449,-9.211,0.109,0.0332,8.29e-05,0.552,0.357,77.169,198973,hiphop
+Lil Peep,Falling Down - Bonus Track,84,4jvjzW7Hm0yK4LvvE0Paz9,spotify:track:4jvjzW7Hm0yK4LvvE0Paz9,0.669,0.574,-6.442,0.0286,0.0175,0.00294,0.146,0.273,120.013,196400,hiphop
+Chance the Rapper,Hot Shower,78,00ko9WaS4jOX1kEk3gvHjf,spotify:track:00ko9WaS4jOX1kEk3gvHjf,0.899,0.509,-8.04,0.387,0.00157,0.0,0.0573,0.599,150.001,225924,hiphop
+Eminem,'Till I Collapse,84,4xkOaSrkexMciUUogZKVTS,spotify:track:4xkOaSrkexMciUUogZKVTS,0.548,0.847,-3.237,0.186,0.0622,0.0,0.0816,0.1,171.447,297787,hiphop
+Lil Baby,Sum 2 Prove,80,2u3EyuCqqV31woqGvO9LBz,spotify:track:2u3EyuCqqV31woqGvO9LBz,0.823,0.552,-7.57,0.324,0.0174,0.0,0.122,0.418,124.038,205760,hiphop
+Mustard,Ballin' (with Roddy Ricch),89,3QzAOrNlsabgbMwlZt7TAY,spotify:track:3QzAOrNlsabgbMwlZt7TAY,0.809,0.545,-6.678,0.0735,0.392,0.0,0.151,0.244,97.008,180435,hiphop
+DaBaby,TOES (feat. Lil Baby & Moneybagg Yo),85,2FvD20Z8aoWIePi7PoN8sG,spotify:track:2FvD20Z8aoWIePi7PoN8sG,0.816,0.582,-4.141,0.341,0.0794,5.84e-06,0.0916,0.542,160.004,136366,hiphop
+DaBaby,Suge,84,2gwkD6igEhQbDQegRCcdoB,spotify:track:2gwkD6igEhQbDQegRCcdoB,0.876,0.662,-6.482,0.426,0.0608,0.0,0.127,0.844,75.445,163320,hiphop
+DaBaby,VIBEZ,85,0fySG6A6qLE8IvDpayb5bM,spotify:track:0fySG6A6qLE8IvDpayb5bM,0.768,0.652,-2.708,0.307,0.113,0.0,0.107,0.777,154.187,144935,hiphop
+J. Cole,MIDDLE CHILD,84,2JvzF1RMd7lE3KmFlsyZD8,spotify:track:2JvzF1RMd7lE3KmFlsyZD8,0.837,0.364,-11.713,0.276,0.149,0.0,0.271,0.463,123.984,213594,hiphop
+NAV,Turks (feat. Travis Scott),88,0lSZh5W0wDeurkGzLYY6hf,spotify:track:0lSZh5W0wDeurkGzLYY6hf,0.893,0.618,-4.425,0.112,0.0827,0.0,0.542,0.389,119.099,161377,hiphop
+XXXTENTACION,Jocelyn Flores,88,7m9OqQk4RVRkw9JJdeAw96,spotify:track:7m9OqQk4RVRkw9JJdeAw96,0.872,0.391,-9.144,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,hiphop
+"Tyler, The Creator",EARFQUAKE,84,5hVghJ4KaYES3BFUATCYn0,spotify:track:5hVghJ4KaYES3BFUATCYn0,0.554,0.498,-8.866,0.0685,0.23,5.98e-06,0.795,0.413,79.635,190067,hiphop
+DaBaby,FIND MY WAY,83,1gVCEnryJhkdQcuC0Kbvor,spotify:track:1gVCEnryJhkdQcuC0Kbvor,0.836,0.624,-6.75,0.184,0.187,0.0,0.138,0.7,103.0,139890,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,80,6PGoSes0D9eUDeeAafB2As,spotify:track:6PGoSes0D9eUDeeAafB2As,0.8,0.585,-7.343,0.0924,0.264,0.0,0.153,0.779,126.058,213400,hiphop
+Lil Peep,Star Shopping,84,30bqVoKjX479ab90a8Pafp,spotify:track:30bqVoKjX479ab90a8Pafp,0.585,0.471,-9.934,0.0616,0.0967,0.0184,0.115,0.323,93.099,142000,hiphop
+Playboi Carti,Shoota (feat. Lil Uzi Vert),78,2BJSMvOGABRxokHKB0OI8i,spotify:track:2BJSMvOGABRxokHKB0OI8i,0.674,0.649,-8.433,0.199,0.191,0.0,0.122,0.48,153.069,153800,hiphop
+Tory Lanez,Broke In A Minute,83,4xqIYGwwZTEem9U8A42SPF,spotify:track:4xqIYGwwZTEem9U8A42SPF,0.929,0.7,-5.595,0.0906,0.144,0.0,0.349,0.802,120.009,132024,hiphop
+Drake,God's Plan,85,6DCZcSspjsKoFjzjrWoCdn,spotify:track:6DCZcSspjsKoFjzjrWoCdn,0.754,0.449,-9.211,0.109,0.0332,8.29e-05,0.552,0.357,77.169,198973,hiphop
+Lil Peep,Falling Down - Bonus Track,84,4jvjzW7Hm0yK4LvvE0Paz9,spotify:track:4jvjzW7Hm0yK4LvvE0Paz9,0.669,0.574,-6.442,0.0286,0.0175,0.00294,0.146,0.273,120.013,196400,hiphop
+Chance the Rapper,Hot Shower,78,00ko9WaS4jOX1kEk3gvHjf,spotify:track:00ko9WaS4jOX1kEk3gvHjf,0.899,0.509,-8.04,0.387,0.00157,0.0,0.0573,0.599,150.001,225924,hiphop
+Eminem,'Till I Collapse,84,4xkOaSrkexMciUUogZKVTS,spotify:track:4xkOaSrkexMciUUogZKVTS,0.548,0.847,-3.237,0.186,0.0622,0.0,0.0816,0.1,171.447,297787,hiphop
+Lil Baby,Sum 2 Prove,80,2u3EyuCqqV31woqGvO9LBz,spotify:track:2u3EyuCqqV31woqGvO9LBz,0.823,0.552,-7.57,0.324,0.0174,0.0,0.122,0.418,124.038,205760,hiphop
+21 Savage,a lot,81,2t8yVaLvJ0RenpXUIAC52d,spotify:track:2t8yVaLvJ0RenpXUIAC52d,0.837,0.636,-7.643,0.086,0.0395,0.00125,0.342,0.274,145.972,288624,hiphop
+DaBaby,TOES (feat. Lil Baby & Moneybagg Yo),85,2FvD20Z8aoWIePi7PoN8sG,spotify:track:2FvD20Z8aoWIePi7PoN8sG,0.816,0.582,-4.141,0.341,0.0794,5.84e-06,0.0916,0.542,160.004,136366,hiphop
+DaBaby,Suge,84,2gwkD6igEhQbDQegRCcdoB,spotify:track:2gwkD6igEhQbDQegRCcdoB,0.876,0.662,-6.482,0.426,0.0608,0.0,0.127,0.844,75.445,163320,hiphop
+DaBaby,VIBEZ,85,0fySG6A6qLE8IvDpayb5bM,spotify:track:0fySG6A6qLE8IvDpayb5bM,0.768,0.652,-2.708,0.307,0.113,0.0,0.107,0.777,154.187,144935,hiphop
+J. Cole,MIDDLE CHILD,84,2JvzF1RMd7lE3KmFlsyZD8,spotify:track:2JvzF1RMd7lE3KmFlsyZD8,0.837,0.364,-11.713,0.276,0.149,0.0,0.271,0.463,123.984,213594,hiphop
+NAV,Turks (feat. Travis Scott),88,0lSZh5W0wDeurkGzLYY6hf,spotify:track:0lSZh5W0wDeurkGzLYY6hf,0.893,0.618,-4.425,0.112,0.0827,0.0,0.542,0.389,119.099,161377,hiphop
+XXXTENTACION,Jocelyn Flores,88,7m9OqQk4RVRkw9JJdeAw96,spotify:track:7m9OqQk4RVRkw9JJdeAw96,0.872,0.391,-9.144,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,hiphop
+"Tyler, The Creator",EARFQUAKE,84,5hVghJ4KaYES3BFUATCYn0,spotify:track:5hVghJ4KaYES3BFUATCYn0,0.554,0.498,-8.866,0.0685,0.23,5.98e-06,0.795,0.413,79.635,190067,hiphop
+DaBaby,FIND MY WAY,83,1gVCEnryJhkdQcuC0Kbvor,spotify:track:1gVCEnryJhkdQcuC0Kbvor,0.836,0.624,-6.75,0.184,0.187,0.0,0.138,0.7,103.0,139890,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,80,6PGoSes0D9eUDeeAafB2As,spotify:track:6PGoSes0D9eUDeeAafB2As,0.8,0.585,-7.343,0.0924,0.264,0.0,0.153,0.779,126.058,213400,hiphop
+Lil Peep,Star Shopping,84,30bqVoKjX479ab90a8Pafp,spotify:track:30bqVoKjX479ab90a8Pafp,0.585,0.471,-9.934,0.0616,0.0967,0.0184,0.115,0.323,93.099,142000,hiphop
+Playboi Carti,Shoota (feat. Lil Uzi Vert),78,2BJSMvOGABRxokHKB0OI8i,spotify:track:2BJSMvOGABRxokHKB0OI8i,0.674,0.649,-8.433,0.199,0.191,0.0,0.122,0.48,153.069,153800,hiphop
+Tory Lanez,Broke In A Minute,83,4xqIYGwwZTEem9U8A42SPF,spotify:track:4xqIYGwwZTEem9U8A42SPF,0.929,0.7,-5.595,0.0906,0.144,0.0,0.349,0.802,120.009,132024,hiphop
+Drake,God's Plan,85,6DCZcSspjsKoFjzjrWoCdn,spotify:track:6DCZcSspjsKoFjzjrWoCdn,0.754,0.449,-9.211,0.109,0.0332,8.29e-05,0.552,0.357,77.169,198973,hiphop
+Lil Peep,Falling Down - Bonus Track,84,4jvjzW7Hm0yK4LvvE0Paz9,spotify:track:4jvjzW7Hm0yK4LvvE0Paz9,0.669,0.574,-6.442,0.0286,0.0175,0.00294,0.146,0.273,120.013,196400,hiphop
+Chance the Rapper,Hot Shower,78,00ko9WaS4jOX1kEk3gvHjf,spotify:track:00ko9WaS4jOX1kEk3gvHjf,0.899,0.509,-8.04,0.387,0.00157,0.0,0.0573,0.599,150.001,225924,hiphop
+Eminem,'Till I Collapse,84,4xkOaSrkexMciUUogZKVTS,spotify:track:4xkOaSrkexMciUUogZKVTS,0.548,0.847,-3.237,0.186,0.0622,0.0,0.0816,0.1,171.447,297787,hiphop
+Lil Baby,Sum 2 Prove,80,2u3EyuCqqV31woqGvO9LBz,spotify:track:2u3EyuCqqV31woqGvO9LBz,0.823,0.552,-7.57,0.324,0.0174,0.0,0.122,0.418,124.038,205760,hiphop
+21 Savage,a lot,81,2t8yVaLvJ0RenpXUIAC52d,spotify:track:2t8yVaLvJ0RenpXUIAC52d,0.837,0.636,-7.643,0.086,0.0395,0.00125,0.342,0.274,145.972,288624,hiphop
+Lil Baby,Yes Indeed,81,6vN77lE9LK6HP2DewaN6HZ,spotify:track:6vN77lE9LK6HP2DewaN6HZ,0.964,0.346,-9.309,0.53,0.035,0.0,0.108,0.562,119.958,142273,hiphop
+DaBaby,Suge,84,2gwkD6igEhQbDQegRCcdoB,spotify:track:2gwkD6igEhQbDQegRCcdoB,0.876,0.662,-6.482,0.426,0.0608,0.0,0.127,0.844,75.445,163320,hiphop
+DaBaby,VIBEZ,85,0fySG6A6qLE8IvDpayb5bM,spotify:track:0fySG6A6qLE8IvDpayb5bM,0.768,0.652,-2.708,0.307,0.113,0.0,0.107,0.777,154.187,144935,hiphop
+J. Cole,MIDDLE CHILD,84,2JvzF1RMd7lE3KmFlsyZD8,spotify:track:2JvzF1RMd7lE3KmFlsyZD8,0.837,0.364,-11.713,0.276,0.149,0.0,0.271,0.463,123.984,213594,hiphop
+NAV,Turks (feat. Travis Scott),88,0lSZh5W0wDeurkGzLYY6hf,spotify:track:0lSZh5W0wDeurkGzLYY6hf,0.893,0.618,-4.425,0.112,0.0827,0.0,0.542,0.389,119.099,161377,hiphop
+XXXTENTACION,Jocelyn Flores,88,7m9OqQk4RVRkw9JJdeAw96,spotify:track:7m9OqQk4RVRkw9JJdeAw96,0.872,0.391,-9.144,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,hiphop
+"Tyler, The Creator",EARFQUAKE,84,5hVghJ4KaYES3BFUATCYn0,spotify:track:5hVghJ4KaYES3BFUATCYn0,0.554,0.498,-8.866,0.0685,0.23,5.98e-06,0.795,0.413,79.635,190067,hiphop
+DaBaby,FIND MY WAY,83,1gVCEnryJhkdQcuC0Kbvor,spotify:track:1gVCEnryJhkdQcuC0Kbvor,0.836,0.624,-6.75,0.184,0.187,0.0,0.138,0.7,103.0,139890,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,80,6PGoSes0D9eUDeeAafB2As,spotify:track:6PGoSes0D9eUDeeAafB2As,0.8,0.585,-7.343,0.0924,0.264,0.0,0.153,0.779,126.058,213400,hiphop
+Lil Peep,Star Shopping,84,30bqVoKjX479ab90a8Pafp,spotify:track:30bqVoKjX479ab90a8Pafp,0.585,0.471,-9.934,0.0616,0.0967,0.0184,0.115,0.323,93.099,142000,hiphop
+Playboi Carti,Shoota (feat. Lil Uzi Vert),78,2BJSMvOGABRxokHKB0OI8i,spotify:track:2BJSMvOGABRxokHKB0OI8i,0.674,0.649,-8.433,0.199,0.191,0.0,0.122,0.48,153.069,153800,hiphop
+Tory Lanez,Broke In A Minute,83,4xqIYGwwZTEem9U8A42SPF,spotify:track:4xqIYGwwZTEem9U8A42SPF,0.929,0.7,-5.595,0.0906,0.144,0.0,0.349,0.802,120.009,132024,hiphop
+Drake,God's Plan,85,6DCZcSspjsKoFjzjrWoCdn,spotify:track:6DCZcSspjsKoFjzjrWoCdn,0.754,0.449,-9.211,0.109,0.0332,8.29e-05,0.552,0.357,77.169,198973,hiphop
+Lil Peep,Falling Down - Bonus Track,84,4jvjzW7Hm0yK4LvvE0Paz9,spotify:track:4jvjzW7Hm0yK4LvvE0Paz9,0.669,0.574,-6.442,0.0286,0.0175,0.00294,0.146,0.273,120.013,196400,hiphop
+Chance the Rapper,Hot Shower,78,00ko9WaS4jOX1kEk3gvHjf,spotify:track:00ko9WaS4jOX1kEk3gvHjf,0.899,0.509,-8.04,0.387,0.00157,0.0,0.0573,0.599,150.001,225924,hiphop
+Eminem,'Till I Collapse,84,4xkOaSrkexMciUUogZKVTS,spotify:track:4xkOaSrkexMciUUogZKVTS,0.548,0.847,-3.237,0.186,0.0622,0.0,0.0816,0.1,171.447,297787,hiphop
+Lil Baby,Sum 2 Prove,80,2u3EyuCqqV31woqGvO9LBz,spotify:track:2u3EyuCqqV31woqGvO9LBz,0.823,0.552,-7.57,0.324,0.0174,0.0,0.122,0.418,124.038,205760,hiphop
+21 Savage,a lot,81,2t8yVaLvJ0RenpXUIAC52d,spotify:track:2t8yVaLvJ0RenpXUIAC52d,0.837,0.636,-7.643,0.086,0.0395,0.00125,0.342,0.274,145.972,288624,hiphop
+Lil Baby,Yes Indeed,81,6vN77lE9LK6HP2DewaN6HZ,spotify:track:6vN77lE9LK6HP2DewaN6HZ,0.964,0.346,-9.309,0.53,0.035,0.0,0.108,0.562,119.958,142273,hiphop
+Nicki Minaj,Yikes,80,75dLEqanQTupF3dtP9exT5,spotify:track:75dLEqanQTupF3dtP9exT5,0.911,0.637,-8.381,0.447,0.0409,3.68e-05,0.238,0.66,149.996,156882,hiphop
+DaBaby,VIBEZ,85,0fySG6A6qLE8IvDpayb5bM,spotify:track:0fySG6A6qLE8IvDpayb5bM,0.768,0.652,-2.708,0.307,0.113,0.0,0.107,0.777,154.187,144935,hiphop
+J. Cole,MIDDLE CHILD,84,2JvzF1RMd7lE3KmFlsyZD8,spotify:track:2JvzF1RMd7lE3KmFlsyZD8,0.837,0.364,-11.713,0.276,0.149,0.0,0.271,0.463,123.984,213594,hiphop
+NAV,Turks (feat. Travis Scott),88,0lSZh5W0wDeurkGzLYY6hf,spotify:track:0lSZh5W0wDeurkGzLYY6hf,0.893,0.618,-4.425,0.112,0.0827,0.0,0.542,0.389,119.099,161377,hiphop
+XXXTENTACION,Jocelyn Flores,88,7m9OqQk4RVRkw9JJdeAw96,spotify:track:7m9OqQk4RVRkw9JJdeAw96,0.872,0.391,-9.144,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,hiphop
+"Tyler, The Creator",EARFQUAKE,84,5hVghJ4KaYES3BFUATCYn0,spotify:track:5hVghJ4KaYES3BFUATCYn0,0.554,0.498,-8.866,0.0685,0.23,5.98e-06,0.795,0.413,79.635,190067,hiphop
+DaBaby,FIND MY WAY,83,1gVCEnryJhkdQcuC0Kbvor,spotify:track:1gVCEnryJhkdQcuC0Kbvor,0.836,0.624,-6.75,0.184,0.187,0.0,0.138,0.7,103.0,139890,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,80,6PGoSes0D9eUDeeAafB2As,spotify:track:6PGoSes0D9eUDeeAafB2As,0.8,0.585,-7.343,0.0924,0.264,0.0,0.153,0.779,126.058,213400,hiphop
+Lil Peep,Star Shopping,84,30bqVoKjX479ab90a8Pafp,spotify:track:30bqVoKjX479ab90a8Pafp,0.585,0.471,-9.934,0.0616,0.0967,0.0184,0.115,0.323,93.099,142000,hiphop
+Playboi Carti,Shoota (feat. Lil Uzi Vert),78,2BJSMvOGABRxokHKB0OI8i,spotify:track:2BJSMvOGABRxokHKB0OI8i,0.674,0.649,-8.433,0.199,0.191,0.0,0.122,0.48,153.069,153800,hiphop
+Tory Lanez,Broke In A Minute,83,4xqIYGwwZTEem9U8A42SPF,spotify:track:4xqIYGwwZTEem9U8A42SPF,0.929,0.7,-5.595,0.0906,0.144,0.0,0.349,0.802,120.009,132024,hiphop
+Drake,God's Plan,85,6DCZcSspjsKoFjzjrWoCdn,spotify:track:6DCZcSspjsKoFjzjrWoCdn,0.754,0.449,-9.211,0.109,0.0332,8.29e-05,0.552,0.357,77.169,198973,hiphop
+Lil Peep,Falling Down - Bonus Track,84,4jvjzW7Hm0yK4LvvE0Paz9,spotify:track:4jvjzW7Hm0yK4LvvE0Paz9,0.669,0.574,-6.442,0.0286,0.0175,0.00294,0.146,0.273,120.013,196400,hiphop
+Chance the Rapper,Hot Shower,78,00ko9WaS4jOX1kEk3gvHjf,spotify:track:00ko9WaS4jOX1kEk3gvHjf,0.899,0.509,-8.04,0.387,0.00157,0.0,0.0573,0.599,150.001,225924,hiphop
+Eminem,'Till I Collapse,84,4xkOaSrkexMciUUogZKVTS,spotify:track:4xkOaSrkexMciUUogZKVTS,0.548,0.847,-3.237,0.186,0.0622,0.0,0.0816,0.1,171.447,297787,hiphop
+Lil Baby,Sum 2 Prove,80,2u3EyuCqqV31woqGvO9LBz,spotify:track:2u3EyuCqqV31woqGvO9LBz,0.823,0.552,-7.57,0.324,0.0174,0.0,0.122,0.418,124.038,205760,hiphop
+21 Savage,a lot,81,2t8yVaLvJ0RenpXUIAC52d,spotify:track:2t8yVaLvJ0RenpXUIAC52d,0.837,0.636,-7.643,0.086,0.0395,0.00125,0.342,0.274,145.972,288624,hiphop
+Lil Baby,Yes Indeed,81,6vN77lE9LK6HP2DewaN6HZ,spotify:track:6vN77lE9LK6HP2DewaN6HZ,0.964,0.346,-9.309,0.53,0.035,0.0,0.108,0.562,119.958,142273,hiphop
+Nicki Minaj,Yikes,80,75dLEqanQTupF3dtP9exT5,spotify:track:75dLEqanQTupF3dtP9exT5,0.911,0.637,-8.381,0.447,0.0409,3.68e-05,0.238,0.66,149.996,156882,hiphop
+G-Eazy,Still Be Friends (feat. Tory Lanez & Tyga),86,0JjM9bKm4wrwohMslcm892,spotify:track:0JjM9bKm4wrwohMslcm892,0.803,0.759,-4.692,0.0494,0.00509,0.0,0.0921,0.284,104.0,213308,hiphop
+J. Cole,MIDDLE CHILD,84,2JvzF1RMd7lE3KmFlsyZD8,spotify:track:2JvzF1RMd7lE3KmFlsyZD8,0.837,0.364,-11.713,0.276,0.149,0.0,0.271,0.463,123.984,213594,hiphop
+NAV,Turks (feat. Travis Scott),88,0lSZh5W0wDeurkGzLYY6hf,spotify:track:0lSZh5W0wDeurkGzLYY6hf,0.893,0.618,-4.425,0.112,0.0827,0.0,0.542,0.389,119.099,161377,hiphop
+XXXTENTACION,Jocelyn Flores,88,7m9OqQk4RVRkw9JJdeAw96,spotify:track:7m9OqQk4RVRkw9JJdeAw96,0.872,0.391,-9.144,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,hiphop
+"Tyler, The Creator",EARFQUAKE,84,5hVghJ4KaYES3BFUATCYn0,spotify:track:5hVghJ4KaYES3BFUATCYn0,0.554,0.498,-8.866,0.0685,0.23,5.98e-06,0.795,0.413,79.635,190067,hiphop
+DaBaby,FIND MY WAY,83,1gVCEnryJhkdQcuC0Kbvor,spotify:track:1gVCEnryJhkdQcuC0Kbvor,0.836,0.624,-6.75,0.184,0.187,0.0,0.138,0.7,103.0,139890,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,80,6PGoSes0D9eUDeeAafB2As,spotify:track:6PGoSes0D9eUDeeAafB2As,0.8,0.585,-7.343,0.0924,0.264,0.0,0.153,0.779,126.058,213400,hiphop
+Lil Peep,Star Shopping,84,30bqVoKjX479ab90a8Pafp,spotify:track:30bqVoKjX479ab90a8Pafp,0.585,0.471,-9.934,0.0616,0.0967,0.0184,0.115,0.323,93.099,142000,hiphop
+Playboi Carti,Shoota (feat. Lil Uzi Vert),78,2BJSMvOGABRxokHKB0OI8i,spotify:track:2BJSMvOGABRxokHKB0OI8i,0.674,0.649,-8.433,0.199,0.191,0.0,0.122,0.48,153.069,153800,hiphop
+Tory Lanez,Broke In A Minute,83,4xqIYGwwZTEem9U8A42SPF,spotify:track:4xqIYGwwZTEem9U8A42SPF,0.929,0.7,-5.595,0.0906,0.144,0.0,0.349,0.802,120.009,132024,hiphop
+Drake,God's Plan,85,6DCZcSspjsKoFjzjrWoCdn,spotify:track:6DCZcSspjsKoFjzjrWoCdn,0.754,0.449,-9.211,0.109,0.0332,8.29e-05,0.552,0.357,77.169,198973,hiphop
+Lil Peep,Falling Down - Bonus Track,84,4jvjzW7Hm0yK4LvvE0Paz9,spotify:track:4jvjzW7Hm0yK4LvvE0Paz9,0.669,0.574,-6.442,0.0286,0.0175,0.00294,0.146,0.273,120.013,196400,hiphop
+Chance the Rapper,Hot Shower,78,00ko9WaS4jOX1kEk3gvHjf,spotify:track:00ko9WaS4jOX1kEk3gvHjf,0.899,0.509,-8.04,0.387,0.00157,0.0,0.0573,0.599,150.001,225924,hiphop
+Eminem,'Till I Collapse,84,4xkOaSrkexMciUUogZKVTS,spotify:track:4xkOaSrkexMciUUogZKVTS,0.548,0.847,-3.237,0.186,0.0622,0.0,0.0816,0.1,171.447,297787,hiphop
+Lil Baby,Sum 2 Prove,80,2u3EyuCqqV31woqGvO9LBz,spotify:track:2u3EyuCqqV31woqGvO9LBz,0.823,0.552,-7.57,0.324,0.0174,0.0,0.122,0.418,124.038,205760,hiphop
+21 Savage,a lot,81,2t8yVaLvJ0RenpXUIAC52d,spotify:track:2t8yVaLvJ0RenpXUIAC52d,0.837,0.636,-7.643,0.086,0.0395,0.00125,0.342,0.274,145.972,288624,hiphop
+Lil Baby,Yes Indeed,81,6vN77lE9LK6HP2DewaN6HZ,spotify:track:6vN77lE9LK6HP2DewaN6HZ,0.964,0.346,-9.309,0.53,0.035,0.0,0.108,0.562,119.958,142273,hiphop
+Nicki Minaj,Yikes,80,75dLEqanQTupF3dtP9exT5,spotify:track:75dLEqanQTupF3dtP9exT5,0.911,0.637,-8.381,0.447,0.0409,3.68e-05,0.238,0.66,149.996,156882,hiphop
+G-Eazy,Still Be Friends (feat. Tory Lanez & Tyga),86,0JjM9bKm4wrwohMslcm892,spotify:track:0JjM9bKm4wrwohMslcm892,0.803,0.759,-4.692,0.0494,0.00509,0.0,0.0921,0.284,104.0,213308,hiphop
+NF,Let You Down,83,52okn5MNA47tk87PeZJLEL,spotify:track:52okn5MNA47tk87PeZJLEL,0.662,0.714,-5.68,0.121,0.312,0.0,0.179,0.464,147.997,212120,hiphop
+NAV,Turks (feat. Travis Scott),88,0lSZh5W0wDeurkGzLYY6hf,spotify:track:0lSZh5W0wDeurkGzLYY6hf,0.893,0.618,-4.425,0.112,0.0827,0.0,0.542,0.389,119.099,161377,hiphop
+XXXTENTACION,Jocelyn Flores,88,7m9OqQk4RVRkw9JJdeAw96,spotify:track:7m9OqQk4RVRkw9JJdeAw96,0.872,0.391,-9.144,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,hiphop
+"Tyler, The Creator",EARFQUAKE,84,5hVghJ4KaYES3BFUATCYn0,spotify:track:5hVghJ4KaYES3BFUATCYn0,0.554,0.498,-8.866,0.0685,0.23,5.98e-06,0.795,0.413,79.635,190067,hiphop
+DaBaby,FIND MY WAY,83,1gVCEnryJhkdQcuC0Kbvor,spotify:track:1gVCEnryJhkdQcuC0Kbvor,0.836,0.624,-6.75,0.184,0.187,0.0,0.138,0.7,103.0,139890,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,80,6PGoSes0D9eUDeeAafB2As,spotify:track:6PGoSes0D9eUDeeAafB2As,0.8,0.585,-7.343,0.0924,0.264,0.0,0.153,0.779,126.058,213400,hiphop
+Lil Peep,Star Shopping,84,30bqVoKjX479ab90a8Pafp,spotify:track:30bqVoKjX479ab90a8Pafp,0.585,0.471,-9.934,0.0616,0.0967,0.0184,0.115,0.323,93.099,142000,hiphop
+Playboi Carti,Shoota (feat. Lil Uzi Vert),78,2BJSMvOGABRxokHKB0OI8i,spotify:track:2BJSMvOGABRxokHKB0OI8i,0.674,0.649,-8.433,0.199,0.191,0.0,0.122,0.48,153.069,153800,hiphop
+Tory Lanez,Broke In A Minute,83,4xqIYGwwZTEem9U8A42SPF,spotify:track:4xqIYGwwZTEem9U8A42SPF,0.929,0.7,-5.595,0.0906,0.144,0.0,0.349,0.802,120.009,132024,hiphop
+Drake,God's Plan,85,6DCZcSspjsKoFjzjrWoCdn,spotify:track:6DCZcSspjsKoFjzjrWoCdn,0.754,0.449,-9.211,0.109,0.0332,8.29e-05,0.552,0.357,77.169,198973,hiphop
+Lil Peep,Falling Down - Bonus Track,84,4jvjzW7Hm0yK4LvvE0Paz9,spotify:track:4jvjzW7Hm0yK4LvvE0Paz9,0.669,0.574,-6.442,0.0286,0.0175,0.00294,0.146,0.273,120.013,196400,hiphop
+Chance the Rapper,Hot Shower,78,00ko9WaS4jOX1kEk3gvHjf,spotify:track:00ko9WaS4jOX1kEk3gvHjf,0.899,0.509,-8.04,0.387,0.00157,0.0,0.0573,0.599,150.001,225924,hiphop
+Eminem,'Till I Collapse,84,4xkOaSrkexMciUUogZKVTS,spotify:track:4xkOaSrkexMciUUogZKVTS,0.548,0.847,-3.237,0.186,0.0622,0.0,0.0816,0.1,171.447,297787,hiphop
+Lil Baby,Sum 2 Prove,80,2u3EyuCqqV31woqGvO9LBz,spotify:track:2u3EyuCqqV31woqGvO9LBz,0.823,0.552,-7.57,0.324,0.0174,0.0,0.122,0.418,124.038,205760,hiphop
+21 Savage,a lot,81,2t8yVaLvJ0RenpXUIAC52d,spotify:track:2t8yVaLvJ0RenpXUIAC52d,0.837,0.636,-7.643,0.086,0.0395,0.00125,0.342,0.274,145.972,288624,hiphop
+Lil Baby,Yes Indeed,81,6vN77lE9LK6HP2DewaN6HZ,spotify:track:6vN77lE9LK6HP2DewaN6HZ,0.964,0.346,-9.309,0.53,0.035,0.0,0.108,0.562,119.958,142273,hiphop
+Nicki Minaj,Yikes,80,75dLEqanQTupF3dtP9exT5,spotify:track:75dLEqanQTupF3dtP9exT5,0.911,0.637,-8.381,0.447,0.0409,3.68e-05,0.238,0.66,149.996,156882,hiphop
+G-Eazy,Still Be Friends (feat. Tory Lanez & Tyga),86,0JjM9bKm4wrwohMslcm892,spotify:track:0JjM9bKm4wrwohMslcm892,0.803,0.759,-4.692,0.0494,0.00509,0.0,0.0921,0.284,104.0,213308,hiphop
+NF,Let You Down,83,52okn5MNA47tk87PeZJLEL,spotify:track:52okn5MNA47tk87PeZJLEL,0.662,0.714,-5.68,0.121,0.312,0.0,0.179,0.464,147.997,212120,hiphop
+XXXTENTACION,the remedy for a broken heart (why am I so in love),83,4UKCKdYiLN6IMA5ZESUTL7,spotify:track:4UKCKdYiLN6IMA5ZESUTL7,0.699,0.304,-11.192,0.0993,0.779,0.000993,0.137,0.271,119.705,160184,hiphop
+XXXTENTACION,Jocelyn Flores,88,7m9OqQk4RVRkw9JJdeAw96,spotify:track:7m9OqQk4RVRkw9JJdeAw96,0.872,0.391,-9.144,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,hiphop
+"Tyler, The Creator",EARFQUAKE,84,5hVghJ4KaYES3BFUATCYn0,spotify:track:5hVghJ4KaYES3BFUATCYn0,0.554,0.498,-8.866,0.0685,0.23,5.98e-06,0.795,0.413,79.635,190067,hiphop
+DaBaby,FIND MY WAY,83,1gVCEnryJhkdQcuC0Kbvor,spotify:track:1gVCEnryJhkdQcuC0Kbvor,0.836,0.624,-6.75,0.184,0.187,0.0,0.138,0.7,103.0,139890,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,80,6PGoSes0D9eUDeeAafB2As,spotify:track:6PGoSes0D9eUDeeAafB2As,0.8,0.585,-7.343,0.0924,0.264,0.0,0.153,0.779,126.058,213400,hiphop
+Lil Peep,Star Shopping,84,30bqVoKjX479ab90a8Pafp,spotify:track:30bqVoKjX479ab90a8Pafp,0.585,0.471,-9.934,0.0616,0.0967,0.0184,0.115,0.323,93.099,142000,hiphop
+Playboi Carti,Shoota (feat. Lil Uzi Vert),78,2BJSMvOGABRxokHKB0OI8i,spotify:track:2BJSMvOGABRxokHKB0OI8i,0.674,0.649,-8.433,0.199,0.191,0.0,0.122,0.48,153.069,153800,hiphop
+Tory Lanez,Broke In A Minute,83,4xqIYGwwZTEem9U8A42SPF,spotify:track:4xqIYGwwZTEem9U8A42SPF,0.929,0.7,-5.595,0.0906,0.144,0.0,0.349,0.802,120.009,132024,hiphop
+Drake,God's Plan,85,6DCZcSspjsKoFjzjrWoCdn,spotify:track:6DCZcSspjsKoFjzjrWoCdn,0.754,0.449,-9.211,0.109,0.0332,8.29e-05,0.552,0.357,77.169,198973,hiphop
+Lil Peep,Falling Down - Bonus Track,84,4jvjzW7Hm0yK4LvvE0Paz9,spotify:track:4jvjzW7Hm0yK4LvvE0Paz9,0.669,0.574,-6.442,0.0286,0.0175,0.00294,0.146,0.273,120.013,196400,hiphop
+Chance the Rapper,Hot Shower,78,00ko9WaS4jOX1kEk3gvHjf,spotify:track:00ko9WaS4jOX1kEk3gvHjf,0.899,0.509,-8.04,0.387,0.00157,0.0,0.0573,0.599,150.001,225924,hiphop
+Eminem,'Till I Collapse,84,4xkOaSrkexMciUUogZKVTS,spotify:track:4xkOaSrkexMciUUogZKVTS,0.548,0.847,-3.237,0.186,0.0622,0.0,0.0816,0.1,171.447,297787,hiphop
+Lil Baby,Sum 2 Prove,80,2u3EyuCqqV31woqGvO9LBz,spotify:track:2u3EyuCqqV31woqGvO9LBz,0.823,0.552,-7.57,0.324,0.0174,0.0,0.122,0.418,124.038,205760,hiphop
+21 Savage,a lot,81,2t8yVaLvJ0RenpXUIAC52d,spotify:track:2t8yVaLvJ0RenpXUIAC52d,0.837,0.636,-7.643,0.086,0.0395,0.00125,0.342,0.274,145.972,288624,hiphop
+Lil Baby,Yes Indeed,81,6vN77lE9LK6HP2DewaN6HZ,spotify:track:6vN77lE9LK6HP2DewaN6HZ,0.964,0.346,-9.309,0.53,0.035,0.0,0.108,0.562,119.958,142273,hiphop
+Nicki Minaj,Yikes,80,75dLEqanQTupF3dtP9exT5,spotify:track:75dLEqanQTupF3dtP9exT5,0.911,0.637,-8.381,0.447,0.0409,3.68e-05,0.238,0.66,149.996,156882,hiphop
+G-Eazy,Still Be Friends (feat. Tory Lanez & Tyga),86,0JjM9bKm4wrwohMslcm892,spotify:track:0JjM9bKm4wrwohMslcm892,0.803,0.759,-4.692,0.0494,0.00509,0.0,0.0921,0.284,104.0,213308,hiphop
+NF,Let You Down,83,52okn5MNA47tk87PeZJLEL,spotify:track:52okn5MNA47tk87PeZJLEL,0.662,0.714,-5.68,0.121,0.312,0.0,0.179,0.464,147.997,212120,hiphop
+XXXTENTACION,the remedy for a broken heart (why am I so in love),83,4UKCKdYiLN6IMA5ZESUTL7,spotify:track:4UKCKdYiLN6IMA5ZESUTL7,0.699,0.304,-11.192,0.0993,0.779,0.000993,0.137,0.271,119.705,160184,hiphop
+DaBaby,BOP,0,74OhNxIw2WURNnQOAdxNmu,spotify:track:74OhNxIw2WURNnQOAdxNmu,0.775,0.787,-4.104,0.385,0.156,0.0,0.133,0.783,126.699,158893,hiphop
+"Tyler, The Creator",EARFQUAKE,84,5hVghJ4KaYES3BFUATCYn0,spotify:track:5hVghJ4KaYES3BFUATCYn0,0.554,0.498,-8.866,0.0685,0.23,5.98e-06,0.795,0.413,79.635,190067,hiphop
+DaBaby,FIND MY WAY,83,1gVCEnryJhkdQcuC0Kbvor,spotify:track:1gVCEnryJhkdQcuC0Kbvor,0.836,0.624,-6.75,0.184,0.187,0.0,0.138,0.7,103.0,139890,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,80,6PGoSes0D9eUDeeAafB2As,spotify:track:6PGoSes0D9eUDeeAafB2As,0.8,0.585,-7.343,0.0924,0.264,0.0,0.153,0.779,126.058,213400,hiphop
+Lil Peep,Star Shopping,84,30bqVoKjX479ab90a8Pafp,spotify:track:30bqVoKjX479ab90a8Pafp,0.585,0.471,-9.934,0.0616,0.0967,0.0184,0.115,0.323,93.099,142000,hiphop
+Playboi Carti,Shoota (feat. Lil Uzi Vert),78,2BJSMvOGABRxokHKB0OI8i,spotify:track:2BJSMvOGABRxokHKB0OI8i,0.674,0.649,-8.433,0.199,0.191,0.0,0.122,0.48,153.069,153800,hiphop
+Tory Lanez,Broke In A Minute,83,4xqIYGwwZTEem9U8A42SPF,spotify:track:4xqIYGwwZTEem9U8A42SPF,0.929,0.7,-5.595,0.0906,0.144,0.0,0.349,0.802,120.009,132024,hiphop
+Drake,God's Plan,85,6DCZcSspjsKoFjzjrWoCdn,spotify:track:6DCZcSspjsKoFjzjrWoCdn,0.754,0.449,-9.211,0.109,0.0332,8.29e-05,0.552,0.357,77.169,198973,hiphop
+Lil Peep,Falling Down - Bonus Track,84,4jvjzW7Hm0yK4LvvE0Paz9,spotify:track:4jvjzW7Hm0yK4LvvE0Paz9,0.669,0.574,-6.442,0.0286,0.0175,0.00294,0.146,0.273,120.013,196400,hiphop
+Chance the Rapper,Hot Shower,78,00ko9WaS4jOX1kEk3gvHjf,spotify:track:00ko9WaS4jOX1kEk3gvHjf,0.899,0.509,-8.04,0.387,0.00157,0.0,0.0573,0.599,150.001,225924,hiphop
+Eminem,'Till I Collapse,84,4xkOaSrkexMciUUogZKVTS,spotify:track:4xkOaSrkexMciUUogZKVTS,0.548,0.847,-3.237,0.186,0.0622,0.0,0.0816,0.1,171.447,297787,hiphop
+Lil Baby,Sum 2 Prove,80,2u3EyuCqqV31woqGvO9LBz,spotify:track:2u3EyuCqqV31woqGvO9LBz,0.823,0.552,-7.57,0.324,0.0174,0.0,0.122,0.418,124.038,205760,hiphop
+21 Savage,a lot,81,2t8yVaLvJ0RenpXUIAC52d,spotify:track:2t8yVaLvJ0RenpXUIAC52d,0.837,0.636,-7.643,0.086,0.0395,0.00125,0.342,0.274,145.972,288624,hiphop
+Lil Baby,Yes Indeed,81,6vN77lE9LK6HP2DewaN6HZ,spotify:track:6vN77lE9LK6HP2DewaN6HZ,0.964,0.346,-9.309,0.53,0.035,0.0,0.108,0.562,119.958,142273,hiphop
+Nicki Minaj,Yikes,80,75dLEqanQTupF3dtP9exT5,spotify:track:75dLEqanQTupF3dtP9exT5,0.911,0.637,-8.381,0.447,0.0409,3.68e-05,0.238,0.66,149.996,156882,hiphop
+G-Eazy,Still Be Friends (feat. Tory Lanez & Tyga),86,0JjM9bKm4wrwohMslcm892,spotify:track:0JjM9bKm4wrwohMslcm892,0.803,0.759,-4.692,0.0494,0.00509,0.0,0.0921,0.284,104.0,213308,hiphop
+NF,Let You Down,83,52okn5MNA47tk87PeZJLEL,spotify:track:52okn5MNA47tk87PeZJLEL,0.662,0.714,-5.68,0.121,0.312,0.0,0.179,0.464,147.997,212120,hiphop
+XXXTENTACION,the remedy for a broken heart (why am I so in love),83,4UKCKdYiLN6IMA5ZESUTL7,spotify:track:4UKCKdYiLN6IMA5ZESUTL7,0.699,0.304,-11.192,0.0993,0.779,0.000993,0.137,0.271,119.705,160184,hiphop
+DaBaby,BOP,0,74OhNxIw2WURNnQOAdxNmu,spotify:track:74OhNxIw2WURNnQOAdxNmu,0.775,0.787,-4.104,0.385,0.156,0.0,0.133,0.783,126.699,158893,hiphop
+DaBaby,BLAME IT ON BABY,77,0jWm0VyD8p3MrSInczpows,spotify:track:0jWm0VyD8p3MrSInczpows,0.875,0.687,-5.734,0.387,0.236,0.0,0.141,0.864,109.791,125907,hiphop
+DaBaby,FIND MY WAY,83,1gVCEnryJhkdQcuC0Kbvor,spotify:track:1gVCEnryJhkdQcuC0Kbvor,0.836,0.624,-6.75,0.184,0.187,0.0,0.138,0.7,103.0,139890,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,80,6PGoSes0D9eUDeeAafB2As,spotify:track:6PGoSes0D9eUDeeAafB2As,0.8,0.585,-7.343,0.0924,0.264,0.0,0.153,0.779,126.058,213400,hiphop
+Lil Peep,Star Shopping,84,30bqVoKjX479ab90a8Pafp,spotify:track:30bqVoKjX479ab90a8Pafp,0.585,0.471,-9.934,0.0616,0.0967,0.0184,0.115,0.323,93.099,142000,hiphop
+Playboi Carti,Shoota (feat. Lil Uzi Vert),78,2BJSMvOGABRxokHKB0OI8i,spotify:track:2BJSMvOGABRxokHKB0OI8i,0.674,0.649,-8.433,0.199,0.191,0.0,0.122,0.48,153.069,153800,hiphop
+Tory Lanez,Broke In A Minute,83,4xqIYGwwZTEem9U8A42SPF,spotify:track:4xqIYGwwZTEem9U8A42SPF,0.929,0.7,-5.595,0.0906,0.144,0.0,0.349,0.802,120.009,132024,hiphop
+Drake,God's Plan,85,6DCZcSspjsKoFjzjrWoCdn,spotify:track:6DCZcSspjsKoFjzjrWoCdn,0.754,0.449,-9.211,0.109,0.0332,8.29e-05,0.552,0.357,77.169,198973,hiphop
+Lil Peep,Falling Down - Bonus Track,84,4jvjzW7Hm0yK4LvvE0Paz9,spotify:track:4jvjzW7Hm0yK4LvvE0Paz9,0.669,0.574,-6.442,0.0286,0.0175,0.00294,0.146,0.273,120.013,196400,hiphop
+Chance the Rapper,Hot Shower,78,00ko9WaS4jOX1kEk3gvHjf,spotify:track:00ko9WaS4jOX1kEk3gvHjf,0.899,0.509,-8.04,0.387,0.00157,0.0,0.0573,0.599,150.001,225924,hiphop
+Eminem,'Till I Collapse,84,4xkOaSrkexMciUUogZKVTS,spotify:track:4xkOaSrkexMciUUogZKVTS,0.548,0.847,-3.237,0.186,0.0622,0.0,0.0816,0.1,171.447,297787,hiphop
+Lil Baby,Sum 2 Prove,80,2u3EyuCqqV31woqGvO9LBz,spotify:track:2u3EyuCqqV31woqGvO9LBz,0.823,0.552,-7.57,0.324,0.0174,0.0,0.122,0.418,124.038,205760,hiphop
+21 Savage,a lot,81,2t8yVaLvJ0RenpXUIAC52d,spotify:track:2t8yVaLvJ0RenpXUIAC52d,0.837,0.636,-7.643,0.086,0.0395,0.00125,0.342,0.274,145.972,288624,hiphop
+Lil Baby,Yes Indeed,81,6vN77lE9LK6HP2DewaN6HZ,spotify:track:6vN77lE9LK6HP2DewaN6HZ,0.964,0.346,-9.309,0.53,0.035,0.0,0.108,0.562,119.958,142273,hiphop
+Nicki Minaj,Yikes,80,75dLEqanQTupF3dtP9exT5,spotify:track:75dLEqanQTupF3dtP9exT5,0.911,0.637,-8.381,0.447,0.0409,3.68e-05,0.238,0.66,149.996,156882,hiphop
+G-Eazy,Still Be Friends (feat. Tory Lanez & Tyga),86,0JjM9bKm4wrwohMslcm892,spotify:track:0JjM9bKm4wrwohMslcm892,0.803,0.759,-4.692,0.0494,0.00509,0.0,0.0921,0.284,104.0,213308,hiphop
+NF,Let You Down,83,52okn5MNA47tk87PeZJLEL,spotify:track:52okn5MNA47tk87PeZJLEL,0.662,0.714,-5.68,0.121,0.312,0.0,0.179,0.464,147.997,212120,hiphop
+XXXTENTACION,the remedy for a broken heart (why am I so in love),83,4UKCKdYiLN6IMA5ZESUTL7,spotify:track:4UKCKdYiLN6IMA5ZESUTL7,0.699,0.304,-11.192,0.0993,0.779,0.000993,0.137,0.271,119.705,160184,hiphop
+DaBaby,BOP,0,74OhNxIw2WURNnQOAdxNmu,spotify:track:74OhNxIw2WURNnQOAdxNmu,0.775,0.787,-4.104,0.385,0.156,0.0,0.133,0.783,126.699,158893,hiphop
+DaBaby,BLAME IT ON BABY,77,0jWm0VyD8p3MrSInczpows,spotify:track:0jWm0VyD8p3MrSInczpows,0.875,0.687,-5.734,0.387,0.236,0.0,0.141,0.864,109.791,125907,hiphop
+Lil Baby,Emotionally Scarred,80,7ge7BHazYbVKi8qyZUX1Bm,spotify:track:7ge7BHazYbVKi8qyZUX1Bm,0.585,0.641,-4.269,0.133,0.0286,0.0,0.316,0.266,88.284,197530,hiphop
+Drake,Money In The Grave (Drake ft. Rick Ross),87,5ry2OE6R2zPQFDO85XkgRb,spotify:track:5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,205427,hiphop
+BROCKHAMPTON,SUGAR,87,6U0FIYXCQ3TGrk4tFpLrEA,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,-8.212,0.0638,0.449,0.0,0.19,0.516,122.973,204533,hiphop
+NLE Choppa,Camelot,83,4sWuPniHClkInYAnzXAYUF,spotify:track:4sWuPniHClkInYAnzXAYUF,0.787,0.713,-5.252,0.401,0.0849,0.0,0.717,0.762,175.041,148759,hiphop
+XXXTENTACION,SAD!,88,3ee8Jmje8o58CHK66QrVC2,spotify:track:3ee8Jmje8o58CHK66QrVC2,0.74,0.613,-4.88,0.145,0.258,0.00372,0.123,0.473,75.023,166606,hiphop
+DaBaby,PICK UP (feat. Quavo),81,5gNOINI5dXZVom2b36LMOd,spotify:track:5gNOINI5dXZVom2b36LMOd,0.915,0.612,-4.535,0.407,0.0944,0.0,0.115,0.758,129.93,118547,hiphop
+Future,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",82,4iiWcajF1fEUpwcUewc464,spotify:track:4iiWcajF1fEUpwcUewc464,0.81,0.566,-8.33,0.433,0.107,0.0,0.122,0.582,142.069,315346,hiphop
+Baby Keem,ORANGE SODA,81,5FkoSXiJPKTNyYgALRJFhD,spotify:track:5FkoSXiJPKTNyYgALRJFhD,0.83,0.564,-7.822,0.235,0.177,0.0,0.128,0.107,85.042,129882,hiphop
+XXXTENTACION,Fuck Love (feat. Trippie Redd),85,7AQim7LbvFVZJE3O8TYgf2,spotify:track:7AQim7LbvFVZJE3O8TYgf2,0.797,0.533,-9.74,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,hiphop
+Lil Baby,Heatin Up (feat. Gunna),83,7KSSdFCBHCfq4KPzz78ghk,spotify:track:7KSSdFCBHCfq4KPzz78ghk,0.788,0.436,-9.435,0.364,0.0611,0.0,0.0979,0.341,129.847,177314,hiphop
+J. Cole,No Role Modelz,82,62vpWI1CHwFy7tMIcSStl8,spotify:track:62vpWI1CHwFy7tMIcSStl8,0.696,0.521,-8.465,0.332,0.302,0.0,0.0565,0.458,100.0,292987,hiphop
+Meek Mill,Going Bad (feat. Drake),84,2IRZnDFmlqMuOrYOLnZZyc,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,180522,hiphop
+Ali Gatie,It's You,88,5DqdesEfbRyOlSS3Tf6c29,spotify:track:5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,-6.972,0.0287,0.374,0.0,0.194,0.397,95.971,212607,hiphop
+DaBaby,JUMP (feat. YoungBoy Never Broke Again),80,0oT9ElXYSxvnOOagP9efDq,spotify:track:0oT9ElXYSxvnOOagP9efDq,0.896,0.72,-6.262,0.355,0.169,0.0,0.252,0.966,140.1,212093,hiphop
+Ali Gatie,What If I Told You That I Love You,82,74D7JUfU6HYeMx4bZhsHnG,spotify:track:74D7JUfU6HYeMx4bZhsHnG,0.605,0.365,-11.144,0.111,0.63,6.83e-06,0.0554,0.224,84.628,193668,hiphop
+Childish Gambino,Redbone,83,0wXuerDYiBnERgIpbb3JBR,spotify:track:0wXuerDYiBnERgIpbb3JBR,0.743,0.347,-11.174,0.121,0.167,0.00951,0.103,0.572,160.143,326933,hiphop
+XXXTENTACION,Moonlight,86,0JP9xo3adEtGSdUEISiszL,spotify:track:0JP9xo3adEtGSdUEISiszL,0.921,0.537,-5.723,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,hiphop
+Lil Baby,Drip Too Hard (Lil Baby & Gunna),83,78QR3Wp35dqAhFEc2qAGjE,spotify:track:78QR3Wp35dqAhFEc2qAGjE,0.897,0.662,-6.903,0.292,0.0852,0.0,0.534,0.389,112.511,145543,hiphop
+Offset,Ric Flair Drip (& Metro Boomin),82,7sO5G9EABYOXQKNPNiE9NR,spotify:track:7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,-8.28,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,hiphop
+Ski Mask The Slump God,Faucet Failure,80,1ThmUihH9dF8EV08ku5AXN,spotify:track:1ThmUihH9dF8EV08ku5AXN,0.935,0.552,-9.373,0.335,0.111,0.0,0.0952,0.615,99.993,145627,hiphop
+Gunna,SKYBOX,80,7GwYENSg87oERcW0Wacd6m,spotify:track:7GwYENSg87oERcW0Wacd6m,0.779,0.708,-6.527,0.162,0.0999,0.0,0.0934,0.345,140.894,178097,hiphop
+Kendrick Lamar,HUMBLE.,84,7KXjTSCq5nL1LoYtL7XAwS,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,-6.638,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,hiphop
+Quality Control,Baby (Lil Baby feat. DaBaby),78,5MPPttjfGap2C6j6eKcO6J,spotify:track:5MPPttjfGap2C6j6eKcO6J,0.97,0.463,-7.259,0.366,0.0957,0.0,0.151,0.46,108.003,142417,hiphop
+Lil Baby,All In,75,1ZRjLZcNTm1vUgrexBp3px,spotify:track:1ZRjLZcNTm1vUgrexBp3px,0.836,0.649,-6.442,0.332,0.0716,0.0,0.0943,0.294,95.084,156032,hiphop
+XXXTENTACION,Everybody Dies In Their Nightmares,84,3GVkPk8mqxz0itaAriG1L7,spotify:track:3GVkPk8mqxz0itaAriG1L7,0.734,0.57,-7.066,0.133,0.847,2.14e-05,0.112,0.689,129.953,95467,hiphop
+Lil Baby,Woah,82,598yNsG1JFrGd4n2kMoz7F,spotify:track:598yNsG1JFrGd4n2kMoz7F,0.882,0.602,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011,hiphop
+Frank Ocean,Chanel,82,6Nle9hKrkL1wQpwNfEkxjh,spotify:track:6Nle9hKrkL1wQpwNfEkxjh,0.776,0.503,-5.732,0.237,0.874,0.0,0.112,0.473,110.134,210285,hiphop
+"Tyler, The Creator",See You Again (feat. Kali Uchis),80,7KA4W4McWYRpgf0fWsJZWB,spotify:track:7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,-9.222,0.0959,0.371,7.49e-06,0.109,0.62,78.558,180387,hiphop
+Lil Baby,Commercial (feat. Lil Uzi Vert),81,3tDqEKKUs6gf8zMvSuLyLA,spotify:track:3tDqEKKUs6gf8zMvSuLyLA,0.892,0.486,-8.637,0.384,0.048,0.0,0.146,0.535,120.998,214215,hiphop
+XXXTENTACION,Hope,84,2ZRo7axmMPeSVUvDbGkJah,spotify:track:2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,-6.081,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,hiphop
+Drake,Nonstop,82,0TlLq3lA83rQOYtrqBqSct,spotify:track:0TlLq3lA83rQOYtrqBqSct,0.912,0.412,-8.074,0.124,0.0164,0.013,0.104,0.422,154.983,238614,hiphop
+Lizzo,Truth Hurts,82,3HWzoMvoF3TQfYg4UPszDq,spotify:track:3HWzoMvoF3TQfYg4UPszDq,0.715,0.624,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,173325,hiphop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,80,6PGoSes0D9eUDeeAafB2As,spotify:track:6PGoSes0D9eUDeeAafB2As,0.8,0.585,-7.343,0.0924,0.264,0.0,0.153,0.779,126.058,213400,hiphop
+Lil Peep,Star Shopping,84,30bqVoKjX479ab90a8Pafp,spotify:track:30bqVoKjX479ab90a8Pafp,0.585,0.471,-9.934,0.0616,0.0967,0.0184,0.115,0.323,93.099,142000,hiphop
+Playboi Carti,Shoota (feat. Lil Uzi Vert),78,2BJSMvOGABRxokHKB0OI8i,spotify:track:2BJSMvOGABRxokHKB0OI8i,0.674,0.649,-8.433,0.199,0.191,0.0,0.122,0.48,153.069,153800,hiphop
+Tory Lanez,Broke In A Minute,83,4xqIYGwwZTEem9U8A42SPF,spotify:track:4xqIYGwwZTEem9U8A42SPF,0.929,0.7,-5.595,0.0906,0.144,0.0,0.349,0.802,120.009,132024,hiphop
+Drake,God's Plan,85,6DCZcSspjsKoFjzjrWoCdn,spotify:track:6DCZcSspjsKoFjzjrWoCdn,0.754,0.449,-9.211,0.109,0.0332,8.29e-05,0.552,0.357,77.169,198973,hiphop
+Lil Peep,Falling Down - Bonus Track,84,4jvjzW7Hm0yK4LvvE0Paz9,spotify:track:4jvjzW7Hm0yK4LvvE0Paz9,0.669,0.574,-6.442,0.0286,0.0175,0.00294,0.146,0.273,120.013,196400,hiphop
+Chance the Rapper,Hot Shower,78,00ko9WaS4jOX1kEk3gvHjf,spotify:track:00ko9WaS4jOX1kEk3gvHjf,0.899,0.509,-8.04,0.387,0.00157,0.0,0.0573,0.599,150.001,225924,hiphop
+Eminem,'Till I Collapse,84,4xkOaSrkexMciUUogZKVTS,spotify:track:4xkOaSrkexMciUUogZKVTS,0.548,0.847,-3.237,0.186,0.0622,0.0,0.0816,0.1,171.447,297787,hiphop
+Lil Baby,Sum 2 Prove,80,2u3EyuCqqV31woqGvO9LBz,spotify:track:2u3EyuCqqV31woqGvO9LBz,0.823,0.552,-7.57,0.324,0.0174,0.0,0.122,0.418,124.038,205760,hiphop
+21 Savage,a lot,81,2t8yVaLvJ0RenpXUIAC52d,spotify:track:2t8yVaLvJ0RenpXUIAC52d,0.837,0.636,-7.643,0.086,0.0395,0.00125,0.342,0.274,145.972,288624,hiphop
+Lil Baby,Yes Indeed,81,6vN77lE9LK6HP2DewaN6HZ,spotify:track:6vN77lE9LK6HP2DewaN6HZ,0.964,0.346,-9.309,0.53,0.035,0.0,0.108,0.562,119.958,142273,hiphop
+Nicki Minaj,Yikes,80,75dLEqanQTupF3dtP9exT5,spotify:track:75dLEqanQTupF3dtP9exT5,0.911,0.637,-8.381,0.447,0.0409,3.68e-05,0.238,0.66,149.996,156882,hiphop
+G-Eazy,Still Be Friends (feat. Tory Lanez & Tyga),86,0JjM9bKm4wrwohMslcm892,spotify:track:0JjM9bKm4wrwohMslcm892,0.803,0.759,-4.692,0.0494,0.00509,0.0,0.0921,0.284,104.0,213308,hiphop
+NF,Let You Down,83,52okn5MNA47tk87PeZJLEL,spotify:track:52okn5MNA47tk87PeZJLEL,0.662,0.714,-5.68,0.121,0.312,0.0,0.179,0.464,147.997,212120,hiphop
+XXXTENTACION,the remedy for a broken heart (why am I so in love),83,4UKCKdYiLN6IMA5ZESUTL7,spotify:track:4UKCKdYiLN6IMA5ZESUTL7,0.699,0.304,-11.192,0.0993,0.779,0.000993,0.137,0.271,119.705,160184,hiphop
+DaBaby,BOP,0,74OhNxIw2WURNnQOAdxNmu,spotify:track:74OhNxIw2WURNnQOAdxNmu,0.775,0.787,-4.104,0.385,0.156,0.0,0.133,0.783,126.699,158893,hiphop
+DaBaby,BLAME IT ON BABY,77,0jWm0VyD8p3MrSInczpows,spotify:track:0jWm0VyD8p3MrSInczpows,0.875,0.687,-5.734,0.387,0.236,0.0,0.141,0.864,109.791,125907,hiphop
+Lil Baby,Emotionally Scarred,80,7ge7BHazYbVKi8qyZUX1Bm,spotify:track:7ge7BHazYbVKi8qyZUX1Bm,0.585,0.641,-4.269,0.133,0.0286,0.0,0.316,0.266,88.284,197530,hiphop
+Russ,BEST ON EARTH (feat. BIA) - Bonus,80,0xKBkLcF71uUQeTA7FSu4A,spotify:track:0xKBkLcF71uUQeTA7FSu4A,0.846,0.748,-3.512,0.078,0.188,0.0,0.093,0.597,90.006,160720,hiphop

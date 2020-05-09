@@ -1,0 +1,1001 @@
+artist_name,track_name,popularity,track_id,track_uri,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration,genre
+Steve Mokwebe,It Ends with Us,68,6RMjZgsE9IcQZqubTzLtDs,spotify:track:6RMjZgsE9IcQZqubTzLtDs,0.326,0.00891,-24.103,0.0518,0.986,0.934,0.111,0.299,69.79,130192,instrumental
+Rannar Sillard,Dream Voucher,68,2T6wyxLBkQ4Y2ZjTbpuYfr,spotify:track:2T6wyxLBkQ4Y2ZjTbpuYfr,0.302,0.101,-19.705,0.0378,0.943,0.886,0.107,0.213,106.904,155040,instrumental
+Vala Capon,Presto arriverà il sole,69,2jyJXuG0rIma11mOl4Fz7m,spotify:track:2jyJXuG0rIma11mOl4Fz7m,0.378,0.0437,-26.159,0.0357,0.995,0.92,0.0983,0.423,77.211,152000,instrumental
+Benette,Lily's Cradle,68,4UlarjdicLUPbdssOxWbYX,spotify:track:4UlarjdicLUPbdssOxWbYX,0.368,0.00892,-29.555,0.05,0.99,0.911,0.102,0.287,63.639,161267,instrumental
+Ever So Blue,Cessura,70,7uvey8m0ZfknE25sBVWoGY,spotify:track:7uvey8m0ZfknE25sBVWoGY,0.374,0.0989,-28.377,0.0326,0.991,0.805,0.0799,0.342,152.84,185390,instrumental
+Silje Månsson,Sparkle,69,3a14Ywse8vF62KNc7zI4wW,spotify:track:3a14Ywse8vF62KNc7zI4wW,0.313,0.0102,-23.15,0.0326,0.992,0.907,0.103,0.0965,82.781,115971,instrumental
+Ever So Blue,At Dawn,70,6sSFbKl9oQ7ToYxBeTQZvw,spotify:track:6sSFbKl9oQ7ToYxBeTQZvw,0.622,0.0251,-24.907,0.056,0.996,0.945,0.0902,0.363,116.364,136000,instrumental
+Jon E. Amber,All Is Good,69,2236Rw4h6OBwtNTtAUiyJ5,spotify:track:2236Rw4h6OBwtNTtAUiyJ5,0.304,0.00275,-38.48,0.0524,0.993,0.932,0.0639,0.253,69.405,145371,instrumental
+Ludovico Sagese,Edelweiss,67,4SMp3hkQV64IoaaKsBQoBo,spotify:track:4SMp3hkQV64IoaaKsBQoBo,0.465,0.0289,-27.689,0.043,0.996,0.959,0.136,0.448,99.873,123500,instrumental
+Keira Conlon,Lyrebird,70,72mDETn3Ba8yVewAcqnlqQ,spotify:track:72mDETn3Ba8yVewAcqnlqQ,0.232,0.00449,-34.69,0.0375,0.994,0.852,0.0705,0.0988,73.356,153500,instrumental
+Klaus Weissmuller,fabienne,67,2FxwP5bwUPpYZUzkhoATvL,spotify:track:2FxwP5bwUPpYZUzkhoATvL,0.402,0.055,-22.523,0.0529,0.996,0.972,0.111,0.243,134.466,116000,instrumental
+Ferdinando Zetticci,Sonnambulismo,69,2Ud0BKOtLvXRFXXE6ikCKn,spotify:track:2Ud0BKOtLvXRFXXE6ikCKn,0.224,0.0138,-30.011,0.0367,0.994,0.904,0.105,0.0863,60.584,206000,instrumental
+Ever So Blue,Fragment,70,3VBPPIu4MGBnMj4SF8sJBJ,spotify:track:3VBPPIu4MGBnMj4SF8sJBJ,0.403,0.0621,-28.678,0.049,0.995,0.932,0.0999,0.146,135.761,153104,instrumental
+Jordan Barns,Forrest Gump - Main Title (Feather Theme),68,4SNS6KMBDrfK676bO1hQj9,spotify:track:4SNS6KMBDrfK676bO1hQj9,0.463,0.0249,-24.519,0.0394,0.993,0.928,0.127,0.216,144.599,201858,instrumental
+Ebb & Flod,Threads,69,5ASmAe7WcZaLVx6KcCqhW0,spotify:track:5ASmAe7WcZaLVx6KcCqhW0,0.12,0.0436,-22.044,0.0383,0.79,0.889,0.112,0.0361,72.339,192793,instrumental
+Ludovico Sagese,"Row, row, row your boat",67,2LktcIchl4v0rPXWvwBNlc,spotify:track:2LktcIchl4v0rPXWvwBNlc,0.491,0.0509,-27.587,0.0509,0.995,0.945,0.117,0.561,94.146,72000,instrumental
+Oliver Évilo,Jupiter Sunrise,68,1tQKUYjY3h950XByYm0ZAf,spotify:track:1tQKUYjY3h950XByYm0ZAf,0.21,0.00385,-37.141,0.0348,0.992,0.95,0.0738,0.114,107.116,178402,instrumental
+Karen Elf,Beauty And The Beast,67,4cuhDcdaWgkvoSaj016y6T,spotify:track:4cuhDcdaWgkvoSaj016y6T,0.431,0.0353,-23.003,0.0612,0.994,0.912,0.119,0.161,118.281,273500,instrumental
+Dilia,The Giant,66,2TOQzMaEqVVhdeheBVLOMm,spotify:track:2TOQzMaEqVVhdeheBVLOMm,0.565,0.0843,-24.145,0.0448,0.994,0.947,0.12,0.44,86.022,183686,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Rannar Sillard,Dream Voucher,68,2T6wyxLBkQ4Y2ZjTbpuYfr,spotify:track:2T6wyxLBkQ4Y2ZjTbpuYfr,0.302,0.101,-19.705,0.0378,0.943,0.886,0.107,0.213,106.904,155040,instrumental
+Vala Capon,Presto arriverà il sole,69,2jyJXuG0rIma11mOl4Fz7m,spotify:track:2jyJXuG0rIma11mOl4Fz7m,0.378,0.0437,-26.159,0.0357,0.995,0.92,0.0983,0.423,77.211,152000,instrumental
+Benette,Lily's Cradle,68,4UlarjdicLUPbdssOxWbYX,spotify:track:4UlarjdicLUPbdssOxWbYX,0.368,0.00892,-29.555,0.05,0.99,0.911,0.102,0.287,63.639,161267,instrumental
+Ever So Blue,Cessura,70,7uvey8m0ZfknE25sBVWoGY,spotify:track:7uvey8m0ZfknE25sBVWoGY,0.374,0.0989,-28.377,0.0326,0.991,0.805,0.0799,0.342,152.84,185390,instrumental
+Silje Månsson,Sparkle,69,3a14Ywse8vF62KNc7zI4wW,spotify:track:3a14Ywse8vF62KNc7zI4wW,0.313,0.0102,-23.15,0.0326,0.992,0.907,0.103,0.0965,82.781,115971,instrumental
+Ever So Blue,At Dawn,70,6sSFbKl9oQ7ToYxBeTQZvw,spotify:track:6sSFbKl9oQ7ToYxBeTQZvw,0.622,0.0251,-24.907,0.056,0.996,0.945,0.0902,0.363,116.364,136000,instrumental
+Jon E. Amber,All Is Good,69,2236Rw4h6OBwtNTtAUiyJ5,spotify:track:2236Rw4h6OBwtNTtAUiyJ5,0.304,0.00275,-38.48,0.0524,0.993,0.932,0.0639,0.253,69.405,145371,instrumental
+Ludovico Sagese,Edelweiss,67,4SMp3hkQV64IoaaKsBQoBo,spotify:track:4SMp3hkQV64IoaaKsBQoBo,0.465,0.0289,-27.689,0.043,0.996,0.959,0.136,0.448,99.873,123500,instrumental
+Keira Conlon,Lyrebird,70,72mDETn3Ba8yVewAcqnlqQ,spotify:track:72mDETn3Ba8yVewAcqnlqQ,0.232,0.00449,-34.69,0.0375,0.994,0.852,0.0705,0.0988,73.356,153500,instrumental
+Klaus Weissmuller,fabienne,67,2FxwP5bwUPpYZUzkhoATvL,spotify:track:2FxwP5bwUPpYZUzkhoATvL,0.402,0.055,-22.523,0.0529,0.996,0.972,0.111,0.243,134.466,116000,instrumental
+Ferdinando Zetticci,Sonnambulismo,69,2Ud0BKOtLvXRFXXE6ikCKn,spotify:track:2Ud0BKOtLvXRFXXE6ikCKn,0.224,0.0138,-30.011,0.0367,0.994,0.904,0.105,0.0863,60.584,206000,instrumental
+Ever So Blue,Fragment,70,3VBPPIu4MGBnMj4SF8sJBJ,spotify:track:3VBPPIu4MGBnMj4SF8sJBJ,0.403,0.0621,-28.678,0.049,0.995,0.932,0.0999,0.146,135.761,153104,instrumental
+Jordan Barns,Forrest Gump - Main Title (Feather Theme),68,4SNS6KMBDrfK676bO1hQj9,spotify:track:4SNS6KMBDrfK676bO1hQj9,0.463,0.0249,-24.519,0.0394,0.993,0.928,0.127,0.216,144.599,201858,instrumental
+Ebb & Flod,Threads,69,5ASmAe7WcZaLVx6KcCqhW0,spotify:track:5ASmAe7WcZaLVx6KcCqhW0,0.12,0.0436,-22.044,0.0383,0.79,0.889,0.112,0.0361,72.339,192793,instrumental
+Ludovico Sagese,"Row, row, row your boat",67,2LktcIchl4v0rPXWvwBNlc,spotify:track:2LktcIchl4v0rPXWvwBNlc,0.491,0.0509,-27.587,0.0509,0.995,0.945,0.117,0.561,94.146,72000,instrumental
+Oliver Évilo,Jupiter Sunrise,68,1tQKUYjY3h950XByYm0ZAf,spotify:track:1tQKUYjY3h950XByYm0ZAf,0.21,0.00385,-37.141,0.0348,0.992,0.95,0.0738,0.114,107.116,178402,instrumental
+Karen Elf,Beauty And The Beast,67,4cuhDcdaWgkvoSaj016y6T,spotify:track:4cuhDcdaWgkvoSaj016y6T,0.431,0.0353,-23.003,0.0612,0.994,0.912,0.119,0.161,118.281,273500,instrumental
+Dilia,The Giant,66,2TOQzMaEqVVhdeheBVLOMm,spotify:track:2TOQzMaEqVVhdeheBVLOMm,0.565,0.0843,-24.145,0.0448,0.994,0.947,0.12,0.44,86.022,183686,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Hushed,Hibernation,66,7AcNOiZhA5jRxCp5c3wOyz,spotify:track:7AcNOiZhA5jRxCp5c3wOyz,0.27,0.0205,-29.372,0.0359,0.927,0.91,0.113,0.109,69.882,216678,instrumental
+Vala Capon,Presto arriverà il sole,69,2jyJXuG0rIma11mOl4Fz7m,spotify:track:2jyJXuG0rIma11mOl4Fz7m,0.378,0.0437,-26.159,0.0357,0.995,0.92,0.0983,0.423,77.211,152000,instrumental
+Benette,Lily's Cradle,68,4UlarjdicLUPbdssOxWbYX,spotify:track:4UlarjdicLUPbdssOxWbYX,0.368,0.00892,-29.555,0.05,0.99,0.911,0.102,0.287,63.639,161267,instrumental
+Ever So Blue,Cessura,70,7uvey8m0ZfknE25sBVWoGY,spotify:track:7uvey8m0ZfknE25sBVWoGY,0.374,0.0989,-28.377,0.0326,0.991,0.805,0.0799,0.342,152.84,185390,instrumental
+Silje Månsson,Sparkle,69,3a14Ywse8vF62KNc7zI4wW,spotify:track:3a14Ywse8vF62KNc7zI4wW,0.313,0.0102,-23.15,0.0326,0.992,0.907,0.103,0.0965,82.781,115971,instrumental
+Ever So Blue,At Dawn,70,6sSFbKl9oQ7ToYxBeTQZvw,spotify:track:6sSFbKl9oQ7ToYxBeTQZvw,0.622,0.0251,-24.907,0.056,0.996,0.945,0.0902,0.363,116.364,136000,instrumental
+Jon E. Amber,All Is Good,69,2236Rw4h6OBwtNTtAUiyJ5,spotify:track:2236Rw4h6OBwtNTtAUiyJ5,0.304,0.00275,-38.48,0.0524,0.993,0.932,0.0639,0.253,69.405,145371,instrumental
+Ludovico Sagese,Edelweiss,67,4SMp3hkQV64IoaaKsBQoBo,spotify:track:4SMp3hkQV64IoaaKsBQoBo,0.465,0.0289,-27.689,0.043,0.996,0.959,0.136,0.448,99.873,123500,instrumental
+Keira Conlon,Lyrebird,70,72mDETn3Ba8yVewAcqnlqQ,spotify:track:72mDETn3Ba8yVewAcqnlqQ,0.232,0.00449,-34.69,0.0375,0.994,0.852,0.0705,0.0988,73.356,153500,instrumental
+Klaus Weissmuller,fabienne,67,2FxwP5bwUPpYZUzkhoATvL,spotify:track:2FxwP5bwUPpYZUzkhoATvL,0.402,0.055,-22.523,0.0529,0.996,0.972,0.111,0.243,134.466,116000,instrumental
+Ferdinando Zetticci,Sonnambulismo,69,2Ud0BKOtLvXRFXXE6ikCKn,spotify:track:2Ud0BKOtLvXRFXXE6ikCKn,0.224,0.0138,-30.011,0.0367,0.994,0.904,0.105,0.0863,60.584,206000,instrumental
+Ever So Blue,Fragment,70,3VBPPIu4MGBnMj4SF8sJBJ,spotify:track:3VBPPIu4MGBnMj4SF8sJBJ,0.403,0.0621,-28.678,0.049,0.995,0.932,0.0999,0.146,135.761,153104,instrumental
+Jordan Barns,Forrest Gump - Main Title (Feather Theme),68,4SNS6KMBDrfK676bO1hQj9,spotify:track:4SNS6KMBDrfK676bO1hQj9,0.463,0.0249,-24.519,0.0394,0.993,0.928,0.127,0.216,144.599,201858,instrumental
+Ebb & Flod,Threads,69,5ASmAe7WcZaLVx6KcCqhW0,spotify:track:5ASmAe7WcZaLVx6KcCqhW0,0.12,0.0436,-22.044,0.0383,0.79,0.889,0.112,0.0361,72.339,192793,instrumental
+Ludovico Sagese,"Row, row, row your boat",67,2LktcIchl4v0rPXWvwBNlc,spotify:track:2LktcIchl4v0rPXWvwBNlc,0.491,0.0509,-27.587,0.0509,0.995,0.945,0.117,0.561,94.146,72000,instrumental
+Oliver Évilo,Jupiter Sunrise,68,1tQKUYjY3h950XByYm0ZAf,spotify:track:1tQKUYjY3h950XByYm0ZAf,0.21,0.00385,-37.141,0.0348,0.992,0.95,0.0738,0.114,107.116,178402,instrumental
+Karen Elf,Beauty And The Beast,67,4cuhDcdaWgkvoSaj016y6T,spotify:track:4cuhDcdaWgkvoSaj016y6T,0.431,0.0353,-23.003,0.0612,0.994,0.912,0.119,0.161,118.281,273500,instrumental
+Dilia,The Giant,66,2TOQzMaEqVVhdeheBVLOMm,spotify:track:2TOQzMaEqVVhdeheBVLOMm,0.565,0.0843,-24.145,0.0448,0.994,0.947,0.12,0.44,86.022,183686,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Hushed,Hibernation,66,7AcNOiZhA5jRxCp5c3wOyz,spotify:track:7AcNOiZhA5jRxCp5c3wOyz,0.27,0.0205,-29.372,0.0359,0.927,0.91,0.113,0.109,69.882,216678,instrumental
+Novo Talos,For the Love of Love,67,7KWhxUrK9ofPTn3ItWceR5,spotify:track:7KWhxUrK9ofPTn3ItWceR5,0.321,0.0258,-27.129,0.0454,0.995,0.915,0.137,0.255,67.535,143251,instrumental
+Benette,Lily's Cradle,68,4UlarjdicLUPbdssOxWbYX,spotify:track:4UlarjdicLUPbdssOxWbYX,0.368,0.00892,-29.555,0.05,0.99,0.911,0.102,0.287,63.639,161267,instrumental
+Ever So Blue,Cessura,70,7uvey8m0ZfknE25sBVWoGY,spotify:track:7uvey8m0ZfknE25sBVWoGY,0.374,0.0989,-28.377,0.0326,0.991,0.805,0.0799,0.342,152.84,185390,instrumental
+Silje Månsson,Sparkle,69,3a14Ywse8vF62KNc7zI4wW,spotify:track:3a14Ywse8vF62KNc7zI4wW,0.313,0.0102,-23.15,0.0326,0.992,0.907,0.103,0.0965,82.781,115971,instrumental
+Ever So Blue,At Dawn,70,6sSFbKl9oQ7ToYxBeTQZvw,spotify:track:6sSFbKl9oQ7ToYxBeTQZvw,0.622,0.0251,-24.907,0.056,0.996,0.945,0.0902,0.363,116.364,136000,instrumental
+Jon E. Amber,All Is Good,69,2236Rw4h6OBwtNTtAUiyJ5,spotify:track:2236Rw4h6OBwtNTtAUiyJ5,0.304,0.00275,-38.48,0.0524,0.993,0.932,0.0639,0.253,69.405,145371,instrumental
+Ludovico Sagese,Edelweiss,67,4SMp3hkQV64IoaaKsBQoBo,spotify:track:4SMp3hkQV64IoaaKsBQoBo,0.465,0.0289,-27.689,0.043,0.996,0.959,0.136,0.448,99.873,123500,instrumental
+Keira Conlon,Lyrebird,70,72mDETn3Ba8yVewAcqnlqQ,spotify:track:72mDETn3Ba8yVewAcqnlqQ,0.232,0.00449,-34.69,0.0375,0.994,0.852,0.0705,0.0988,73.356,153500,instrumental
+Klaus Weissmuller,fabienne,67,2FxwP5bwUPpYZUzkhoATvL,spotify:track:2FxwP5bwUPpYZUzkhoATvL,0.402,0.055,-22.523,0.0529,0.996,0.972,0.111,0.243,134.466,116000,instrumental
+Ferdinando Zetticci,Sonnambulismo,69,2Ud0BKOtLvXRFXXE6ikCKn,spotify:track:2Ud0BKOtLvXRFXXE6ikCKn,0.224,0.0138,-30.011,0.0367,0.994,0.904,0.105,0.0863,60.584,206000,instrumental
+Ever So Blue,Fragment,70,3VBPPIu4MGBnMj4SF8sJBJ,spotify:track:3VBPPIu4MGBnMj4SF8sJBJ,0.403,0.0621,-28.678,0.049,0.995,0.932,0.0999,0.146,135.761,153104,instrumental
+Jordan Barns,Forrest Gump - Main Title (Feather Theme),68,4SNS6KMBDrfK676bO1hQj9,spotify:track:4SNS6KMBDrfK676bO1hQj9,0.463,0.0249,-24.519,0.0394,0.993,0.928,0.127,0.216,144.599,201858,instrumental
+Ebb & Flod,Threads,69,5ASmAe7WcZaLVx6KcCqhW0,spotify:track:5ASmAe7WcZaLVx6KcCqhW0,0.12,0.0436,-22.044,0.0383,0.79,0.889,0.112,0.0361,72.339,192793,instrumental
+Ludovico Sagese,"Row, row, row your boat",67,2LktcIchl4v0rPXWvwBNlc,spotify:track:2LktcIchl4v0rPXWvwBNlc,0.491,0.0509,-27.587,0.0509,0.995,0.945,0.117,0.561,94.146,72000,instrumental
+Oliver Évilo,Jupiter Sunrise,68,1tQKUYjY3h950XByYm0ZAf,spotify:track:1tQKUYjY3h950XByYm0ZAf,0.21,0.00385,-37.141,0.0348,0.992,0.95,0.0738,0.114,107.116,178402,instrumental
+Karen Elf,Beauty And The Beast,67,4cuhDcdaWgkvoSaj016y6T,spotify:track:4cuhDcdaWgkvoSaj016y6T,0.431,0.0353,-23.003,0.0612,0.994,0.912,0.119,0.161,118.281,273500,instrumental
+Dilia,The Giant,66,2TOQzMaEqVVhdeheBVLOMm,spotify:track:2TOQzMaEqVVhdeheBVLOMm,0.565,0.0843,-24.145,0.0448,0.994,0.947,0.12,0.44,86.022,183686,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Hushed,Hibernation,66,7AcNOiZhA5jRxCp5c3wOyz,spotify:track:7AcNOiZhA5jRxCp5c3wOyz,0.27,0.0205,-29.372,0.0359,0.927,0.91,0.113,0.109,69.882,216678,instrumental
+Novo Talos,For the Love of Love,67,7KWhxUrK9ofPTn3ItWceR5,spotify:track:7KWhxUrK9ofPTn3ItWceR5,0.321,0.0258,-27.129,0.0454,0.995,0.915,0.137,0.255,67.535,143251,instrumental
+Elenor Fuchs,The Sacrament,65,7JDeCzVl0C9cqqTxqaFhU9,spotify:track:7JDeCzVl0C9cqqTxqaFhU9,0.508,0.0666,-28.189,0.0508,0.993,0.931,0.108,0.323,179.888,135805,instrumental
+Ever So Blue,Cessura,70,7uvey8m0ZfknE25sBVWoGY,spotify:track:7uvey8m0ZfknE25sBVWoGY,0.374,0.0989,-28.377,0.0326,0.991,0.805,0.0799,0.342,152.84,185390,instrumental
+Silje Månsson,Sparkle,69,3a14Ywse8vF62KNc7zI4wW,spotify:track:3a14Ywse8vF62KNc7zI4wW,0.313,0.0102,-23.15,0.0326,0.992,0.907,0.103,0.0965,82.781,115971,instrumental
+Ever So Blue,At Dawn,70,6sSFbKl9oQ7ToYxBeTQZvw,spotify:track:6sSFbKl9oQ7ToYxBeTQZvw,0.622,0.0251,-24.907,0.056,0.996,0.945,0.0902,0.363,116.364,136000,instrumental
+Jon E. Amber,All Is Good,69,2236Rw4h6OBwtNTtAUiyJ5,spotify:track:2236Rw4h6OBwtNTtAUiyJ5,0.304,0.00275,-38.48,0.0524,0.993,0.932,0.0639,0.253,69.405,145371,instrumental
+Ludovico Sagese,Edelweiss,67,4SMp3hkQV64IoaaKsBQoBo,spotify:track:4SMp3hkQV64IoaaKsBQoBo,0.465,0.0289,-27.689,0.043,0.996,0.959,0.136,0.448,99.873,123500,instrumental
+Keira Conlon,Lyrebird,70,72mDETn3Ba8yVewAcqnlqQ,spotify:track:72mDETn3Ba8yVewAcqnlqQ,0.232,0.00449,-34.69,0.0375,0.994,0.852,0.0705,0.0988,73.356,153500,instrumental
+Klaus Weissmuller,fabienne,67,2FxwP5bwUPpYZUzkhoATvL,spotify:track:2FxwP5bwUPpYZUzkhoATvL,0.402,0.055,-22.523,0.0529,0.996,0.972,0.111,0.243,134.466,116000,instrumental
+Ferdinando Zetticci,Sonnambulismo,69,2Ud0BKOtLvXRFXXE6ikCKn,spotify:track:2Ud0BKOtLvXRFXXE6ikCKn,0.224,0.0138,-30.011,0.0367,0.994,0.904,0.105,0.0863,60.584,206000,instrumental
+Ever So Blue,Fragment,70,3VBPPIu4MGBnMj4SF8sJBJ,spotify:track:3VBPPIu4MGBnMj4SF8sJBJ,0.403,0.0621,-28.678,0.049,0.995,0.932,0.0999,0.146,135.761,153104,instrumental
+Jordan Barns,Forrest Gump - Main Title (Feather Theme),68,4SNS6KMBDrfK676bO1hQj9,spotify:track:4SNS6KMBDrfK676bO1hQj9,0.463,0.0249,-24.519,0.0394,0.993,0.928,0.127,0.216,144.599,201858,instrumental
+Ebb & Flod,Threads,69,5ASmAe7WcZaLVx6KcCqhW0,spotify:track:5ASmAe7WcZaLVx6KcCqhW0,0.12,0.0436,-22.044,0.0383,0.79,0.889,0.112,0.0361,72.339,192793,instrumental
+Ludovico Sagese,"Row, row, row your boat",67,2LktcIchl4v0rPXWvwBNlc,spotify:track:2LktcIchl4v0rPXWvwBNlc,0.491,0.0509,-27.587,0.0509,0.995,0.945,0.117,0.561,94.146,72000,instrumental
+Oliver Évilo,Jupiter Sunrise,68,1tQKUYjY3h950XByYm0ZAf,spotify:track:1tQKUYjY3h950XByYm0ZAf,0.21,0.00385,-37.141,0.0348,0.992,0.95,0.0738,0.114,107.116,178402,instrumental
+Karen Elf,Beauty And The Beast,67,4cuhDcdaWgkvoSaj016y6T,spotify:track:4cuhDcdaWgkvoSaj016y6T,0.431,0.0353,-23.003,0.0612,0.994,0.912,0.119,0.161,118.281,273500,instrumental
+Dilia,The Giant,66,2TOQzMaEqVVhdeheBVLOMm,spotify:track:2TOQzMaEqVVhdeheBVLOMm,0.565,0.0843,-24.145,0.0448,0.994,0.947,0.12,0.44,86.022,183686,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Hushed,Hibernation,66,7AcNOiZhA5jRxCp5c3wOyz,spotify:track:7AcNOiZhA5jRxCp5c3wOyz,0.27,0.0205,-29.372,0.0359,0.927,0.91,0.113,0.109,69.882,216678,instrumental
+Novo Talos,For the Love of Love,67,7KWhxUrK9ofPTn3ItWceR5,spotify:track:7KWhxUrK9ofPTn3ItWceR5,0.321,0.0258,-27.129,0.0454,0.995,0.915,0.137,0.255,67.535,143251,instrumental
+Elenor Fuchs,The Sacrament,65,7JDeCzVl0C9cqqTxqaFhU9,spotify:track:7JDeCzVl0C9cqqTxqaFhU9,0.508,0.0666,-28.189,0.0508,0.993,0.931,0.108,0.323,179.888,135805,instrumental
+Yonder Dale,Benevolent,66,6PySB4GoTTMKXhH4Ksaugj,spotify:track:6PySB4GoTTMKXhH4Ksaugj,0.121,0.194,-17.193,0.0356,0.911,0.854,0.11,0.257,83.747,188459,instrumental
+Silje Månsson,Sparkle,69,3a14Ywse8vF62KNc7zI4wW,spotify:track:3a14Ywse8vF62KNc7zI4wW,0.313,0.0102,-23.15,0.0326,0.992,0.907,0.103,0.0965,82.781,115971,instrumental
+Ever So Blue,At Dawn,70,6sSFbKl9oQ7ToYxBeTQZvw,spotify:track:6sSFbKl9oQ7ToYxBeTQZvw,0.622,0.0251,-24.907,0.056,0.996,0.945,0.0902,0.363,116.364,136000,instrumental
+Jon E. Amber,All Is Good,69,2236Rw4h6OBwtNTtAUiyJ5,spotify:track:2236Rw4h6OBwtNTtAUiyJ5,0.304,0.00275,-38.48,0.0524,0.993,0.932,0.0639,0.253,69.405,145371,instrumental
+Ludovico Sagese,Edelweiss,67,4SMp3hkQV64IoaaKsBQoBo,spotify:track:4SMp3hkQV64IoaaKsBQoBo,0.465,0.0289,-27.689,0.043,0.996,0.959,0.136,0.448,99.873,123500,instrumental
+Keira Conlon,Lyrebird,70,72mDETn3Ba8yVewAcqnlqQ,spotify:track:72mDETn3Ba8yVewAcqnlqQ,0.232,0.00449,-34.69,0.0375,0.994,0.852,0.0705,0.0988,73.356,153500,instrumental
+Klaus Weissmuller,fabienne,67,2FxwP5bwUPpYZUzkhoATvL,spotify:track:2FxwP5bwUPpYZUzkhoATvL,0.402,0.055,-22.523,0.0529,0.996,0.972,0.111,0.243,134.466,116000,instrumental
+Ferdinando Zetticci,Sonnambulismo,69,2Ud0BKOtLvXRFXXE6ikCKn,spotify:track:2Ud0BKOtLvXRFXXE6ikCKn,0.224,0.0138,-30.011,0.0367,0.994,0.904,0.105,0.0863,60.584,206000,instrumental
+Ever So Blue,Fragment,70,3VBPPIu4MGBnMj4SF8sJBJ,spotify:track:3VBPPIu4MGBnMj4SF8sJBJ,0.403,0.0621,-28.678,0.049,0.995,0.932,0.0999,0.146,135.761,153104,instrumental
+Jordan Barns,Forrest Gump - Main Title (Feather Theme),68,4SNS6KMBDrfK676bO1hQj9,spotify:track:4SNS6KMBDrfK676bO1hQj9,0.463,0.0249,-24.519,0.0394,0.993,0.928,0.127,0.216,144.599,201858,instrumental
+Ebb & Flod,Threads,69,5ASmAe7WcZaLVx6KcCqhW0,spotify:track:5ASmAe7WcZaLVx6KcCqhW0,0.12,0.0436,-22.044,0.0383,0.79,0.889,0.112,0.0361,72.339,192793,instrumental
+Ludovico Sagese,"Row, row, row your boat",67,2LktcIchl4v0rPXWvwBNlc,spotify:track:2LktcIchl4v0rPXWvwBNlc,0.491,0.0509,-27.587,0.0509,0.995,0.945,0.117,0.561,94.146,72000,instrumental
+Oliver Évilo,Jupiter Sunrise,68,1tQKUYjY3h950XByYm0ZAf,spotify:track:1tQKUYjY3h950XByYm0ZAf,0.21,0.00385,-37.141,0.0348,0.992,0.95,0.0738,0.114,107.116,178402,instrumental
+Karen Elf,Beauty And The Beast,67,4cuhDcdaWgkvoSaj016y6T,spotify:track:4cuhDcdaWgkvoSaj016y6T,0.431,0.0353,-23.003,0.0612,0.994,0.912,0.119,0.161,118.281,273500,instrumental
+Dilia,The Giant,66,2TOQzMaEqVVhdeheBVLOMm,spotify:track:2TOQzMaEqVVhdeheBVLOMm,0.565,0.0843,-24.145,0.0448,0.994,0.947,0.12,0.44,86.022,183686,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Hushed,Hibernation,66,7AcNOiZhA5jRxCp5c3wOyz,spotify:track:7AcNOiZhA5jRxCp5c3wOyz,0.27,0.0205,-29.372,0.0359,0.927,0.91,0.113,0.109,69.882,216678,instrumental
+Novo Talos,For the Love of Love,67,7KWhxUrK9ofPTn3ItWceR5,spotify:track:7KWhxUrK9ofPTn3ItWceR5,0.321,0.0258,-27.129,0.0454,0.995,0.915,0.137,0.255,67.535,143251,instrumental
+Elenor Fuchs,The Sacrament,65,7JDeCzVl0C9cqqTxqaFhU9,spotify:track:7JDeCzVl0C9cqqTxqaFhU9,0.508,0.0666,-28.189,0.0508,0.993,0.931,0.108,0.323,179.888,135805,instrumental
+Yonder Dale,Benevolent,66,6PySB4GoTTMKXhH4Ksaugj,spotify:track:6PySB4GoTTMKXhH4Ksaugj,0.121,0.194,-17.193,0.0356,0.911,0.854,0.11,0.257,83.747,188459,instrumental
+Gavin Luke,Night Walk,68,0ePG8cXgoLfOqVYVX8Ju6a,spotify:track:0ePG8cXgoLfOqVYVX8Ju6a,0.249,0.128,-19.254,0.0408,0.978,0.922,0.109,0.388,170.246,140586,instrumental
+Ever So Blue,At Dawn,70,6sSFbKl9oQ7ToYxBeTQZvw,spotify:track:6sSFbKl9oQ7ToYxBeTQZvw,0.622,0.0251,-24.907,0.056,0.996,0.945,0.0902,0.363,116.364,136000,instrumental
+Jon E. Amber,All Is Good,69,2236Rw4h6OBwtNTtAUiyJ5,spotify:track:2236Rw4h6OBwtNTtAUiyJ5,0.304,0.00275,-38.48,0.0524,0.993,0.932,0.0639,0.253,69.405,145371,instrumental
+Ludovico Sagese,Edelweiss,67,4SMp3hkQV64IoaaKsBQoBo,spotify:track:4SMp3hkQV64IoaaKsBQoBo,0.465,0.0289,-27.689,0.043,0.996,0.959,0.136,0.448,99.873,123500,instrumental
+Keira Conlon,Lyrebird,70,72mDETn3Ba8yVewAcqnlqQ,spotify:track:72mDETn3Ba8yVewAcqnlqQ,0.232,0.00449,-34.69,0.0375,0.994,0.852,0.0705,0.0988,73.356,153500,instrumental
+Klaus Weissmuller,fabienne,67,2FxwP5bwUPpYZUzkhoATvL,spotify:track:2FxwP5bwUPpYZUzkhoATvL,0.402,0.055,-22.523,0.0529,0.996,0.972,0.111,0.243,134.466,116000,instrumental
+Ferdinando Zetticci,Sonnambulismo,69,2Ud0BKOtLvXRFXXE6ikCKn,spotify:track:2Ud0BKOtLvXRFXXE6ikCKn,0.224,0.0138,-30.011,0.0367,0.994,0.904,0.105,0.0863,60.584,206000,instrumental
+Ever So Blue,Fragment,70,3VBPPIu4MGBnMj4SF8sJBJ,spotify:track:3VBPPIu4MGBnMj4SF8sJBJ,0.403,0.0621,-28.678,0.049,0.995,0.932,0.0999,0.146,135.761,153104,instrumental
+Jordan Barns,Forrest Gump - Main Title (Feather Theme),68,4SNS6KMBDrfK676bO1hQj9,spotify:track:4SNS6KMBDrfK676bO1hQj9,0.463,0.0249,-24.519,0.0394,0.993,0.928,0.127,0.216,144.599,201858,instrumental
+Ebb & Flod,Threads,69,5ASmAe7WcZaLVx6KcCqhW0,spotify:track:5ASmAe7WcZaLVx6KcCqhW0,0.12,0.0436,-22.044,0.0383,0.79,0.889,0.112,0.0361,72.339,192793,instrumental
+Ludovico Sagese,"Row, row, row your boat",67,2LktcIchl4v0rPXWvwBNlc,spotify:track:2LktcIchl4v0rPXWvwBNlc,0.491,0.0509,-27.587,0.0509,0.995,0.945,0.117,0.561,94.146,72000,instrumental
+Oliver Évilo,Jupiter Sunrise,68,1tQKUYjY3h950XByYm0ZAf,spotify:track:1tQKUYjY3h950XByYm0ZAf,0.21,0.00385,-37.141,0.0348,0.992,0.95,0.0738,0.114,107.116,178402,instrumental
+Karen Elf,Beauty And The Beast,67,4cuhDcdaWgkvoSaj016y6T,spotify:track:4cuhDcdaWgkvoSaj016y6T,0.431,0.0353,-23.003,0.0612,0.994,0.912,0.119,0.161,118.281,273500,instrumental
+Dilia,The Giant,66,2TOQzMaEqVVhdeheBVLOMm,spotify:track:2TOQzMaEqVVhdeheBVLOMm,0.565,0.0843,-24.145,0.0448,0.994,0.947,0.12,0.44,86.022,183686,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Hushed,Hibernation,66,7AcNOiZhA5jRxCp5c3wOyz,spotify:track:7AcNOiZhA5jRxCp5c3wOyz,0.27,0.0205,-29.372,0.0359,0.927,0.91,0.113,0.109,69.882,216678,instrumental
+Novo Talos,For the Love of Love,67,7KWhxUrK9ofPTn3ItWceR5,spotify:track:7KWhxUrK9ofPTn3ItWceR5,0.321,0.0258,-27.129,0.0454,0.995,0.915,0.137,0.255,67.535,143251,instrumental
+Elenor Fuchs,The Sacrament,65,7JDeCzVl0C9cqqTxqaFhU9,spotify:track:7JDeCzVl0C9cqqTxqaFhU9,0.508,0.0666,-28.189,0.0508,0.993,0.931,0.108,0.323,179.888,135805,instrumental
+Yonder Dale,Benevolent,66,6PySB4GoTTMKXhH4Ksaugj,spotify:track:6PySB4GoTTMKXhH4Ksaugj,0.121,0.194,-17.193,0.0356,0.911,0.854,0.11,0.257,83.747,188459,instrumental
+Gavin Luke,Night Walk,68,0ePG8cXgoLfOqVYVX8Ju6a,spotify:track:0ePG8cXgoLfOqVYVX8Ju6a,0.249,0.128,-19.254,0.0408,0.978,0.922,0.109,0.388,170.246,140586,instrumental
+Elisa Mosel,Fields Of Gold,67,61FnfOx61kMlzmVfbl5Jtx,spotify:track:61FnfOx61kMlzmVfbl5Jtx,0.562,0.0206,-19.857,0.0426,0.995,0.93,0.108,0.207,72.953,188473,instrumental
+Jon E. Amber,All Is Good,69,2236Rw4h6OBwtNTtAUiyJ5,spotify:track:2236Rw4h6OBwtNTtAUiyJ5,0.304,0.00275,-38.48,0.0524,0.993,0.932,0.0639,0.253,69.405,145371,instrumental
+Ludovico Sagese,Edelweiss,67,4SMp3hkQV64IoaaKsBQoBo,spotify:track:4SMp3hkQV64IoaaKsBQoBo,0.465,0.0289,-27.689,0.043,0.996,0.959,0.136,0.448,99.873,123500,instrumental
+Keira Conlon,Lyrebird,70,72mDETn3Ba8yVewAcqnlqQ,spotify:track:72mDETn3Ba8yVewAcqnlqQ,0.232,0.00449,-34.69,0.0375,0.994,0.852,0.0705,0.0988,73.356,153500,instrumental
+Klaus Weissmuller,fabienne,67,2FxwP5bwUPpYZUzkhoATvL,spotify:track:2FxwP5bwUPpYZUzkhoATvL,0.402,0.055,-22.523,0.0529,0.996,0.972,0.111,0.243,134.466,116000,instrumental
+Ferdinando Zetticci,Sonnambulismo,69,2Ud0BKOtLvXRFXXE6ikCKn,spotify:track:2Ud0BKOtLvXRFXXE6ikCKn,0.224,0.0138,-30.011,0.0367,0.994,0.904,0.105,0.0863,60.584,206000,instrumental
+Ever So Blue,Fragment,70,3VBPPIu4MGBnMj4SF8sJBJ,spotify:track:3VBPPIu4MGBnMj4SF8sJBJ,0.403,0.0621,-28.678,0.049,0.995,0.932,0.0999,0.146,135.761,153104,instrumental
+Jordan Barns,Forrest Gump - Main Title (Feather Theme),68,4SNS6KMBDrfK676bO1hQj9,spotify:track:4SNS6KMBDrfK676bO1hQj9,0.463,0.0249,-24.519,0.0394,0.993,0.928,0.127,0.216,144.599,201858,instrumental
+Ebb & Flod,Threads,69,5ASmAe7WcZaLVx6KcCqhW0,spotify:track:5ASmAe7WcZaLVx6KcCqhW0,0.12,0.0436,-22.044,0.0383,0.79,0.889,0.112,0.0361,72.339,192793,instrumental
+Ludovico Sagese,"Row, row, row your boat",67,2LktcIchl4v0rPXWvwBNlc,spotify:track:2LktcIchl4v0rPXWvwBNlc,0.491,0.0509,-27.587,0.0509,0.995,0.945,0.117,0.561,94.146,72000,instrumental
+Oliver Évilo,Jupiter Sunrise,68,1tQKUYjY3h950XByYm0ZAf,spotify:track:1tQKUYjY3h950XByYm0ZAf,0.21,0.00385,-37.141,0.0348,0.992,0.95,0.0738,0.114,107.116,178402,instrumental
+Karen Elf,Beauty And The Beast,67,4cuhDcdaWgkvoSaj016y6T,spotify:track:4cuhDcdaWgkvoSaj016y6T,0.431,0.0353,-23.003,0.0612,0.994,0.912,0.119,0.161,118.281,273500,instrumental
+Dilia,The Giant,66,2TOQzMaEqVVhdeheBVLOMm,spotify:track:2TOQzMaEqVVhdeheBVLOMm,0.565,0.0843,-24.145,0.0448,0.994,0.947,0.12,0.44,86.022,183686,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Hushed,Hibernation,66,7AcNOiZhA5jRxCp5c3wOyz,spotify:track:7AcNOiZhA5jRxCp5c3wOyz,0.27,0.0205,-29.372,0.0359,0.927,0.91,0.113,0.109,69.882,216678,instrumental
+Novo Talos,For the Love of Love,67,7KWhxUrK9ofPTn3ItWceR5,spotify:track:7KWhxUrK9ofPTn3ItWceR5,0.321,0.0258,-27.129,0.0454,0.995,0.915,0.137,0.255,67.535,143251,instrumental
+Elenor Fuchs,The Sacrament,65,7JDeCzVl0C9cqqTxqaFhU9,spotify:track:7JDeCzVl0C9cqqTxqaFhU9,0.508,0.0666,-28.189,0.0508,0.993,0.931,0.108,0.323,179.888,135805,instrumental
+Yonder Dale,Benevolent,66,6PySB4GoTTMKXhH4Ksaugj,spotify:track:6PySB4GoTTMKXhH4Ksaugj,0.121,0.194,-17.193,0.0356,0.911,0.854,0.11,0.257,83.747,188459,instrumental
+Gavin Luke,Night Walk,68,0ePG8cXgoLfOqVYVX8Ju6a,spotify:track:0ePG8cXgoLfOqVYVX8Ju6a,0.249,0.128,-19.254,0.0408,0.978,0.922,0.109,0.388,170.246,140586,instrumental
+Elisa Mosel,Fields Of Gold,67,61FnfOx61kMlzmVfbl5Jtx,spotify:track:61FnfOx61kMlzmVfbl5Jtx,0.562,0.0206,-19.857,0.0426,0.995,0.93,0.108,0.207,72.953,188473,instrumental
+Vulfpeck,Back Pocket,63,1DrlLvlYd1FIjNavRm6NdX,spotify:track:1DrlLvlYd1FIjNavRm6NdX,0.839,0.585,-7.738,0.153,0.478,0.00281,0.0435,0.89,89.821,181260,instrumental
+Ludovico Sagese,Edelweiss,67,4SMp3hkQV64IoaaKsBQoBo,spotify:track:4SMp3hkQV64IoaaKsBQoBo,0.465,0.0289,-27.689,0.043,0.996,0.959,0.136,0.448,99.873,123500,instrumental
+Keira Conlon,Lyrebird,70,72mDETn3Ba8yVewAcqnlqQ,spotify:track:72mDETn3Ba8yVewAcqnlqQ,0.232,0.00449,-34.69,0.0375,0.994,0.852,0.0705,0.0988,73.356,153500,instrumental
+Klaus Weissmuller,fabienne,67,2FxwP5bwUPpYZUzkhoATvL,spotify:track:2FxwP5bwUPpYZUzkhoATvL,0.402,0.055,-22.523,0.0529,0.996,0.972,0.111,0.243,134.466,116000,instrumental
+Ferdinando Zetticci,Sonnambulismo,69,2Ud0BKOtLvXRFXXE6ikCKn,spotify:track:2Ud0BKOtLvXRFXXE6ikCKn,0.224,0.0138,-30.011,0.0367,0.994,0.904,0.105,0.0863,60.584,206000,instrumental
+Ever So Blue,Fragment,70,3VBPPIu4MGBnMj4SF8sJBJ,spotify:track:3VBPPIu4MGBnMj4SF8sJBJ,0.403,0.0621,-28.678,0.049,0.995,0.932,0.0999,0.146,135.761,153104,instrumental
+Jordan Barns,Forrest Gump - Main Title (Feather Theme),68,4SNS6KMBDrfK676bO1hQj9,spotify:track:4SNS6KMBDrfK676bO1hQj9,0.463,0.0249,-24.519,0.0394,0.993,0.928,0.127,0.216,144.599,201858,instrumental
+Ebb & Flod,Threads,69,5ASmAe7WcZaLVx6KcCqhW0,spotify:track:5ASmAe7WcZaLVx6KcCqhW0,0.12,0.0436,-22.044,0.0383,0.79,0.889,0.112,0.0361,72.339,192793,instrumental
+Ludovico Sagese,"Row, row, row your boat",67,2LktcIchl4v0rPXWvwBNlc,spotify:track:2LktcIchl4v0rPXWvwBNlc,0.491,0.0509,-27.587,0.0509,0.995,0.945,0.117,0.561,94.146,72000,instrumental
+Oliver Évilo,Jupiter Sunrise,68,1tQKUYjY3h950XByYm0ZAf,spotify:track:1tQKUYjY3h950XByYm0ZAf,0.21,0.00385,-37.141,0.0348,0.992,0.95,0.0738,0.114,107.116,178402,instrumental
+Karen Elf,Beauty And The Beast,67,4cuhDcdaWgkvoSaj016y6T,spotify:track:4cuhDcdaWgkvoSaj016y6T,0.431,0.0353,-23.003,0.0612,0.994,0.912,0.119,0.161,118.281,273500,instrumental
+Dilia,The Giant,66,2TOQzMaEqVVhdeheBVLOMm,spotify:track:2TOQzMaEqVVhdeheBVLOMm,0.565,0.0843,-24.145,0.0448,0.994,0.947,0.12,0.44,86.022,183686,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Hushed,Hibernation,66,7AcNOiZhA5jRxCp5c3wOyz,spotify:track:7AcNOiZhA5jRxCp5c3wOyz,0.27,0.0205,-29.372,0.0359,0.927,0.91,0.113,0.109,69.882,216678,instrumental
+Novo Talos,For the Love of Love,67,7KWhxUrK9ofPTn3ItWceR5,spotify:track:7KWhxUrK9ofPTn3ItWceR5,0.321,0.0258,-27.129,0.0454,0.995,0.915,0.137,0.255,67.535,143251,instrumental
+Elenor Fuchs,The Sacrament,65,7JDeCzVl0C9cqqTxqaFhU9,spotify:track:7JDeCzVl0C9cqqTxqaFhU9,0.508,0.0666,-28.189,0.0508,0.993,0.931,0.108,0.323,179.888,135805,instrumental
+Yonder Dale,Benevolent,66,6PySB4GoTTMKXhH4Ksaugj,spotify:track:6PySB4GoTTMKXhH4Ksaugj,0.121,0.194,-17.193,0.0356,0.911,0.854,0.11,0.257,83.747,188459,instrumental
+Gavin Luke,Night Walk,68,0ePG8cXgoLfOqVYVX8Ju6a,spotify:track:0ePG8cXgoLfOqVYVX8Ju6a,0.249,0.128,-19.254,0.0408,0.978,0.922,0.109,0.388,170.246,140586,instrumental
+Elisa Mosel,Fields Of Gold,67,61FnfOx61kMlzmVfbl5Jtx,spotify:track:61FnfOx61kMlzmVfbl5Jtx,0.562,0.0206,-19.857,0.0426,0.995,0.93,0.108,0.207,72.953,188473,instrumental
+Vulfpeck,Back Pocket,63,1DrlLvlYd1FIjNavRm6NdX,spotify:track:1DrlLvlYd1FIjNavRm6NdX,0.839,0.585,-7.738,0.153,0.478,0.00281,0.0435,0.89,89.821,181260,instrumental
+The Harpeurs,Brahms Lullaby,65,1w8KJUP2hZ57CbJq7Z1cBD,spotify:track:1w8KJUP2hZ57CbJq7Z1cBD,0.565,0.0357,-18.991,0.0722,0.991,0.946,0.113,0.516,66.007,94059,instrumental
+Keira Conlon,Lyrebird,70,72mDETn3Ba8yVewAcqnlqQ,spotify:track:72mDETn3Ba8yVewAcqnlqQ,0.232,0.00449,-34.69,0.0375,0.994,0.852,0.0705,0.0988,73.356,153500,instrumental
+Klaus Weissmuller,fabienne,67,2FxwP5bwUPpYZUzkhoATvL,spotify:track:2FxwP5bwUPpYZUzkhoATvL,0.402,0.055,-22.523,0.0529,0.996,0.972,0.111,0.243,134.466,116000,instrumental
+Ferdinando Zetticci,Sonnambulismo,69,2Ud0BKOtLvXRFXXE6ikCKn,spotify:track:2Ud0BKOtLvXRFXXE6ikCKn,0.224,0.0138,-30.011,0.0367,0.994,0.904,0.105,0.0863,60.584,206000,instrumental
+Ever So Blue,Fragment,70,3VBPPIu4MGBnMj4SF8sJBJ,spotify:track:3VBPPIu4MGBnMj4SF8sJBJ,0.403,0.0621,-28.678,0.049,0.995,0.932,0.0999,0.146,135.761,153104,instrumental
+Jordan Barns,Forrest Gump - Main Title (Feather Theme),68,4SNS6KMBDrfK676bO1hQj9,spotify:track:4SNS6KMBDrfK676bO1hQj9,0.463,0.0249,-24.519,0.0394,0.993,0.928,0.127,0.216,144.599,201858,instrumental
+Ebb & Flod,Threads,69,5ASmAe7WcZaLVx6KcCqhW0,spotify:track:5ASmAe7WcZaLVx6KcCqhW0,0.12,0.0436,-22.044,0.0383,0.79,0.889,0.112,0.0361,72.339,192793,instrumental
+Ludovico Sagese,"Row, row, row your boat",67,2LktcIchl4v0rPXWvwBNlc,spotify:track:2LktcIchl4v0rPXWvwBNlc,0.491,0.0509,-27.587,0.0509,0.995,0.945,0.117,0.561,94.146,72000,instrumental
+Oliver Évilo,Jupiter Sunrise,68,1tQKUYjY3h950XByYm0ZAf,spotify:track:1tQKUYjY3h950XByYm0ZAf,0.21,0.00385,-37.141,0.0348,0.992,0.95,0.0738,0.114,107.116,178402,instrumental
+Karen Elf,Beauty And The Beast,67,4cuhDcdaWgkvoSaj016y6T,spotify:track:4cuhDcdaWgkvoSaj016y6T,0.431,0.0353,-23.003,0.0612,0.994,0.912,0.119,0.161,118.281,273500,instrumental
+Dilia,The Giant,66,2TOQzMaEqVVhdeheBVLOMm,spotify:track:2TOQzMaEqVVhdeheBVLOMm,0.565,0.0843,-24.145,0.0448,0.994,0.947,0.12,0.44,86.022,183686,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Hushed,Hibernation,66,7AcNOiZhA5jRxCp5c3wOyz,spotify:track:7AcNOiZhA5jRxCp5c3wOyz,0.27,0.0205,-29.372,0.0359,0.927,0.91,0.113,0.109,69.882,216678,instrumental
+Novo Talos,For the Love of Love,67,7KWhxUrK9ofPTn3ItWceR5,spotify:track:7KWhxUrK9ofPTn3ItWceR5,0.321,0.0258,-27.129,0.0454,0.995,0.915,0.137,0.255,67.535,143251,instrumental
+Elenor Fuchs,The Sacrament,65,7JDeCzVl0C9cqqTxqaFhU9,spotify:track:7JDeCzVl0C9cqqTxqaFhU9,0.508,0.0666,-28.189,0.0508,0.993,0.931,0.108,0.323,179.888,135805,instrumental
+Yonder Dale,Benevolent,66,6PySB4GoTTMKXhH4Ksaugj,spotify:track:6PySB4GoTTMKXhH4Ksaugj,0.121,0.194,-17.193,0.0356,0.911,0.854,0.11,0.257,83.747,188459,instrumental
+Gavin Luke,Night Walk,68,0ePG8cXgoLfOqVYVX8Ju6a,spotify:track:0ePG8cXgoLfOqVYVX8Ju6a,0.249,0.128,-19.254,0.0408,0.978,0.922,0.109,0.388,170.246,140586,instrumental
+Elisa Mosel,Fields Of Gold,67,61FnfOx61kMlzmVfbl5Jtx,spotify:track:61FnfOx61kMlzmVfbl5Jtx,0.562,0.0206,-19.857,0.0426,0.995,0.93,0.108,0.207,72.953,188473,instrumental
+Vulfpeck,Back Pocket,63,1DrlLvlYd1FIjNavRm6NdX,spotify:track:1DrlLvlYd1FIjNavRm6NdX,0.839,0.585,-7.738,0.153,0.478,0.00281,0.0435,0.89,89.821,181260,instrumental
+The Harpeurs,Brahms Lullaby,65,1w8KJUP2hZ57CbJq7Z1cBD,spotify:track:1w8KJUP2hZ57CbJq7Z1cBD,0.565,0.0357,-18.991,0.0722,0.991,0.946,0.113,0.516,66.007,94059,instrumental
+Victor Kovacs,Little Rosebud,64,7Lj94wIntLirwCw5OikPs5,spotify:track:7Lj94wIntLirwCw5OikPs5,0.603,0.0563,-22.513,0.105,0.995,0.955,0.103,0.385,129.278,199750,instrumental
+Klaus Weissmuller,fabienne,67,2FxwP5bwUPpYZUzkhoATvL,spotify:track:2FxwP5bwUPpYZUzkhoATvL,0.402,0.055,-22.523,0.0529,0.996,0.972,0.111,0.243,134.466,116000,instrumental
+Ferdinando Zetticci,Sonnambulismo,69,2Ud0BKOtLvXRFXXE6ikCKn,spotify:track:2Ud0BKOtLvXRFXXE6ikCKn,0.224,0.0138,-30.011,0.0367,0.994,0.904,0.105,0.0863,60.584,206000,instrumental
+Ever So Blue,Fragment,70,3VBPPIu4MGBnMj4SF8sJBJ,spotify:track:3VBPPIu4MGBnMj4SF8sJBJ,0.403,0.0621,-28.678,0.049,0.995,0.932,0.0999,0.146,135.761,153104,instrumental
+Jordan Barns,Forrest Gump - Main Title (Feather Theme),68,4SNS6KMBDrfK676bO1hQj9,spotify:track:4SNS6KMBDrfK676bO1hQj9,0.463,0.0249,-24.519,0.0394,0.993,0.928,0.127,0.216,144.599,201858,instrumental
+Ebb & Flod,Threads,69,5ASmAe7WcZaLVx6KcCqhW0,spotify:track:5ASmAe7WcZaLVx6KcCqhW0,0.12,0.0436,-22.044,0.0383,0.79,0.889,0.112,0.0361,72.339,192793,instrumental
+Ludovico Sagese,"Row, row, row your boat",67,2LktcIchl4v0rPXWvwBNlc,spotify:track:2LktcIchl4v0rPXWvwBNlc,0.491,0.0509,-27.587,0.0509,0.995,0.945,0.117,0.561,94.146,72000,instrumental
+Oliver Évilo,Jupiter Sunrise,68,1tQKUYjY3h950XByYm0ZAf,spotify:track:1tQKUYjY3h950XByYm0ZAf,0.21,0.00385,-37.141,0.0348,0.992,0.95,0.0738,0.114,107.116,178402,instrumental
+Karen Elf,Beauty And The Beast,67,4cuhDcdaWgkvoSaj016y6T,spotify:track:4cuhDcdaWgkvoSaj016y6T,0.431,0.0353,-23.003,0.0612,0.994,0.912,0.119,0.161,118.281,273500,instrumental
+Dilia,The Giant,66,2TOQzMaEqVVhdeheBVLOMm,spotify:track:2TOQzMaEqVVhdeheBVLOMm,0.565,0.0843,-24.145,0.0448,0.994,0.947,0.12,0.44,86.022,183686,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Hushed,Hibernation,66,7AcNOiZhA5jRxCp5c3wOyz,spotify:track:7AcNOiZhA5jRxCp5c3wOyz,0.27,0.0205,-29.372,0.0359,0.927,0.91,0.113,0.109,69.882,216678,instrumental
+Novo Talos,For the Love of Love,67,7KWhxUrK9ofPTn3ItWceR5,spotify:track:7KWhxUrK9ofPTn3ItWceR5,0.321,0.0258,-27.129,0.0454,0.995,0.915,0.137,0.255,67.535,143251,instrumental
+Elenor Fuchs,The Sacrament,65,7JDeCzVl0C9cqqTxqaFhU9,spotify:track:7JDeCzVl0C9cqqTxqaFhU9,0.508,0.0666,-28.189,0.0508,0.993,0.931,0.108,0.323,179.888,135805,instrumental
+Yonder Dale,Benevolent,66,6PySB4GoTTMKXhH4Ksaugj,spotify:track:6PySB4GoTTMKXhH4Ksaugj,0.121,0.194,-17.193,0.0356,0.911,0.854,0.11,0.257,83.747,188459,instrumental
+Gavin Luke,Night Walk,68,0ePG8cXgoLfOqVYVX8Ju6a,spotify:track:0ePG8cXgoLfOqVYVX8Ju6a,0.249,0.128,-19.254,0.0408,0.978,0.922,0.109,0.388,170.246,140586,instrumental
+Elisa Mosel,Fields Of Gold,67,61FnfOx61kMlzmVfbl5Jtx,spotify:track:61FnfOx61kMlzmVfbl5Jtx,0.562,0.0206,-19.857,0.0426,0.995,0.93,0.108,0.207,72.953,188473,instrumental
+Vulfpeck,Back Pocket,63,1DrlLvlYd1FIjNavRm6NdX,spotify:track:1DrlLvlYd1FIjNavRm6NdX,0.839,0.585,-7.738,0.153,0.478,0.00281,0.0435,0.89,89.821,181260,instrumental
+The Harpeurs,Brahms Lullaby,65,1w8KJUP2hZ57CbJq7Z1cBD,spotify:track:1w8KJUP2hZ57CbJq7Z1cBD,0.565,0.0357,-18.991,0.0722,0.991,0.946,0.113,0.516,66.007,94059,instrumental
+Victor Kovacs,Little Rosebud,64,7Lj94wIntLirwCw5OikPs5,spotify:track:7Lj94wIntLirwCw5OikPs5,0.603,0.0563,-22.513,0.105,0.995,0.955,0.103,0.385,129.278,199750,instrumental
+Martin Lindgaarden,Montauk,65,0eQZinXiAeZ75SRcJwuweI,spotify:track:0eQZinXiAeZ75SRcJwuweI,0.378,0.0369,-25.859,0.0369,0.99,0.896,0.101,0.12,71.997,178974,instrumental
+Ferdinando Zetticci,Sonnambulismo,69,2Ud0BKOtLvXRFXXE6ikCKn,spotify:track:2Ud0BKOtLvXRFXXE6ikCKn,0.224,0.0138,-30.011,0.0367,0.994,0.904,0.105,0.0863,60.584,206000,instrumental
+Ever So Blue,Fragment,70,3VBPPIu4MGBnMj4SF8sJBJ,spotify:track:3VBPPIu4MGBnMj4SF8sJBJ,0.403,0.0621,-28.678,0.049,0.995,0.932,0.0999,0.146,135.761,153104,instrumental
+Jordan Barns,Forrest Gump - Main Title (Feather Theme),68,4SNS6KMBDrfK676bO1hQj9,spotify:track:4SNS6KMBDrfK676bO1hQj9,0.463,0.0249,-24.519,0.0394,0.993,0.928,0.127,0.216,144.599,201858,instrumental
+Ebb & Flod,Threads,69,5ASmAe7WcZaLVx6KcCqhW0,spotify:track:5ASmAe7WcZaLVx6KcCqhW0,0.12,0.0436,-22.044,0.0383,0.79,0.889,0.112,0.0361,72.339,192793,instrumental
+Ludovico Sagese,"Row, row, row your boat",67,2LktcIchl4v0rPXWvwBNlc,spotify:track:2LktcIchl4v0rPXWvwBNlc,0.491,0.0509,-27.587,0.0509,0.995,0.945,0.117,0.561,94.146,72000,instrumental
+Oliver Évilo,Jupiter Sunrise,68,1tQKUYjY3h950XByYm0ZAf,spotify:track:1tQKUYjY3h950XByYm0ZAf,0.21,0.00385,-37.141,0.0348,0.992,0.95,0.0738,0.114,107.116,178402,instrumental
+Karen Elf,Beauty And The Beast,67,4cuhDcdaWgkvoSaj016y6T,spotify:track:4cuhDcdaWgkvoSaj016y6T,0.431,0.0353,-23.003,0.0612,0.994,0.912,0.119,0.161,118.281,273500,instrumental
+Dilia,The Giant,66,2TOQzMaEqVVhdeheBVLOMm,spotify:track:2TOQzMaEqVVhdeheBVLOMm,0.565,0.0843,-24.145,0.0448,0.994,0.947,0.12,0.44,86.022,183686,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Hushed,Hibernation,66,7AcNOiZhA5jRxCp5c3wOyz,spotify:track:7AcNOiZhA5jRxCp5c3wOyz,0.27,0.0205,-29.372,0.0359,0.927,0.91,0.113,0.109,69.882,216678,instrumental
+Novo Talos,For the Love of Love,67,7KWhxUrK9ofPTn3ItWceR5,spotify:track:7KWhxUrK9ofPTn3ItWceR5,0.321,0.0258,-27.129,0.0454,0.995,0.915,0.137,0.255,67.535,143251,instrumental
+Elenor Fuchs,The Sacrament,65,7JDeCzVl0C9cqqTxqaFhU9,spotify:track:7JDeCzVl0C9cqqTxqaFhU9,0.508,0.0666,-28.189,0.0508,0.993,0.931,0.108,0.323,179.888,135805,instrumental
+Yonder Dale,Benevolent,66,6PySB4GoTTMKXhH4Ksaugj,spotify:track:6PySB4GoTTMKXhH4Ksaugj,0.121,0.194,-17.193,0.0356,0.911,0.854,0.11,0.257,83.747,188459,instrumental
+Gavin Luke,Night Walk,68,0ePG8cXgoLfOqVYVX8Ju6a,spotify:track:0ePG8cXgoLfOqVYVX8Ju6a,0.249,0.128,-19.254,0.0408,0.978,0.922,0.109,0.388,170.246,140586,instrumental
+Elisa Mosel,Fields Of Gold,67,61FnfOx61kMlzmVfbl5Jtx,spotify:track:61FnfOx61kMlzmVfbl5Jtx,0.562,0.0206,-19.857,0.0426,0.995,0.93,0.108,0.207,72.953,188473,instrumental
+Vulfpeck,Back Pocket,63,1DrlLvlYd1FIjNavRm6NdX,spotify:track:1DrlLvlYd1FIjNavRm6NdX,0.839,0.585,-7.738,0.153,0.478,0.00281,0.0435,0.89,89.821,181260,instrumental
+The Harpeurs,Brahms Lullaby,65,1w8KJUP2hZ57CbJq7Z1cBD,spotify:track:1w8KJUP2hZ57CbJq7Z1cBD,0.565,0.0357,-18.991,0.0722,0.991,0.946,0.113,0.516,66.007,94059,instrumental
+Victor Kovacs,Little Rosebud,64,7Lj94wIntLirwCw5OikPs5,spotify:track:7Lj94wIntLirwCw5OikPs5,0.603,0.0563,-22.513,0.105,0.995,0.955,0.103,0.385,129.278,199750,instrumental
+Martin Lindgaarden,Montauk,65,0eQZinXiAeZ75SRcJwuweI,spotify:track:0eQZinXiAeZ75SRcJwuweI,0.378,0.0369,-25.859,0.0369,0.99,0.896,0.101,0.12,71.997,178974,instrumental
+Alan Ellis,Circadian,68,3bb6awuqz2ZJggqGtvPVYE,spotify:track:3bb6awuqz2ZJggqGtvPVYE,0.215,0.0441,-24.86,0.0362,0.976,0.901,0.0818,0.0378,94.123,172208,instrumental
+Ever So Blue,Fragment,70,3VBPPIu4MGBnMj4SF8sJBJ,spotify:track:3VBPPIu4MGBnMj4SF8sJBJ,0.403,0.0621,-28.678,0.049,0.995,0.932,0.0999,0.146,135.761,153104,instrumental
+Jordan Barns,Forrest Gump - Main Title (Feather Theme),68,4SNS6KMBDrfK676bO1hQj9,spotify:track:4SNS6KMBDrfK676bO1hQj9,0.463,0.0249,-24.519,0.0394,0.993,0.928,0.127,0.216,144.599,201858,instrumental
+Ebb & Flod,Threads,69,5ASmAe7WcZaLVx6KcCqhW0,spotify:track:5ASmAe7WcZaLVx6KcCqhW0,0.12,0.0436,-22.044,0.0383,0.79,0.889,0.112,0.0361,72.339,192793,instrumental
+Ludovico Sagese,"Row, row, row your boat",67,2LktcIchl4v0rPXWvwBNlc,spotify:track:2LktcIchl4v0rPXWvwBNlc,0.491,0.0509,-27.587,0.0509,0.995,0.945,0.117,0.561,94.146,72000,instrumental
+Oliver Évilo,Jupiter Sunrise,68,1tQKUYjY3h950XByYm0ZAf,spotify:track:1tQKUYjY3h950XByYm0ZAf,0.21,0.00385,-37.141,0.0348,0.992,0.95,0.0738,0.114,107.116,178402,instrumental
+Karen Elf,Beauty And The Beast,67,4cuhDcdaWgkvoSaj016y6T,spotify:track:4cuhDcdaWgkvoSaj016y6T,0.431,0.0353,-23.003,0.0612,0.994,0.912,0.119,0.161,118.281,273500,instrumental
+Dilia,The Giant,66,2TOQzMaEqVVhdeheBVLOMm,spotify:track:2TOQzMaEqVVhdeheBVLOMm,0.565,0.0843,-24.145,0.0448,0.994,0.947,0.12,0.44,86.022,183686,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Hushed,Hibernation,66,7AcNOiZhA5jRxCp5c3wOyz,spotify:track:7AcNOiZhA5jRxCp5c3wOyz,0.27,0.0205,-29.372,0.0359,0.927,0.91,0.113,0.109,69.882,216678,instrumental
+Novo Talos,For the Love of Love,67,7KWhxUrK9ofPTn3ItWceR5,spotify:track:7KWhxUrK9ofPTn3ItWceR5,0.321,0.0258,-27.129,0.0454,0.995,0.915,0.137,0.255,67.535,143251,instrumental
+Elenor Fuchs,The Sacrament,65,7JDeCzVl0C9cqqTxqaFhU9,spotify:track:7JDeCzVl0C9cqqTxqaFhU9,0.508,0.0666,-28.189,0.0508,0.993,0.931,0.108,0.323,179.888,135805,instrumental
+Yonder Dale,Benevolent,66,6PySB4GoTTMKXhH4Ksaugj,spotify:track:6PySB4GoTTMKXhH4Ksaugj,0.121,0.194,-17.193,0.0356,0.911,0.854,0.11,0.257,83.747,188459,instrumental
+Gavin Luke,Night Walk,68,0ePG8cXgoLfOqVYVX8Ju6a,spotify:track:0ePG8cXgoLfOqVYVX8Ju6a,0.249,0.128,-19.254,0.0408,0.978,0.922,0.109,0.388,170.246,140586,instrumental
+Elisa Mosel,Fields Of Gold,67,61FnfOx61kMlzmVfbl5Jtx,spotify:track:61FnfOx61kMlzmVfbl5Jtx,0.562,0.0206,-19.857,0.0426,0.995,0.93,0.108,0.207,72.953,188473,instrumental
+Vulfpeck,Back Pocket,63,1DrlLvlYd1FIjNavRm6NdX,spotify:track:1DrlLvlYd1FIjNavRm6NdX,0.839,0.585,-7.738,0.153,0.478,0.00281,0.0435,0.89,89.821,181260,instrumental
+The Harpeurs,Brahms Lullaby,65,1w8KJUP2hZ57CbJq7Z1cBD,spotify:track:1w8KJUP2hZ57CbJq7Z1cBD,0.565,0.0357,-18.991,0.0722,0.991,0.946,0.113,0.516,66.007,94059,instrumental
+Victor Kovacs,Little Rosebud,64,7Lj94wIntLirwCw5OikPs5,spotify:track:7Lj94wIntLirwCw5OikPs5,0.603,0.0563,-22.513,0.105,0.995,0.955,0.103,0.385,129.278,199750,instrumental
+Martin Lindgaarden,Montauk,65,0eQZinXiAeZ75SRcJwuweI,spotify:track:0eQZinXiAeZ75SRcJwuweI,0.378,0.0369,-25.859,0.0369,0.99,0.896,0.101,0.12,71.997,178974,instrumental
+Alan Ellis,Circadian,68,3bb6awuqz2ZJggqGtvPVYE,spotify:track:3bb6awuqz2ZJggqGtvPVYE,0.215,0.0441,-24.86,0.0362,0.976,0.901,0.0818,0.0378,94.123,172208,instrumental
+Mingmei Hsueh,Tomorrow,66,3ansqkO7A68z6xDhErpKpi,spotify:track:3ansqkO7A68z6xDhErpKpi,0.459,0.0657,-26.683,0.0688,0.995,0.963,0.0938,0.368,116.737,198000,instrumental
+Jordan Barns,Forrest Gump - Main Title (Feather Theme),68,4SNS6KMBDrfK676bO1hQj9,spotify:track:4SNS6KMBDrfK676bO1hQj9,0.463,0.0249,-24.519,0.0394,0.993,0.928,0.127,0.216,144.599,201858,instrumental
+Ebb & Flod,Threads,69,5ASmAe7WcZaLVx6KcCqhW0,spotify:track:5ASmAe7WcZaLVx6KcCqhW0,0.12,0.0436,-22.044,0.0383,0.79,0.889,0.112,0.0361,72.339,192793,instrumental
+Ludovico Sagese,"Row, row, row your boat",67,2LktcIchl4v0rPXWvwBNlc,spotify:track:2LktcIchl4v0rPXWvwBNlc,0.491,0.0509,-27.587,0.0509,0.995,0.945,0.117,0.561,94.146,72000,instrumental
+Oliver Évilo,Jupiter Sunrise,68,1tQKUYjY3h950XByYm0ZAf,spotify:track:1tQKUYjY3h950XByYm0ZAf,0.21,0.00385,-37.141,0.0348,0.992,0.95,0.0738,0.114,107.116,178402,instrumental
+Karen Elf,Beauty And The Beast,67,4cuhDcdaWgkvoSaj016y6T,spotify:track:4cuhDcdaWgkvoSaj016y6T,0.431,0.0353,-23.003,0.0612,0.994,0.912,0.119,0.161,118.281,273500,instrumental
+Dilia,The Giant,66,2TOQzMaEqVVhdeheBVLOMm,spotify:track:2TOQzMaEqVVhdeheBVLOMm,0.565,0.0843,-24.145,0.0448,0.994,0.947,0.12,0.44,86.022,183686,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Hushed,Hibernation,66,7AcNOiZhA5jRxCp5c3wOyz,spotify:track:7AcNOiZhA5jRxCp5c3wOyz,0.27,0.0205,-29.372,0.0359,0.927,0.91,0.113,0.109,69.882,216678,instrumental
+Novo Talos,For the Love of Love,67,7KWhxUrK9ofPTn3ItWceR5,spotify:track:7KWhxUrK9ofPTn3ItWceR5,0.321,0.0258,-27.129,0.0454,0.995,0.915,0.137,0.255,67.535,143251,instrumental
+Elenor Fuchs,The Sacrament,65,7JDeCzVl0C9cqqTxqaFhU9,spotify:track:7JDeCzVl0C9cqqTxqaFhU9,0.508,0.0666,-28.189,0.0508,0.993,0.931,0.108,0.323,179.888,135805,instrumental
+Yonder Dale,Benevolent,66,6PySB4GoTTMKXhH4Ksaugj,spotify:track:6PySB4GoTTMKXhH4Ksaugj,0.121,0.194,-17.193,0.0356,0.911,0.854,0.11,0.257,83.747,188459,instrumental
+Gavin Luke,Night Walk,68,0ePG8cXgoLfOqVYVX8Ju6a,spotify:track:0ePG8cXgoLfOqVYVX8Ju6a,0.249,0.128,-19.254,0.0408,0.978,0.922,0.109,0.388,170.246,140586,instrumental
+Elisa Mosel,Fields Of Gold,67,61FnfOx61kMlzmVfbl5Jtx,spotify:track:61FnfOx61kMlzmVfbl5Jtx,0.562,0.0206,-19.857,0.0426,0.995,0.93,0.108,0.207,72.953,188473,instrumental
+Vulfpeck,Back Pocket,63,1DrlLvlYd1FIjNavRm6NdX,spotify:track:1DrlLvlYd1FIjNavRm6NdX,0.839,0.585,-7.738,0.153,0.478,0.00281,0.0435,0.89,89.821,181260,instrumental
+The Harpeurs,Brahms Lullaby,65,1w8KJUP2hZ57CbJq7Z1cBD,spotify:track:1w8KJUP2hZ57CbJq7Z1cBD,0.565,0.0357,-18.991,0.0722,0.991,0.946,0.113,0.516,66.007,94059,instrumental
+Victor Kovacs,Little Rosebud,64,7Lj94wIntLirwCw5OikPs5,spotify:track:7Lj94wIntLirwCw5OikPs5,0.603,0.0563,-22.513,0.105,0.995,0.955,0.103,0.385,129.278,199750,instrumental
+Martin Lindgaarden,Montauk,65,0eQZinXiAeZ75SRcJwuweI,spotify:track:0eQZinXiAeZ75SRcJwuweI,0.378,0.0369,-25.859,0.0369,0.99,0.896,0.101,0.12,71.997,178974,instrumental
+Alan Ellis,Circadian,68,3bb6awuqz2ZJggqGtvPVYE,spotify:track:3bb6awuqz2ZJggqGtvPVYE,0.215,0.0441,-24.86,0.0362,0.976,0.901,0.0818,0.0378,94.123,172208,instrumental
+Mingmei Hsueh,Tomorrow,66,3ansqkO7A68z6xDhErpKpi,spotify:track:3ansqkO7A68z6xDhErpKpi,0.459,0.0657,-26.683,0.0688,0.995,0.963,0.0938,0.368,116.737,198000,instrumental
+Sarah Michaels,Rubber Duckie,64,4KGIoolaZRwbLi0BivExPb,spotify:track:4KGIoolaZRwbLi0BivExPb,0.511,0.00813,-28.612,0.0905,0.996,0.956,0.109,0.313,68.265,152015,instrumental
+Ebb & Flod,Threads,69,5ASmAe7WcZaLVx6KcCqhW0,spotify:track:5ASmAe7WcZaLVx6KcCqhW0,0.12,0.0436,-22.044,0.0383,0.79,0.889,0.112,0.0361,72.339,192793,instrumental
+Ludovico Sagese,"Row, row, row your boat",67,2LktcIchl4v0rPXWvwBNlc,spotify:track:2LktcIchl4v0rPXWvwBNlc,0.491,0.0509,-27.587,0.0509,0.995,0.945,0.117,0.561,94.146,72000,instrumental
+Oliver Évilo,Jupiter Sunrise,68,1tQKUYjY3h950XByYm0ZAf,spotify:track:1tQKUYjY3h950XByYm0ZAf,0.21,0.00385,-37.141,0.0348,0.992,0.95,0.0738,0.114,107.116,178402,instrumental
+Karen Elf,Beauty And The Beast,67,4cuhDcdaWgkvoSaj016y6T,spotify:track:4cuhDcdaWgkvoSaj016y6T,0.431,0.0353,-23.003,0.0612,0.994,0.912,0.119,0.161,118.281,273500,instrumental
+Dilia,The Giant,66,2TOQzMaEqVVhdeheBVLOMm,spotify:track:2TOQzMaEqVVhdeheBVLOMm,0.565,0.0843,-24.145,0.0448,0.994,0.947,0.12,0.44,86.022,183686,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Hushed,Hibernation,66,7AcNOiZhA5jRxCp5c3wOyz,spotify:track:7AcNOiZhA5jRxCp5c3wOyz,0.27,0.0205,-29.372,0.0359,0.927,0.91,0.113,0.109,69.882,216678,instrumental
+Novo Talos,For the Love of Love,67,7KWhxUrK9ofPTn3ItWceR5,spotify:track:7KWhxUrK9ofPTn3ItWceR5,0.321,0.0258,-27.129,0.0454,0.995,0.915,0.137,0.255,67.535,143251,instrumental
+Elenor Fuchs,The Sacrament,65,7JDeCzVl0C9cqqTxqaFhU9,spotify:track:7JDeCzVl0C9cqqTxqaFhU9,0.508,0.0666,-28.189,0.0508,0.993,0.931,0.108,0.323,179.888,135805,instrumental
+Yonder Dale,Benevolent,66,6PySB4GoTTMKXhH4Ksaugj,spotify:track:6PySB4GoTTMKXhH4Ksaugj,0.121,0.194,-17.193,0.0356,0.911,0.854,0.11,0.257,83.747,188459,instrumental
+Gavin Luke,Night Walk,68,0ePG8cXgoLfOqVYVX8Ju6a,spotify:track:0ePG8cXgoLfOqVYVX8Ju6a,0.249,0.128,-19.254,0.0408,0.978,0.922,0.109,0.388,170.246,140586,instrumental
+Elisa Mosel,Fields Of Gold,67,61FnfOx61kMlzmVfbl5Jtx,spotify:track:61FnfOx61kMlzmVfbl5Jtx,0.562,0.0206,-19.857,0.0426,0.995,0.93,0.108,0.207,72.953,188473,instrumental
+Vulfpeck,Back Pocket,63,1DrlLvlYd1FIjNavRm6NdX,spotify:track:1DrlLvlYd1FIjNavRm6NdX,0.839,0.585,-7.738,0.153,0.478,0.00281,0.0435,0.89,89.821,181260,instrumental
+The Harpeurs,Brahms Lullaby,65,1w8KJUP2hZ57CbJq7Z1cBD,spotify:track:1w8KJUP2hZ57CbJq7Z1cBD,0.565,0.0357,-18.991,0.0722,0.991,0.946,0.113,0.516,66.007,94059,instrumental
+Victor Kovacs,Little Rosebud,64,7Lj94wIntLirwCw5OikPs5,spotify:track:7Lj94wIntLirwCw5OikPs5,0.603,0.0563,-22.513,0.105,0.995,0.955,0.103,0.385,129.278,199750,instrumental
+Martin Lindgaarden,Montauk,65,0eQZinXiAeZ75SRcJwuweI,spotify:track:0eQZinXiAeZ75SRcJwuweI,0.378,0.0369,-25.859,0.0369,0.99,0.896,0.101,0.12,71.997,178974,instrumental
+Alan Ellis,Circadian,68,3bb6awuqz2ZJggqGtvPVYE,spotify:track:3bb6awuqz2ZJggqGtvPVYE,0.215,0.0441,-24.86,0.0362,0.976,0.901,0.0818,0.0378,94.123,172208,instrumental
+Mingmei Hsueh,Tomorrow,66,3ansqkO7A68z6xDhErpKpi,spotify:track:3ansqkO7A68z6xDhErpKpi,0.459,0.0657,-26.683,0.0688,0.995,0.963,0.0938,0.368,116.737,198000,instrumental
+Sarah Michaels,Rubber Duckie,64,4KGIoolaZRwbLi0BivExPb,spotify:track:4KGIoolaZRwbLi0BivExPb,0.511,0.00813,-28.612,0.0905,0.996,0.956,0.109,0.313,68.265,152015,instrumental
+Victor Kovacs,Forget Me Not,64,2ezPqb8CcWlb8xEVYV9St2,spotify:track:2ezPqb8CcWlb8xEVYV9St2,0.516,0.0661,-24.948,0.074,0.994,0.956,0.0893,0.44,133.989,189500,instrumental
+Ludovico Sagese,"Row, row, row your boat",67,2LktcIchl4v0rPXWvwBNlc,spotify:track:2LktcIchl4v0rPXWvwBNlc,0.491,0.0509,-27.587,0.0509,0.995,0.945,0.117,0.561,94.146,72000,instrumental
+Oliver Évilo,Jupiter Sunrise,68,1tQKUYjY3h950XByYm0ZAf,spotify:track:1tQKUYjY3h950XByYm0ZAf,0.21,0.00385,-37.141,0.0348,0.992,0.95,0.0738,0.114,107.116,178402,instrumental
+Karen Elf,Beauty And The Beast,67,4cuhDcdaWgkvoSaj016y6T,spotify:track:4cuhDcdaWgkvoSaj016y6T,0.431,0.0353,-23.003,0.0612,0.994,0.912,0.119,0.161,118.281,273500,instrumental
+Dilia,The Giant,66,2TOQzMaEqVVhdeheBVLOMm,spotify:track:2TOQzMaEqVVhdeheBVLOMm,0.565,0.0843,-24.145,0.0448,0.994,0.947,0.12,0.44,86.022,183686,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Hushed,Hibernation,66,7AcNOiZhA5jRxCp5c3wOyz,spotify:track:7AcNOiZhA5jRxCp5c3wOyz,0.27,0.0205,-29.372,0.0359,0.927,0.91,0.113,0.109,69.882,216678,instrumental
+Novo Talos,For the Love of Love,67,7KWhxUrK9ofPTn3ItWceR5,spotify:track:7KWhxUrK9ofPTn3ItWceR5,0.321,0.0258,-27.129,0.0454,0.995,0.915,0.137,0.255,67.535,143251,instrumental
+Elenor Fuchs,The Sacrament,65,7JDeCzVl0C9cqqTxqaFhU9,spotify:track:7JDeCzVl0C9cqqTxqaFhU9,0.508,0.0666,-28.189,0.0508,0.993,0.931,0.108,0.323,179.888,135805,instrumental
+Yonder Dale,Benevolent,66,6PySB4GoTTMKXhH4Ksaugj,spotify:track:6PySB4GoTTMKXhH4Ksaugj,0.121,0.194,-17.193,0.0356,0.911,0.854,0.11,0.257,83.747,188459,instrumental
+Gavin Luke,Night Walk,68,0ePG8cXgoLfOqVYVX8Ju6a,spotify:track:0ePG8cXgoLfOqVYVX8Ju6a,0.249,0.128,-19.254,0.0408,0.978,0.922,0.109,0.388,170.246,140586,instrumental
+Elisa Mosel,Fields Of Gold,67,61FnfOx61kMlzmVfbl5Jtx,spotify:track:61FnfOx61kMlzmVfbl5Jtx,0.562,0.0206,-19.857,0.0426,0.995,0.93,0.108,0.207,72.953,188473,instrumental
+Vulfpeck,Back Pocket,63,1DrlLvlYd1FIjNavRm6NdX,spotify:track:1DrlLvlYd1FIjNavRm6NdX,0.839,0.585,-7.738,0.153,0.478,0.00281,0.0435,0.89,89.821,181260,instrumental
+The Harpeurs,Brahms Lullaby,65,1w8KJUP2hZ57CbJq7Z1cBD,spotify:track:1w8KJUP2hZ57CbJq7Z1cBD,0.565,0.0357,-18.991,0.0722,0.991,0.946,0.113,0.516,66.007,94059,instrumental
+Victor Kovacs,Little Rosebud,64,7Lj94wIntLirwCw5OikPs5,spotify:track:7Lj94wIntLirwCw5OikPs5,0.603,0.0563,-22.513,0.105,0.995,0.955,0.103,0.385,129.278,199750,instrumental
+Martin Lindgaarden,Montauk,65,0eQZinXiAeZ75SRcJwuweI,spotify:track:0eQZinXiAeZ75SRcJwuweI,0.378,0.0369,-25.859,0.0369,0.99,0.896,0.101,0.12,71.997,178974,instrumental
+Alan Ellis,Circadian,68,3bb6awuqz2ZJggqGtvPVYE,spotify:track:3bb6awuqz2ZJggqGtvPVYE,0.215,0.0441,-24.86,0.0362,0.976,0.901,0.0818,0.0378,94.123,172208,instrumental
+Mingmei Hsueh,Tomorrow,66,3ansqkO7A68z6xDhErpKpi,spotify:track:3ansqkO7A68z6xDhErpKpi,0.459,0.0657,-26.683,0.0688,0.995,0.963,0.0938,0.368,116.737,198000,instrumental
+Sarah Michaels,Rubber Duckie,64,4KGIoolaZRwbLi0BivExPb,spotify:track:4KGIoolaZRwbLi0BivExPb,0.511,0.00813,-28.612,0.0905,0.996,0.956,0.109,0.313,68.265,152015,instrumental
+Victor Kovacs,Forget Me Not,64,2ezPqb8CcWlb8xEVYV9St2,spotify:track:2ezPqb8CcWlb8xEVYV9St2,0.516,0.0661,-24.948,0.074,0.994,0.956,0.0893,0.44,133.989,189500,instrumental
+Alma Grøtte,Carpe Noctem,65,6VpiWp5wBEjHTYWojGEqxY,spotify:track:6VpiWp5wBEjHTYWojGEqxY,0.22,0.0145,-32.107,0.0421,0.99,0.922,0.0929,0.156,65.623,187500,instrumental
+Oliver Évilo,Jupiter Sunrise,68,1tQKUYjY3h950XByYm0ZAf,spotify:track:1tQKUYjY3h950XByYm0ZAf,0.21,0.00385,-37.141,0.0348,0.992,0.95,0.0738,0.114,107.116,178402,instrumental
+Karen Elf,Beauty And The Beast,67,4cuhDcdaWgkvoSaj016y6T,spotify:track:4cuhDcdaWgkvoSaj016y6T,0.431,0.0353,-23.003,0.0612,0.994,0.912,0.119,0.161,118.281,273500,instrumental
+Dilia,The Giant,66,2TOQzMaEqVVhdeheBVLOMm,spotify:track:2TOQzMaEqVVhdeheBVLOMm,0.565,0.0843,-24.145,0.0448,0.994,0.947,0.12,0.44,86.022,183686,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Hushed,Hibernation,66,7AcNOiZhA5jRxCp5c3wOyz,spotify:track:7AcNOiZhA5jRxCp5c3wOyz,0.27,0.0205,-29.372,0.0359,0.927,0.91,0.113,0.109,69.882,216678,instrumental
+Novo Talos,For the Love of Love,67,7KWhxUrK9ofPTn3ItWceR5,spotify:track:7KWhxUrK9ofPTn3ItWceR5,0.321,0.0258,-27.129,0.0454,0.995,0.915,0.137,0.255,67.535,143251,instrumental
+Elenor Fuchs,The Sacrament,65,7JDeCzVl0C9cqqTxqaFhU9,spotify:track:7JDeCzVl0C9cqqTxqaFhU9,0.508,0.0666,-28.189,0.0508,0.993,0.931,0.108,0.323,179.888,135805,instrumental
+Yonder Dale,Benevolent,66,6PySB4GoTTMKXhH4Ksaugj,spotify:track:6PySB4GoTTMKXhH4Ksaugj,0.121,0.194,-17.193,0.0356,0.911,0.854,0.11,0.257,83.747,188459,instrumental
+Gavin Luke,Night Walk,68,0ePG8cXgoLfOqVYVX8Ju6a,spotify:track:0ePG8cXgoLfOqVYVX8Ju6a,0.249,0.128,-19.254,0.0408,0.978,0.922,0.109,0.388,170.246,140586,instrumental
+Elisa Mosel,Fields Of Gold,67,61FnfOx61kMlzmVfbl5Jtx,spotify:track:61FnfOx61kMlzmVfbl5Jtx,0.562,0.0206,-19.857,0.0426,0.995,0.93,0.108,0.207,72.953,188473,instrumental
+Vulfpeck,Back Pocket,63,1DrlLvlYd1FIjNavRm6NdX,spotify:track:1DrlLvlYd1FIjNavRm6NdX,0.839,0.585,-7.738,0.153,0.478,0.00281,0.0435,0.89,89.821,181260,instrumental
+The Harpeurs,Brahms Lullaby,65,1w8KJUP2hZ57CbJq7Z1cBD,spotify:track:1w8KJUP2hZ57CbJq7Z1cBD,0.565,0.0357,-18.991,0.0722,0.991,0.946,0.113,0.516,66.007,94059,instrumental
+Victor Kovacs,Little Rosebud,64,7Lj94wIntLirwCw5OikPs5,spotify:track:7Lj94wIntLirwCw5OikPs5,0.603,0.0563,-22.513,0.105,0.995,0.955,0.103,0.385,129.278,199750,instrumental
+Martin Lindgaarden,Montauk,65,0eQZinXiAeZ75SRcJwuweI,spotify:track:0eQZinXiAeZ75SRcJwuweI,0.378,0.0369,-25.859,0.0369,0.99,0.896,0.101,0.12,71.997,178974,instrumental
+Alan Ellis,Circadian,68,3bb6awuqz2ZJggqGtvPVYE,spotify:track:3bb6awuqz2ZJggqGtvPVYE,0.215,0.0441,-24.86,0.0362,0.976,0.901,0.0818,0.0378,94.123,172208,instrumental
+Mingmei Hsueh,Tomorrow,66,3ansqkO7A68z6xDhErpKpi,spotify:track:3ansqkO7A68z6xDhErpKpi,0.459,0.0657,-26.683,0.0688,0.995,0.963,0.0938,0.368,116.737,198000,instrumental
+Sarah Michaels,Rubber Duckie,64,4KGIoolaZRwbLi0BivExPb,spotify:track:4KGIoolaZRwbLi0BivExPb,0.511,0.00813,-28.612,0.0905,0.996,0.956,0.109,0.313,68.265,152015,instrumental
+Victor Kovacs,Forget Me Not,64,2ezPqb8CcWlb8xEVYV9St2,spotify:track:2ezPqb8CcWlb8xEVYV9St2,0.516,0.0661,-24.948,0.074,0.994,0.956,0.0893,0.44,133.989,189500,instrumental
+Alma Grøtte,Carpe Noctem,65,6VpiWp5wBEjHTYWojGEqxY,spotify:track:6VpiWp5wBEjHTYWojGEqxY,0.22,0.0145,-32.107,0.0421,0.99,0.922,0.0929,0.156,65.623,187500,instrumental
+Booker T. & the M.G.'s,Green Onions,66,4fQMGlCawbTkH9yPPZ49kP,spotify:track:4fQMGlCawbTkH9yPPZ49kP,0.816,0.514,-8.741,0.0339,0.767,0.949,0.0899,0.912,136.837,176333,instrumental
+Karen Elf,Beauty And The Beast,67,4cuhDcdaWgkvoSaj016y6T,spotify:track:4cuhDcdaWgkvoSaj016y6T,0.431,0.0353,-23.003,0.0612,0.994,0.912,0.119,0.161,118.281,273500,instrumental
+Dilia,The Giant,66,2TOQzMaEqVVhdeheBVLOMm,spotify:track:2TOQzMaEqVVhdeheBVLOMm,0.565,0.0843,-24.145,0.0448,0.994,0.947,0.12,0.44,86.022,183686,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Hushed,Hibernation,66,7AcNOiZhA5jRxCp5c3wOyz,spotify:track:7AcNOiZhA5jRxCp5c3wOyz,0.27,0.0205,-29.372,0.0359,0.927,0.91,0.113,0.109,69.882,216678,instrumental
+Novo Talos,For the Love of Love,67,7KWhxUrK9ofPTn3ItWceR5,spotify:track:7KWhxUrK9ofPTn3ItWceR5,0.321,0.0258,-27.129,0.0454,0.995,0.915,0.137,0.255,67.535,143251,instrumental
+Elenor Fuchs,The Sacrament,65,7JDeCzVl0C9cqqTxqaFhU9,spotify:track:7JDeCzVl0C9cqqTxqaFhU9,0.508,0.0666,-28.189,0.0508,0.993,0.931,0.108,0.323,179.888,135805,instrumental
+Yonder Dale,Benevolent,66,6PySB4GoTTMKXhH4Ksaugj,spotify:track:6PySB4GoTTMKXhH4Ksaugj,0.121,0.194,-17.193,0.0356,0.911,0.854,0.11,0.257,83.747,188459,instrumental
+Gavin Luke,Night Walk,68,0ePG8cXgoLfOqVYVX8Ju6a,spotify:track:0ePG8cXgoLfOqVYVX8Ju6a,0.249,0.128,-19.254,0.0408,0.978,0.922,0.109,0.388,170.246,140586,instrumental
+Elisa Mosel,Fields Of Gold,67,61FnfOx61kMlzmVfbl5Jtx,spotify:track:61FnfOx61kMlzmVfbl5Jtx,0.562,0.0206,-19.857,0.0426,0.995,0.93,0.108,0.207,72.953,188473,instrumental
+Vulfpeck,Back Pocket,63,1DrlLvlYd1FIjNavRm6NdX,spotify:track:1DrlLvlYd1FIjNavRm6NdX,0.839,0.585,-7.738,0.153,0.478,0.00281,0.0435,0.89,89.821,181260,instrumental
+The Harpeurs,Brahms Lullaby,65,1w8KJUP2hZ57CbJq7Z1cBD,spotify:track:1w8KJUP2hZ57CbJq7Z1cBD,0.565,0.0357,-18.991,0.0722,0.991,0.946,0.113,0.516,66.007,94059,instrumental
+Victor Kovacs,Little Rosebud,64,7Lj94wIntLirwCw5OikPs5,spotify:track:7Lj94wIntLirwCw5OikPs5,0.603,0.0563,-22.513,0.105,0.995,0.955,0.103,0.385,129.278,199750,instrumental
+Martin Lindgaarden,Montauk,65,0eQZinXiAeZ75SRcJwuweI,spotify:track:0eQZinXiAeZ75SRcJwuweI,0.378,0.0369,-25.859,0.0369,0.99,0.896,0.101,0.12,71.997,178974,instrumental
+Alan Ellis,Circadian,68,3bb6awuqz2ZJggqGtvPVYE,spotify:track:3bb6awuqz2ZJggqGtvPVYE,0.215,0.0441,-24.86,0.0362,0.976,0.901,0.0818,0.0378,94.123,172208,instrumental
+Mingmei Hsueh,Tomorrow,66,3ansqkO7A68z6xDhErpKpi,spotify:track:3ansqkO7A68z6xDhErpKpi,0.459,0.0657,-26.683,0.0688,0.995,0.963,0.0938,0.368,116.737,198000,instrumental
+Sarah Michaels,Rubber Duckie,64,4KGIoolaZRwbLi0BivExPb,spotify:track:4KGIoolaZRwbLi0BivExPb,0.511,0.00813,-28.612,0.0905,0.996,0.956,0.109,0.313,68.265,152015,instrumental
+Victor Kovacs,Forget Me Not,64,2ezPqb8CcWlb8xEVYV9St2,spotify:track:2ezPqb8CcWlb8xEVYV9St2,0.516,0.0661,-24.948,0.074,0.994,0.956,0.0893,0.44,133.989,189500,instrumental
+Alma Grøtte,Carpe Noctem,65,6VpiWp5wBEjHTYWojGEqxY,spotify:track:6VpiWp5wBEjHTYWojGEqxY,0.22,0.0145,-32.107,0.0421,0.99,0.922,0.0929,0.156,65.623,187500,instrumental
+Booker T. & the M.G.'s,Green Onions,66,4fQMGlCawbTkH9yPPZ49kP,spotify:track:4fQMGlCawbTkH9yPPZ49kP,0.816,0.514,-8.741,0.0339,0.767,0.949,0.0899,0.912,136.837,176333,instrumental
+Ever So Blue,Onthou,67,0CoSBNNeO8JgayAfLttECk,spotify:track:0CoSBNNeO8JgayAfLttECk,0.307,0.05,-27.964,0.0345,0.996,0.94,0.105,0.41,138.484,128333,instrumental
+Dilia,The Giant,66,2TOQzMaEqVVhdeheBVLOMm,spotify:track:2TOQzMaEqVVhdeheBVLOMm,0.565,0.0843,-24.145,0.0448,0.994,0.947,0.12,0.44,86.022,183686,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Hushed,Hibernation,66,7AcNOiZhA5jRxCp5c3wOyz,spotify:track:7AcNOiZhA5jRxCp5c3wOyz,0.27,0.0205,-29.372,0.0359,0.927,0.91,0.113,0.109,69.882,216678,instrumental
+Novo Talos,For the Love of Love,67,7KWhxUrK9ofPTn3ItWceR5,spotify:track:7KWhxUrK9ofPTn3ItWceR5,0.321,0.0258,-27.129,0.0454,0.995,0.915,0.137,0.255,67.535,143251,instrumental
+Elenor Fuchs,The Sacrament,65,7JDeCzVl0C9cqqTxqaFhU9,spotify:track:7JDeCzVl0C9cqqTxqaFhU9,0.508,0.0666,-28.189,0.0508,0.993,0.931,0.108,0.323,179.888,135805,instrumental
+Yonder Dale,Benevolent,66,6PySB4GoTTMKXhH4Ksaugj,spotify:track:6PySB4GoTTMKXhH4Ksaugj,0.121,0.194,-17.193,0.0356,0.911,0.854,0.11,0.257,83.747,188459,instrumental
+Gavin Luke,Night Walk,68,0ePG8cXgoLfOqVYVX8Ju6a,spotify:track:0ePG8cXgoLfOqVYVX8Ju6a,0.249,0.128,-19.254,0.0408,0.978,0.922,0.109,0.388,170.246,140586,instrumental
+Elisa Mosel,Fields Of Gold,67,61FnfOx61kMlzmVfbl5Jtx,spotify:track:61FnfOx61kMlzmVfbl5Jtx,0.562,0.0206,-19.857,0.0426,0.995,0.93,0.108,0.207,72.953,188473,instrumental
+Vulfpeck,Back Pocket,63,1DrlLvlYd1FIjNavRm6NdX,spotify:track:1DrlLvlYd1FIjNavRm6NdX,0.839,0.585,-7.738,0.153,0.478,0.00281,0.0435,0.89,89.821,181260,instrumental
+The Harpeurs,Brahms Lullaby,65,1w8KJUP2hZ57CbJq7Z1cBD,spotify:track:1w8KJUP2hZ57CbJq7Z1cBD,0.565,0.0357,-18.991,0.0722,0.991,0.946,0.113,0.516,66.007,94059,instrumental
+Victor Kovacs,Little Rosebud,64,7Lj94wIntLirwCw5OikPs5,spotify:track:7Lj94wIntLirwCw5OikPs5,0.603,0.0563,-22.513,0.105,0.995,0.955,0.103,0.385,129.278,199750,instrumental
+Martin Lindgaarden,Montauk,65,0eQZinXiAeZ75SRcJwuweI,spotify:track:0eQZinXiAeZ75SRcJwuweI,0.378,0.0369,-25.859,0.0369,0.99,0.896,0.101,0.12,71.997,178974,instrumental
+Alan Ellis,Circadian,68,3bb6awuqz2ZJggqGtvPVYE,spotify:track:3bb6awuqz2ZJggqGtvPVYE,0.215,0.0441,-24.86,0.0362,0.976,0.901,0.0818,0.0378,94.123,172208,instrumental
+Mingmei Hsueh,Tomorrow,66,3ansqkO7A68z6xDhErpKpi,spotify:track:3ansqkO7A68z6xDhErpKpi,0.459,0.0657,-26.683,0.0688,0.995,0.963,0.0938,0.368,116.737,198000,instrumental
+Sarah Michaels,Rubber Duckie,64,4KGIoolaZRwbLi0BivExPb,spotify:track:4KGIoolaZRwbLi0BivExPb,0.511,0.00813,-28.612,0.0905,0.996,0.956,0.109,0.313,68.265,152015,instrumental
+Victor Kovacs,Forget Me Not,64,2ezPqb8CcWlb8xEVYV9St2,spotify:track:2ezPqb8CcWlb8xEVYV9St2,0.516,0.0661,-24.948,0.074,0.994,0.956,0.0893,0.44,133.989,189500,instrumental
+Alma Grøtte,Carpe Noctem,65,6VpiWp5wBEjHTYWojGEqxY,spotify:track:6VpiWp5wBEjHTYWojGEqxY,0.22,0.0145,-32.107,0.0421,0.99,0.922,0.0929,0.156,65.623,187500,instrumental
+Booker T. & the M.G.'s,Green Onions,66,4fQMGlCawbTkH9yPPZ49kP,spotify:track:4fQMGlCawbTkH9yPPZ49kP,0.816,0.514,-8.741,0.0339,0.767,0.949,0.0899,0.912,136.837,176333,instrumental
+Ever So Blue,Onthou,67,0CoSBNNeO8JgayAfLttECk,spotify:track:0CoSBNNeO8JgayAfLttECk,0.307,0.05,-27.964,0.0345,0.996,0.94,0.105,0.41,138.484,128333,instrumental
+Johann Eder,Slowly Relaxing,66,19iBXrL3jjNmm4oDaozXWA,spotify:track:19iBXrL3jjNmm4oDaozXWA,0.243,0.0255,-26.055,0.0371,0.987,0.943,0.0889,0.0854,79.161,201559,instrumental
+Floriscope,Floriscope,67,45HRj3YdVgAOLbkSRiJ4l3,spotify:track:45HRj3YdVgAOLbkSRiJ4l3,0.419,0.0168,-26.478,0.0379,0.969,0.939,0.111,0.278,63.238,175083,instrumental
+Mingmei Hsueh,Itsy bitsy spider,68,1oMUYmXy85ZOQGZ2fylBiN,spotify:track:1oMUYmXy85ZOQGZ2fylBiN,0.452,0.0238,-27.5,0.0622,0.995,0.966,0.154,0.36,109.71,82500,instrumental
+Tine Mydland,Et øyeblikk,68,4wwtlq6dqi0ztt989n4yiQ,spotify:track:4wwtlq6dqi0ztt989n4yiQ,0.24,0.00495,-33.827,0.0385,0.995,0.892,0.146,0.0962,70.405,161000,instrumental
+Ludovico Sagese,Colors of the Wind,66,4EcOCD3uek9lYY87NmqFOZ,spotify:track:4EcOCD3uek9lYY87NmqFOZ,0.414,0.0874,-26.017,0.0521,0.996,0.965,0.0988,0.414,140.352,231500,instrumental
+Ana Olgica,Sugarcane,71,6uWjjaiquXsjuQuks2mZME,spotify:track:6uWjjaiquXsjuQuks2mZME,0.361,0.0165,-27.874,0.0615,0.995,0.967,0.0834,0.452,114.346,144500,instrumental
+Vala Capon,Quando sorridi,68,4tJLqa4zHZmoBrkdZu2IFY,spotify:track:4tJLqa4zHZmoBrkdZu2IFY,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,123000,instrumental
+Josep Alba,Dulces Sueños,67,4xYu3ms4RRPwYjoZV7qEPl,spotify:track:4xYu3ms4RRPwYjoZV7qEPl,0.158,0.153,-19.448,0.0346,0.679,0.901,0.108,0.0655,89.467,245514,instrumental
+Clyde Boudreaux,Nepenthe,68,0kKOC50fPTnqmrYvtJInsT,spotify:track:0kKOC50fPTnqmrYvtJInsT,0.133,0.00512,-33.295,0.038,0.993,0.851,0.0954,0.0495,67.818,151750,instrumental
+Naturally Recurring,Finding Calmness,68,5ca7B7Qi2gpzPELK9lBab0,spotify:track:5ca7B7Qi2gpzPELK9lBab0,0.225,0.0131,-29.096,0.0405,0.976,0.958,0.0864,0.0762,64.27,208889,instrumental
+Snow in April,Magnolia,66,3qKSYY6Sds4jltPME6UFMm,spotify:track:3qKSYY6Sds4jltPME6UFMm,0.332,0.0219,-21.982,0.0426,0.993,0.922,0.104,0.283,167.371,148407,instrumental
+Naturally Recurring,Stage One,63,6KhZZFUgJZhDLjom4kkHwF,spotify:track:6KhZZFUgJZhDLjom4kkHwF,0.235,0.0282,-33.656,0.0443,0.922,0.911,0.0826,0.192,121.39,206769,instrumental
+Leah Maur,For now,68,1IdZJSn4MgU8nGWVQGm25D,spotify:track:1IdZJSn4MgU8nGWVQGm25D,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,161312,instrumental
+Yonder Dale,Tidal Flow,69,63yQS5uf762DJHLssPlrNw,spotify:track:63yQS5uf762DJHLssPlrNw,0.142,0.0412,-22.866,0.0466,0.963,0.813,0.129,0.0369,67.3,162625,instrumental
+Floriscope,Petals,66,4EQeE98JeOcxg9YI5k8WV1,spotify:track:4EQeE98JeOcxg9YI5k8WV1,0.426,0.0285,-23.47,0.0379,0.991,0.938,0.0913,0.312,73.849,157980,instrumental
+Eamonn Watt,Reflections,65,77acERwsT7ckC0hF1ehvUA,spotify:track:77acERwsT7ckC0hF1ehvUA,0.257,0.0328,-31.575,0.0446,0.995,0.776,0.107,0.146,110.289,207288,instrumental
+Artemio Li Fonti,Chiudete Gli Occhi,68,1pFCkU2BQHr0mJIj05KXSD,spotify:track:1pFCkU2BQHr0mJIj05KXSD,0.256,0.00486,-33.197,0.0403,0.993,0.872,0.111,0.058,68.869,232750,instrumental
+Sufi Ellman,Bliss,65,7eEwlmgLLzzWGR1YNuQfDN,spotify:track:7eEwlmgLLzzWGR1YNuQfDN,0.365,0.0333,-22.649,0.0396,0.994,0.909,0.11,0.54,68.63,135903,instrumental
+Eamonn Watt,A Simple Little Lullaby,64,0If3zfg7N68SAaDgPAQa9l,spotify:track:0If3zfg7N68SAaDgPAQa9l,0.387,0.00487,-33.84,0.0584,0.996,0.957,0.0883,0.212,70.309,160435,instrumental
+Arush Mandal,Senses,63,6RPK5949LC9dFh7ryREN17,spotify:track:6RPK5949LC9dFh7ryREN17,0.15,0.0883,-22.406,0.0418,0.931,0.95,0.121,0.0392,137.014,148338,instrumental
+Ronald Emery,Ho hey,67,2ahwerIzRcGeSMQnZ2DDJa,spotify:track:2ahwerIzRcGeSMQnZ2DDJa,0.394,0.0281,-23.71,0.0666,0.995,0.969,0.108,0.301,200.615,212400,instrumental
+Alexis Ffrench,Dreamland - Solo Piano Version,67,7IOW37zJgduauyHWdihAnl,spotify:track:7IOW37zJgduauyHWdihAnl,0.238,0.0848,-22.482,0.0357,0.985,0.898,0.133,0.168,167.506,161258,instrumental
+Ronald Emery,Say You Wont Let Go,67,4eyOZVDzYlVslh6POZ9AVP,spotify:track:4eyOZVDzYlVslh6POZ9AVP,0.514,0.0282,-20.249,0.0693,0.995,0.95,0.111,0.244,96.015,230000,instrumental
+Charles Conte,When A Child Is Born,65,1QZWQNbo6aupLs38M2M1bY,spotify:track:1QZWQNbo6aupLs38M2M1bY,0.407,0.0299,-29.699,0.036,0.994,0.878,0.0922,0.269,119.75,136833,instrumental
+Arush Mandal,Way of Life,68,7gGiPzciQGoxl8NfE5alBj,spotify:track:7gGiPzciQGoxl8NfE5alBj,0.0793,0.163,-22.164,0.0368,0.867,0.908,0.0932,0.0347,76.074,201436,instrumental
+Claes Nilsson,The Sleeper,64,1BpAKG4TNBqkgtv33pQySC,spotify:track:1BpAKG4TNBqkgtv33pQySC,0.178,0.00986,-24.757,0.0403,0.993,0.802,0.112,0.0911,92.709,159071,instrumental
+Josep Alba,Getting Dark,67,1kCFx8lNstjQwXGBmKnciW,spotify:track:1kCFx8lNstjQwXGBmKnciW,0.117,0.121,-22.695,0.047,0.781,0.816,0.101,0.0383,85.191,216620,instrumental
+Samira Tesfay,Harmonious,66,0w1kQy9x8W7yA299gFLhLn,spotify:track:0w1kQy9x8W7yA299gFLhLn,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,236750,instrumental
+Eamonn Watt,Nightfall,64,2i84Ikz9GSlL02qdOQWf8e,spotify:track:2i84Ikz9GSlL02qdOQWf8e,0.36,0.00867,-38.123,0.0633,0.994,0.939,0.111,0.253,67.162,164719,instrumental
+Rand Aldo,Between Moments,67,7IeAd6rhMU9zMG0wccZbwb,spotify:track:7IeAd6rhMU9zMG0wccZbwb,0.273,0.0065,-27.214,0.0366,0.973,0.946,0.112,0.234,63.427,116500,instrumental
+Claes Nilsson,Beyond Barricades,64,6tLFPu4tSmS5LccfUNtbN6,spotify:track:6tLFPu4tSmS5LccfUNtbN6,0.115,0.0197,-25.263,0.0375,0.966,0.928,0.195,0.0651,78.449,168857,instrumental
+Ludovico Sagese,Hänschen klein,64,3TVWQ5JitUqM6bocliOUam,spotify:track:3TVWQ5JitUqM6bocliOUam,0.555,0.0799,-25.547,0.12,0.995,0.968,0.0998,0.445,117.326,80250,instrumental
+Hushed,Hibernation,66,7AcNOiZhA5jRxCp5c3wOyz,spotify:track:7AcNOiZhA5jRxCp5c3wOyz,0.27,0.0205,-29.372,0.0359,0.927,0.91,0.113,0.109,69.882,216678,instrumental
+Novo Talos,For the Love of Love,67,7KWhxUrK9ofPTn3ItWceR5,spotify:track:7KWhxUrK9ofPTn3ItWceR5,0.321,0.0258,-27.129,0.0454,0.995,0.915,0.137,0.255,67.535,143251,instrumental
+Elenor Fuchs,The Sacrament,65,7JDeCzVl0C9cqqTxqaFhU9,spotify:track:7JDeCzVl0C9cqqTxqaFhU9,0.508,0.0666,-28.189,0.0508,0.993,0.931,0.108,0.323,179.888,135805,instrumental
+Yonder Dale,Benevolent,66,6PySB4GoTTMKXhH4Ksaugj,spotify:track:6PySB4GoTTMKXhH4Ksaugj,0.121,0.194,-17.193,0.0356,0.911,0.854,0.11,0.257,83.747,188459,instrumental
+Gavin Luke,Night Walk,68,0ePG8cXgoLfOqVYVX8Ju6a,spotify:track:0ePG8cXgoLfOqVYVX8Ju6a,0.249,0.128,-19.254,0.0408,0.978,0.922,0.109,0.388,170.246,140586,instrumental
+Elisa Mosel,Fields Of Gold,67,61FnfOx61kMlzmVfbl5Jtx,spotify:track:61FnfOx61kMlzmVfbl5Jtx,0.562,0.0206,-19.857,0.0426,0.995,0.93,0.108,0.207,72.953,188473,instrumental
+Vulfpeck,Back Pocket,63,1DrlLvlYd1FIjNavRm6NdX,spotify:track:1DrlLvlYd1FIjNavRm6NdX,0.839,0.585,-7.738,0.153,0.478,0.00281,0.0435,0.89,89.821,181260,instrumental
+The Harpeurs,Brahms Lullaby,65,1w8KJUP2hZ57CbJq7Z1cBD,spotify:track:1w8KJUP2hZ57CbJq7Z1cBD,0.565,0.0357,-18.991,0.0722,0.991,0.946,0.113,0.516,66.007,94059,instrumental
+Victor Kovacs,Little Rosebud,64,7Lj94wIntLirwCw5OikPs5,spotify:track:7Lj94wIntLirwCw5OikPs5,0.603,0.0563,-22.513,0.105,0.995,0.955,0.103,0.385,129.278,199750,instrumental
+Martin Lindgaarden,Montauk,65,0eQZinXiAeZ75SRcJwuweI,spotify:track:0eQZinXiAeZ75SRcJwuweI,0.378,0.0369,-25.859,0.0369,0.99,0.896,0.101,0.12,71.997,178974,instrumental
+Alan Ellis,Circadian,68,3bb6awuqz2ZJggqGtvPVYE,spotify:track:3bb6awuqz2ZJggqGtvPVYE,0.215,0.0441,-24.86,0.0362,0.976,0.901,0.0818,0.0378,94.123,172208,instrumental
+Mingmei Hsueh,Tomorrow,66,3ansqkO7A68z6xDhErpKpi,spotify:track:3ansqkO7A68z6xDhErpKpi,0.459,0.0657,-26.683,0.0688,0.995,0.963,0.0938,0.368,116.737,198000,instrumental
+Sarah Michaels,Rubber Duckie,64,4KGIoolaZRwbLi0BivExPb,spotify:track:4KGIoolaZRwbLi0BivExPb,0.511,0.00813,-28.612,0.0905,0.996,0.956,0.109,0.313,68.265,152015,instrumental
+Victor Kovacs,Forget Me Not,64,2ezPqb8CcWlb8xEVYV9St2,spotify:track:2ezPqb8CcWlb8xEVYV9St2,0.516,0.0661,-24.948,0.074,0.994,0.956,0.0893,0.44,133.989,189500,instrumental
+Alma Grøtte,Carpe Noctem,65,6VpiWp5wBEjHTYWojGEqxY,spotify:track:6VpiWp5wBEjHTYWojGEqxY,0.22,0.0145,-32.107,0.0421,0.99,0.922,0.0929,0.156,65.623,187500,instrumental
+Booker T. & the M.G.'s,Green Onions,66,4fQMGlCawbTkH9yPPZ49kP,spotify:track:4fQMGlCawbTkH9yPPZ49kP,0.816,0.514,-8.741,0.0339,0.767,0.949,0.0899,0.912,136.837,176333,instrumental
+Ever So Blue,Onthou,67,0CoSBNNeO8JgayAfLttECk,spotify:track:0CoSBNNeO8JgayAfLttECk,0.307,0.05,-27.964,0.0345,0.996,0.94,0.105,0.41,138.484,128333,instrumental
+Johann Eder,Slowly Relaxing,66,19iBXrL3jjNmm4oDaozXWA,spotify:track:19iBXrL3jjNmm4oDaozXWA,0.243,0.0255,-26.055,0.0371,0.987,0.943,0.0889,0.0854,79.161,201559,instrumental
+Bernard Dubicki,White Winter Hymnal - Piano,65,3J7iUsiftcjZxPfewt4jM6,spotify:track:3J7iUsiftcjZxPfewt4jM6,0.688,0.0195,-20.35,0.0567,0.996,0.957,0.095,0.293,132.225,209361,instrumental
