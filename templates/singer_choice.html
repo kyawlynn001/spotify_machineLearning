@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="../static/css/style.css">
+
+    <title>Find Your Music</title>
+  </head>
+  <body>
+    
+    <!-- Navbar -->
+    <nav class="navbar navbar-dark bg-dark fixed-top">
+        <a class="navbar-brand" href="/">
+          <img src="/static/images/spotify_logo_with_text.svg" class="navbar-logo" alt="">
+        </a>
+    </nav>
+    
+    
+    <div class="card p-5 mt-5">
+        <h3 class="card-header bg-dark white-font text-center">
+          Do you love woooooofing?
+        </h3>
+        
+        <div class="card-deck text-center">
+            <div class="card">
+            <img class="card-img-top img-options" src="/static/images/dog_play_piano.jpg" alt="">
+            <div class="card-body bg-dark">
+                <button type="button" class="btn btn-outline-info btn-block" id="musician-click">My paws are more talented</button>
+            </div>
+            </div>
+            <div class="card">
+            <img class="card-img-top img-options" src="/static/images/dog_singing.jpg" alt="">
+            <div class="card-body bg-dark">
+              <button type="button" class="btn btn-outline-warning btn-block" id="singer-click">Can't hold myself whenever my 911 friends passed the neighbourhood</button>
+            </div>
+            </div>
+        </div>
+        <br>
+        <br>
+        <!-- onclick="window.location.href='/result'" -->
+        <!-- <div>
+            <a href="/" class="btn spotify-green-background">Back</a>
+            
+        </div> -->
+        <br>
+
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="../static/js/collect_input.js" type="text/javascript"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <!-- <script>window.jQuery || document.write('<script src="{{ url_for('static', filename='jquery.js') }}">\x3C/script>')</script> -->
+    <script type=text/javascript>$SCRIPT_ROOT = {{ request.script_root|tojson|safe }};</script>
+  </body>
+</html>
